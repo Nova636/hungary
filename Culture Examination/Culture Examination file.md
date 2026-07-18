@@ -210,7 +210,7 @@ A vereség következményei:
 ### 2.1.11 Az első világháború (1914-1918)
 
 - Az Osztrák-Magyar Monarchia trónörökösét, Ferenc Ferdinándot és feleségét 1914. június 28-án Szarajevóban egy szerb nacionalista merénylő meggyilkolta.
-- 1914. július 28-án az Osztrák-Magyar Monarchia hadat üzent Szerbiának, ezzel kitört az első világháború, Európa országai hadba léptek.
+- 1914 július 28-án az Osztrák-Magyar Monarchia hadat üzent Szerbiának, ezzel kitört az első világháború, Európa országai hadba léptek.
 
 
 Egymással szemben álló hatalmak:
