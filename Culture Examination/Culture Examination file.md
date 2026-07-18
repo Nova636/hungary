@@ -4,6 +4,18 @@ Magyar kulturális ismereti vizsga
 
 
 # 1) Magyarország nemzeti jelképei és ünnepei 
+(címer, zászló, korona, Himnusz, Szózat, nemzeti ünnepek)
+## Nemzeti jelképek
+### A legfontosabb nemzeti jelképeink:
+- Zászló
+- Szent Korona
+- Himnusz
+- Magyarország címere
+
+### Magyarország címere
+- Vörössel és ezüsttel hétszer vágott mező
+- Kettős kereszt
+- Hármas halom, rajta korona
 
 
 
