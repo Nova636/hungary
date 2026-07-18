@@ -17,6 +17,10 @@ Magyar kulturális ismereti vizsga
 <br><br>
 
 ### 1.1.2 Magyarország címere
+<div align="center">
+  <img src="image002.png" width="100%" alt="Magyarország címere">
+</div>
+
 - Vörössel és ezüsttel hétszer vágott mező
 - Kettős kereszt
 - Hármas halom, rajta korona
