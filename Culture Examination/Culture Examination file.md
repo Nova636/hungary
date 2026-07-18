@@ -375,7 +375,7 @@ Egymással szemben álló hatalmak:
 <br><br>
 
 ![](image021.png) <br> 
-*Kiége􀆩 szovjet harckocsi 1956-ban*
+*Kiégett szovjet harckocsi 1956-ban*
 
 <br><br>
 <br><br>
@@ -386,6 +386,10 @@ Egymással szemben álló hatalmak:
 - 1990 tavaszán demokratikus, szabad parlamenti választásokat tartottak. Antall József  vezetésével  jobboldali  konzervatív kormány  alakult,  az  Országgyűlés  által megválasztott köztársasági elnök Göncz Árpád lett.
 - A szovjet csapatok 1991-ben hagyták el végleg az ország területét.
 
+<br><br>
+
+![](image022.png) <br> 
+*1989. június 16. Nagy Imre és már􀆡rtársainak ünnepélyes újratemetése*
 
 <br><br><br><br>
 
