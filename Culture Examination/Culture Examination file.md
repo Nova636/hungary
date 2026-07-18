@@ -31,6 +31,22 @@ Az egykori királyi hatalom jelképei, jelenleg nemzeti jelképeink részei.
 - Országalma                        
 - Koronázási palást
 
+A Szent Korona az Országházban tekinthető meg.
+
+### Egykori magyar koronázó városok
+
+- Buda
+- Esztergom
+- Pozsony
+- Sopron
+- Székesfehérvár
+
+
+> „Tiszteletben tartjuk történeti alkotmányunk vívmányait és a Szent Koronát, amely megtestesíti Magyarország alkotmányos állami folytonosságát és a nemzet egységét.”
+
+(Magyarország Alaptörvénye)
+
+
 
 
 # 2) Magyarország történelme
