@@ -17,7 +17,7 @@ Magyar kulturális ismereti vizsga
 <br><br>
 
 ### 1.1.2 Magyarország címere
-![](image002.png)
+image002.png
 
 - Vörössel és ezüsttel hétszer vágott mező
 - Kettős kereszt
