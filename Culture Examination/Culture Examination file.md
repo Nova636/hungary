@@ -126,9 +126,11 @@ Több száz éves sztyeppei vándorlást követően Árpád vezetésével a 7 ma
 
 ![](image010.jpg) <br> 
 *Vereckei-hágó*
+
 <br><br>
 ![](image011.jpg) <br> 
 *Szent István lovas szobra a Budai várban*
+
 <br><br>
 
 I. Szent István király, az államalapító
