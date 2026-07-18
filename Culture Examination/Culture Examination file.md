@@ -319,6 +319,12 @@ Az első világháború az antanthatalmak győzelmével végződött.
 
 <br><br>
 
+![](image019.jpg) <br> 
+*Magyarország terüle􀆟 veszteségei a trianoni békeszerződés alapján*
+
+<br><br>
+<br><br>
+
 ### 2.1.13 A második világháború (1939-1945)
 1939 szeptember 1-én Németország megtámadta Lengyelországot, ezzel kitört a második világháború.
 
