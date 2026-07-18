@@ -47,7 +47,7 @@ A Szent Korona az Országházban tekinthető meg.
 <br><br>
 
 ### 1.1.5 Egykori magyar koronázó városok
-![](image007.png)
+![](image007.jpg)
 
 - Buda
 - Esztergom
