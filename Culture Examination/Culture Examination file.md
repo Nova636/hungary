@@ -89,6 +89,10 @@ A multat s jövendőt!
 Vörösmarty Mihály 1836-ban írta. Egressy Béni zenésítette meg.
 A Himnusz mellett gyakran énekeljük nemzeti ünnepeken.
 
+![](image009.png) <br> 
+*Vörösmarty Mihály*
+<br><br>
+
 ```
 Hazádnak rendületlenűl 
 Légy híve, oh magyar; 
