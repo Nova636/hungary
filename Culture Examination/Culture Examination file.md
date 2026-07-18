@@ -122,6 +122,8 @@ Itt élned, halnod kell.
 
 ### 2.1.1 Honfoglalás (895-896)
 Több száz éves sztyeppei vándorlást követően Árpád vezetésével a 7 magyar törzs a IX. század végén foglalta el a Kárpát-medencét, ahol ezt követően a magyarság letelepedett.
+<br><br>
+
 ![](image010.jpg) <br> 
 *Vereckei-hágó*
 <br><br>
