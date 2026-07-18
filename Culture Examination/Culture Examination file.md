@@ -573,19 +573,33 @@ Az európai uniós parlamenti választásokat ötévente tartják. Magyarország
 
 ## Az Európai Unió 27 tagállama
 
-Ausztria	Írország	Svédország
-Belgium	Lengyelország	Szlovákia
-Bulgária	Lettország	Szlovénia
-Ciprus	Litvánia	
-Csehország	Luxemburg	
-Dánia	Magyarország	
-Észtország	Málta	
-Finnország	Németország	
-Franciaország	Olaszország	
-Görögország
-Hollandia	Portugália
-Románia	
-Horvátország	Spanyolország	
+- Ausztria	
+- Belgium	
+- Bulgária
+- Ciprus
+- Csehország
+- Dánia
+- Észtország
+- Finnország
+- Franciaország
+- Görögország
+- Hollandia
+- Horvátország
+- Írország
+- Lengyelország
+- Lettország
+- Litvánia	
+- Luxemburg
+- Magyarország
+- Málta
+- Németország
+- Olaszország
+- Portugália
+- Románia
+- Spanyolország
+- Svédország
+- Szlovákia
+- Szlovénia
 
 
 
