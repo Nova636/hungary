@@ -123,9 +123,9 @@ I. Szent István király, az államalapító
 
 ### 2.1.4 Kora újkor
 1. A török hódoltság kora (1526-1686)
-- 1526. augusztus 29-én Mohácsnál a magyar seregek súlyos vereséget szenvedtek az oszmánok ellen.
+- 1526 augusztus 29-én Mohácsnál a magyar seregek súlyos vereséget szenvedtek az oszmánok ellen.
 - 1541-ben a törökök elfoglalták Budát, a Magyar Királyság központját. Az ország közel 150 évre 3 részre szakadt. A XVI. században folyamatosak voltak a háborúk, ezek közül is kiemelkedik Eger ostroma (1552).
-- 1686. szeptember 2-án a Habsburgok vezetésével az európai keresztény sereg visszafoglalta Budát, a következő években az Oszmán Birodalom elvesztette Kárpát-medencei területeinek jelentős részét.
+- 1686 szeptember 2-án a Habsburgok vezetésével az európai keresztény sereg visszafoglalta Budát, a következő években az Oszmán Birodalom elvesztette Kárpát-medencei területeinek jelentős részét.
 
 2. Hazánk a Habsburg uralom alatt (1686-1848)
 - A török hódoltságot követően a Habsburg uralkodók alatt megindult az ország újjáépítése és a lakatlan területek benépesítése. Az ország ekkor vált soknemzetiségűvé.
@@ -169,13 +169,13 @@ A márciusi ifjak a Pilvax kávéházban gyűltek össze:
 - Landerer nyomdájában kinyomtatták követeléseiket (12 pont)
 - A Nemzeti Múzeum előtt nagygyűlést rendeztek
 - Kiszabadították börtönéből Táncsics Mihályt
-- 1848. március 17-én István nádor az uralkodó jóváhagyásával miniszterelnökké nevezte ki Batthyány Lajost
+- 1848 március 17-én István nádor az uralkodó jóváhagyásával miniszterelnökké nevezte ki Batthyány Lajost
 - A márciusi események fontos szereplője volt Petőfi Sándor, Jókai Mór és Vasvári Pál
 - Az 1848-’49-es forradalom és szabadságharc egyik legfőbb szimbóluma a piros-fehér-zöld kokárda
 
 ### 2.1.8 Az 1848-49. évi forradalom és szabadságharc
 
-1848. április 11-én megalakult az első felelős magyar kormány.
+1848 április 11-én megalakult az első felelős magyar kormány.
 Tagjai:
 Batthyány Lajos 	– miniszterelnök
 Szemere Bertalan 	– belügyminiszter
@@ -190,10 +190,10 @@ Esterházy Pál 		– a király személye körüli miniszter
 
 ### 2.1.9 Az 1848-49. évi forradalom és szabadságharc leverése
 A forradalom kezdeti sikereit követően a Habsburgok az orosz cári hadsereg segítségével a szabadságharcot leverték.
-1849. augusztus 13-án Világosnál Görgei Artúr tábornok letette a fegyvert az orosz cári hadsereg előtt.
+1849 augusztus 13-án Világosnál Görgei Artúr tábornok letette a fegyvert az orosz cári hadsereg előtt.
 
 A vereség következményei:
-- 1849. október 6-án Aradon 13 honvédtisztet, valamint Pesten Batthyány Lajos miniszterelnököt kivégezték.
+- 1849 október 6-án Aradon 13 honvédtisztet, valamint Pesten Batthyány Lajos miniszterelnököt kivégezték.
 - Később több ezer szabadságharcost végeztek ki, börtönöztek be vagy ítéltek kényszermunkára. A forradalom legtöbb vívmányát megsemmisítették.
 - Az ország alkotmányos rendszerét felszámolták, területi egységét és közigazgatását abszolutista és centralista elvek mentén újraszervezték.
 
@@ -227,7 +227,7 @@ Az első világháború az antanthatalmak győzelmével végződött.
 
 
 ### 2.1.13 A második világháború (1939-1945)
-1939. szeptember 1-én Németország megtámadta Lengyelországot, ezzel kitört a második világháború.
+1939 szeptember 1-én Németország megtámadta Lengyelországot, ezzel kitört a második világháború.
 
 Egymással szemben álló hatalmak:
 1. Szövetségesek (Egyesült Királyság, Egyesült Államok, Szovjetunió)
