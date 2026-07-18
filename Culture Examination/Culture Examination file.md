@@ -255,7 +255,7 @@ A forradalom kezdeti sikereit követően a Habsburgok az orosz cári hadsereg se
 <br><br>
 
 ![](image014.jpg) <br> 
-*A 􀆟zenhárom aradi vértanú*
+*A tizenhárom aradi vértanú*
 
 <br><br>
 
