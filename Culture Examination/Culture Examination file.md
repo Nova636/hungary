@@ -100,7 +100,7 @@ Itt élned, halnod kell.
 Több száz éves sztyeppei vándorlást követően Árpád vezetésével a 7 magyar törzs a IX. század végén foglalta el a Kárpát-medencét, ahol ezt követően a magyarság letelepedett.
 
 I. Szent István király, az államalapító
-- 1001. január 1-én koronázták meg. Az első keresztény magyar király.
+- 1001 január 1-én koronázták meg. Az első keresztény magyar király.
 - Uralkodása alatt az ország véglegesen a nyugati keresztény kultúra felvétele mellett kötelezte el magát.
 - Az ország felvette a római katolikus vallást, a pogány rítussal és életmóddal felhagyott.
 - Szent István megszervezte a vármegyerendszert, tíz egyházmegyét, püspökségeket és érsekségeket alapított.
