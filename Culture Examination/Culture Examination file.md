@@ -122,7 +122,11 @@ Itt élned, halnod kell.
 
 ### 2.1.1 Honfoglalás (895-896)
 Több száz éves sztyeppei vándorlást követően Árpád vezetésével a 7 magyar törzs a IX. század végén foglalta el a Kárpát-medencét, ahol ezt követően a magyarság letelepedett.
-
+![](image010.jpg) <br> 
+*Vereckei-hágó*
+<br><br>
+![](image011.jpg) <br> 
+*Szent István lovas szobra a Budai várban*
 <br><br>
 
 I. Szent István király, az államalapító
