@@ -225,16 +225,17 @@ A márciusi ifjak a Pilvax kávéházban gyűltek össze:
 ### 2.1.8 Az 1848-49. évi forradalom és szabadságharc
 
 1848 április 11-én megalakult az első felelős magyar kormány.
+<br>
 Tagjai:
-Batthyány Lajos 	– miniszterelnök
-Szemere Bertalan 	– belügyminiszter
-Kossuth Lajos 		– pénzügyminiszter
-Széchenyi István 	– közmunka- és közlekedési miniszter
-Deák Ferenc 		– igazságügy-miniszter
-Mészáros Lázár 		– hadügyminiszter
-Klauzál Gábor 		– földművelés-, ipar- és kereskedelmi miniszter
-Eötvös József 		– vallás- és közoktatási miniszter
-Esterházy Pál 		– a király személye körüli miniszter
+- Batthyány Lajos 	-– miniszterelnök
+- Szemere Bertalan 	-– belügyminiszter
+- Kossuth Lajos 		-– pénzügyminiszter
+- Széchenyi István 	-– közmunka- és közlekedési miniszter
+- Deák Ferenc 		  -– igazságügy-miniszter
+- Mészáros Lázár 		-– hadügyminiszter
+- Klauzál Gábor 		-– földművelés-, ipar- és kereskedelmi miniszter
+- Eötvös József 		-– vallás- és közoktatási miniszter
+- Esterházy Pál 		-– a király személye körüli miniszter
 
 <br><br>
 
