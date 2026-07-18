@@ -342,15 +342,15 @@ Kiemelkedő alakjai és egy jelentős művük:
 **Az európai irodalom kiemelkedő alakjai és egy jelentős művük:**
 - William Shakespeare: Rómeó és Júlia
 - Voltaire: Candide
-- Johann Wolfgang von Goethe: Faust
+- Johann Wolfgang von Goethe: Faust  
  
 **Az európai zene kiemelkedő alakjai és egy jelentős művük:**
 - Ludwig van Beethoven: IX. szimfónia (az Európai Unió himnusza)
 - Wolfgang Amadeus Mozart: A varázsfuvola
-- Pjotr Iljics Csajkovszkij: A hattyúk tava
-   
+- Pjotr Iljics Csajkovszkij: A hattyúk tava  
   
-  
+    
+      
 Az Európai Unió egyik jelképévé vált dallam Ludwig van Beethoven 1824-ben bemutatott IX. szimfóniájának negyedik tétele, Friedrich von Schiller 1785-ös lírai költeményének, az Örömódának a megzenésített változata.
 
 
