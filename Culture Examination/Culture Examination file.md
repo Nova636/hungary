@@ -316,7 +316,7 @@ Európai színvonalú a magyar opera
 ## A romantika:
 
 Az 1820-as éveket a politika és az irodalom szoros összefonódása jellemezte, ekkor vált Pest-Buda az ország irodalmi középpontjává. Újságok, folyóiratok indultak, megkezdte működését a Magyar Tudományos Akadémia, 1837-ben pedig megnyitotta kapuit a Nemzeti Színház elődje, a Pesti Magyar Színház.
-
+<br><br>
 Kiemelkedő alakjai és egy jelentős művük:
 - Kölcsey Ferenc: Himnusz
 - Vörösmarty Mihály: Szózat
@@ -343,7 +343,7 @@ Kiemelkedő alakjai és egy jelentős művük:
 - William Shakespeare: Rómeó és Júlia
 - Voltaire: Candide
 - Johann Wolfgang von Goethe: Faust  
- 
+ <br><br>
 **Az európai zene kiemelkedő alakjai és egy jelentős művük:**
 - Ludwig van Beethoven: IX. szimfónia (az Európai Unió himnusza)
 - Wolfgang Amadeus Mozart: A varázsfuvola
@@ -365,7 +365,7 @@ Az Európai Unió egyik jelképévé vált dallam Ludwig van Beethoven 1824-ben 
 ## Magyarország Alaptörvénye
 Az Alaptörvény különleges, a többi törvény felett álló, legmagasabb jogi erővel bíró norma, Magyarország alkotmánya. Magyarország jogrendjének alapja.
 Az Országgyűlés 2011. április 18-án fogadta el Magyarország új Alaptörvényét, amely 2012. január 1-én lépett hatályba.
-
+<br><br>
 Az Alaptörvény megalkotásakor az Országgyűlés Magyarország alkotmányos hagyományainak tiszteletben tartását, a stabil és demokratikus alkotmányos intézményrendszer és kormányzat biztosítását, továbbá a nemzeti függetlenség és szuverenitás, a keresztény értékek és az európai kultúra megőrzését, valamint a családok és a határon túli magyar közösségek védelmét tartotta szem előtt.
 
 ## Az Országgyűlés
@@ -373,7 +373,7 @@ Magyarország legfőbb népképviseleti szerve.
 Tagjait 4 évre választják.
 Az országgyűlési képviselők száma **199 fő**.
 
-
+<br><br>
 Legfőbb feladatai:
 - megalkotja és módosítja Magyarország Alaptörvényét,
 - törvényeket alkot,
@@ -385,12 +385,12 @@ Legfőbb feladatai:
 
 A Kormány és a neki alárendelt közigazgatás alkotja a végrehajtó hatalmat.
 Tagjai a kormányfő (miniszterelnök) és a miniszterek.
-
+<br><br>
 Magyarország miniszterelnöke: Magyar Péter
 az Országgyűlés választja meg,
 a Kormány feje,
 képviseli Magyarországot az Európai Tanácsban
-
+<br><br>
 A Kormány főbb feladatai:
 irányítja a közigazgatás munkáját és összehangolja tevékenységét,
 jogszabályokat alkot,
@@ -424,7 +424,7 @@ Magyarország köztársasági elnöke: Dr. Sulyok Tamás
 - a Magyar Honvédség főparancsnoka
 - összehívja az Országgyűlés alakuló ülését
 - feloszlathatja az Országgyűlést (Alaptörvényben meghatározott esetekben)
-
+<br><br><br><br>
 
 
 
@@ -438,7 +438,7 @@ Magyarország köztársasági elnöke: Dr. Sulyok Tamás
 - Kiemelt jelentősége van ebben többek közt az angol Magna Charta Libertatumnak (1215), a magyar Aranybullának (1222), valamint a francia Emberi és Polgári Jogok Nyilatkozatának (1789).
 - A 17-18. században kialakult polgári társadalmak egyre erőteljesebben léptek fel a jogegyenlőség elérése érdekében. A jogegyenlőség azt jelenti, hogy az állam minden polgárát egyenlő jogok illetik meg, és a törvény előtt minden állampolgár egyenlő.
 - Mérföldkő ebben a folyamatban az Emberi Jogok Európai Egyezménye (1950). Az egyezmény arra kötelezi az államokat, hogy a benne meghatározott szabadságjogokat biztosítsák a joghatóságuk alatt élő egyének számára.
-
+<br><br>
 Kialakulásuk sorrendje szerint az alapjogok alábbi generációit különböztetjük meg:
 - Első generációs jogok: 
 1. az élethez való jog, 
@@ -446,11 +446,13 @@ Kialakulásuk sorrendje szerint az alapjogok alábbi generációit különbözte
 3. az egyesülési és gyülekezési szabadság, 
 4. a lelkiismereti és vallásszabadság, 
 5. a szólás- és sajtószabadság
+<br><br>
 - Második generációs jogok: 
 1. munkához való jog, 
 2. sztrájkhoz való jog, 
 3. oktatáshoz való jog, 
 4. szociális biztonsághoz való jog
+<br><br>
 - Harmadik generációs jogok: 
 1. egészséges környezethez való jog, 
 2. gyermekek jogai, 
@@ -460,11 +462,10 @@ Kialakulásuk sorrendje szerint az alapjogok alábbi generációit különbözte
 
 ## Az Alaptörvényben biztosított alapvető jogok
 Magyarország elismeri az ember sérthetetlen és elidegeníthetetlen alapvető jogait, ezek tiszteletben tartása és védelme az állam elsőrendű kötelessége.
-
+<br><br>
 Alapvető jogot korlátozni csak másik alapvető jog vagy valamely alkotmányos érték védelme érdekében lehet.
-
+<br><br>
 Az Alaptörvényben biztosított legfőbb alapvető jogok:
-
 - törvény előtti egyenlőség
 - élethez és emberi méltósághoz való jog
 - tisztességes eljáráshoz való jog
@@ -473,7 +474,7 @@ Az Alaptörvényben biztosított legfőbb alapvető jogok:
 - gyülekezési szabadság
 - tulajdonjog és örökléshez való jog
 - személyes adatok védelméhez való jog
-
+<br><br>
 A halálbüntetés Magyarországon:
 1990-ben törölték el, miután az Alkotmánybíróság alkotmányellenesnek nyilvánította.
 
@@ -496,71 +497,73 @@ A halálbüntetés Magyarországon:
 
 ## Magyarország fővárosa: Budapest
 Magyarország tizenkilenc vármegyéje:
-
-Baranya
-Borsod-Abaúj-Zemplén 
-Bács-Kiskun
-Békés
-Csongrád-Csanád 
-Fejér
-Győr-Moson-Sopron 
-Hajdú-Bihar
-Heves
-Jász-Nagykun-Szolnok 	Komárom-Esztergom 
-Nógrád
-Pest 
-Somogy
-Szabolcs-Szatmár-Bereg
-Tolna
-Vas 
-Veszprém 
-Zala
+- Baranya
+- Borsod-Abaúj-Zemplén 
+- Bács-Kiskun
+- Békés
+- Csongrád-Csanád 
+- Fejér
+- Győr-Moson-Sopron 
+- Hajdú-Bihar
+- Heves
+- Jász-Nagykun-Szolnok 	
+- Komárom-Esztergom 
+- Nógrád
+- Pest 
+- Somogy
+- Szabolcs-Szatmár-Bereg
+- Tolna
+- Vas 
+- Veszprém 
+- Zala
+<br><br>
 
 Budapest és nevezetességei
 1873 november 17-én jött létre a Duna bal partján fekvő Pest, valamint a jobb partján elterülő Buda és Óbuda városainak egyesítésével. 1994 óta 23 kerülettel rendelkezik.
+<br><br>
 Főbb nevezetességei:
-Budavári Palota
-Citadella
-Gellért Gyógyfürdő
-Halászbástya
-Hősök tere
-Magyar Nemzeti Múzeum
-Magyar Zene Háza
-Magyar Állami Operaház
-Mátyás-templom
-Parlament
-Szent István Bazilika
-Széchenyi Lánchíd
-Szépművészeti Múzeum
-Vajdahunyad vára
-
+- Budavári Palota
+- Citadella
+- Gellért Gyógyfürdő
+- Halászbástya
+- Hősök tere
+- Magyar Nemzeti Múzeum
+- Magyar Zene Háza
+- Magyar Állami Operaház
+- Mátyás-templom
+- Parlament
+- Szent István Bazilika
+- Széchenyi Lánchíd
+- Szépművészeti Múzeum
+- Vajdahunyad vára
+<br><br>
 
 ## Hungarikumok
 Azok az alkotások, jellegzetes tárgyak, szokások, amelyek tipikusan magyar vonatkozásúak, semmilyen más népre nem jellemzőek, csak a magyarokra. A „hungarikum” szó Magyarország latin nevéből ered (Hungária).
-
+<br><br>
 Ételek: gulyásleves, bajai és tiszai halászlé, dobostorta, Pick téliszalámi 
 Ételek, alapanyagok: makói hagyma, kalocsai és szegedi őrölt fűszerpaprika
 Italok: magyar borok (tokaji aszú, egri bikavér), pálinkák
 Kulturális örökség: mohácsi busójárás, Pannonhalmi Bencés Főapátság, Hollókő, Füredi Anna-bál
 Állatok: szürke szarvasmarha, magyar pásztorkutyák (puli, komondor, kuvasz) és magyar vadászkutyák (magyar vizsla, erdélyi kopó)
 Nép- és iparművészet: halasi csipke, matyó népművészet, hollóházi és Zsolnay-porcelán
-
+<br><br>
 
 ## Kereszténység Magyarországon
 Magyarország legrégibb és legjelentősebb felekezetei:
 - Magyar Katolikus Egyház (latin és görög)
 - Magyarországi Református Egyház
 - Magyarországi Evangélikus Egyház
-
+<br><br>
 Legfontosabb keresztény ünnepek és magyar szokások:
 - Karácsonykor (december 24-26.) a keresztények Jézus, a Megváltó születését ünneplik. Az egyik legfontosabb keresztény és családi ünnep.
 - Húsvétkor Jézus kereszthalálára emlékezünk és feltámadását ünnepeljük.
 - Augusztus 20-a Szent István király, a magyar államalapítás napja, ekkor kerül sor a Szent Jobb Körmenetre a király ereklyéjével, majd következik az esti tűzijáték.
-
+<br><br>
 Legfontosabb magyar szentek és boldogok:
 - Szent István, Szent László, Szent Imre, Szent Gellért,
 - Árpád-házi Szent Margit, Árpád-házi Szent Erzsébet
-
+<br><br>
 
 
 ## Magyarország és az Európai Unió
@@ -569,10 +572,9 @@ Magyarország 2004. május 1-jén csatlakozott az Európai Unióhoz. Az Európai
 Magyarország 2007-ben csatlakozott a schengeni övezethez, amely a határok szabad átjárhatóságát biztosítja.
 Az Unió központja Brüsszel. Legfontosabb intézményei az Európai Bizottság, a Tanács, az Európai Parlament és az Európai Tanács.
 Az európai uniós parlamenti választásokat ötévente tartják. Magyarország 21 fővel képviselteti magát az Európai Parlamentben.
-
+<br><br>
 
 ## Az Európai Unió 27 tagállama
-
 - Ausztria	
 - Belgium	
 - Bulgária
