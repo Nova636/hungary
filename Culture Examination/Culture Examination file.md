@@ -67,7 +67,8 @@ A Szent Korona az Országházban tekinthető meg.
 Kölcsey Ferenc költeménye, 1823-ban íródott.
 Erkel Ferenc zenésítette meg.
 
-![](image008.jpg) <br><font color=Blue>Kölcsey Ferenc</font>
+![](image008.jpg) 
+*Kölcsey Ferenc*
 
 ```
 Isten, áldd meg a magyart
