@@ -26,10 +26,11 @@ Magyar kulturális ismereti vizsga
 
 ### 1.1.3 Magyarország zászlója
 ![](image004.png)
+
 A színek az alábbiakat jelképezik:
-   a piros sáv az „erőt” 
-   a fehér a „hűséget” 
-   a zöld a „reményt”
+- a piros sáv az „erőt” 
+- a fehér a „hűséget” 
+- a zöld a „reményt”
 <br><br>
 
 ### 1.1.4 Koronázási jelvények
