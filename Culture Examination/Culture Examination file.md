@@ -675,6 +675,12 @@ Magyarország tizenkilenc vármegyéje:
 - Vas 
 - Veszprém 
 - Zala
+
+<br><br>
+
+![](image028.png) <br> 
+*Magyarország vármegyéi*
+
 <br><br>
 
 Budapest és nevezetességei
@@ -696,6 +702,13 @@ Főbb nevezetességei:
 - Széchenyi Lánchíd
 - Szépművészeti Múzeum
 - Vajdahunyad vára
+
+<br><br>
+
+![](image029.jpg) <br> 
+*Magyar Állami Operaház*
+
+<br><br>
 <br><br>
 
 ## 6.3 Hungarikumok
@@ -726,6 +739,22 @@ Legfontosabb keresztény ünnepek és magyar szokások:
 Legfontosabb magyar szentek és boldogok:
 - Szent István, Szent László, Szent Imre, Szent Gellért,
 - Árpád-házi Szent Margit, Árpád-házi Szent Erzsébet
+
+<br><br>
+
+![](image030.jpg) <br> 
+*Szent István-bazilika*
+
+<br><br>
+
+![](image031.jpg) <br> 
+*Debreceni Református Nagytemplom*
+
+<br><br>
+
+![](image032.jpg) <br> 
+*Békéscsabai Evangélikus Nagytemplom*
+
 <br><br>
 
 
