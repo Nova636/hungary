@@ -276,11 +276,37 @@ Egymással szemben álló hatalmak:
 
 
 
-## 2.2 
-
-
 
 # 3) Az európai és a magyar irodalom és zenetörténet meghatározó személyiségei
+## A magyar zenetörténet
+Kiemelkedő jelentőségű a magyar népzene
+A népdalokat az 1800-as évektől kezdték gyűjteni, dallamukat lekottázni, szövegüket lejegyezni
+Bartók Béla és Kodály Zoltán a magyar népzenekutatás két leghíresebb képviselője
+Európai színvonalú a magyar opera
+
+
+
+**Kiemelkedő alkotók és leghíresebb műveik:**
+Erkel Ferenc (Bánk bán opera)
+Liszt Ferenc (Magyar rapszódiák)
+Bartók Béla (A kékszakállú herceg vára)
+Kodály Zoltán (Háry János)
+
+
+**A reneszánsz irodalom kiemelkedő alakjai:**
+Janus Pannonius: Pannónia dicsérete
+Balassi Bálint: Hogy Júliára talála, így köszöne néki
+
+**A barokk irodalom kiemelkedő alakja:**
+Zrínyi Miklós: Szigeti veszedelem
+
+**A felvilágosodás irodalmának kiemelkedő alakjai:**
+Csokonai Vitéz Mihály: A reményhez
+Batsányi János: A franciaországi változásokra
+
+**A klasszicista irodalom kiemelkedő alakjai:**
+Kazinczy Ferenc (a hazai nyelvújítás vezéralakja)
+Berzsenyi Dániel: Az első szerelem
 
 
 
