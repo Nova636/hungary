@@ -361,7 +361,7 @@ Egymással szemben álló hatalmak:
 
 <br><br>
 
-![](image020.jpg) <br> 
+![](image020.png) <br> 
 *Lyukas zászló 1956-ból*
 
 <br><br>
@@ -372,6 +372,12 @@ Egymással szemben álló hatalmak:
 - November 4-én a szovjet csapatok ígéretük ellenére, miszerint elhagyják az országot, megkezdték a magyar fegyveres ellenállás felszámolását.
 - Visszaállt a kommunista egypártrendszer, Magyarország vezetésére Kádár Jánost jelölték ki, Nagy Imrét pedig kivégezték. A Kádár János nevével fémjelzett kommunista korszak 1956-tól egészen 1989-ig tartott.
 
+<br><br>
+
+![](image021.png) <br> 
+*Kiége􀆩 szovjet harckocsi 1956-ban*
+
+<br><br>
 <br><br>
 
 ### 2.1.18 Az 1989-1990. évi rendszerváltás
