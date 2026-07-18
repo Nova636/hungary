@@ -47,6 +47,25 @@ A Szent Korona az Országházban tekinthető meg.
 (Magyarország Alaptörvénye)
 
 
+### Magyarország himnusza
+
+Kölcsey Ferenc költeménye, 1823-ban íródott.
+Erkel Ferenc zenésítette meg.
+
+```
+Isten, áldd meg a magyart
+Jó kedvvel, bőséggel,
+Nyújts feléje védő kart,
+Ha küzd ellenséggel;
+Bal sors akit régen tép,
+Hozz rá víg esztendőt,
+Megbünhödte már e nép
+A multat s jövendőt!
+```
+
+
+
+
 
 
 # 2) Magyarország történelme
