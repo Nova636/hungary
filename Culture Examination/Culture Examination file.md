@@ -251,6 +251,12 @@ Tagjai:
 ### 2.1.9 Az 1848-49. évi forradalom és szabadságharc leverése
 A forradalom kezdeti sikereit követően a Habsburgok az orosz cári hadsereg segítségével a szabadságharcot leverték.
 1849 augusztus 13-án Világosnál Görgei Artúr tábornok letette a fegyvert az orosz cári hadsereg előtt.
+
+<br><br>
+
+![](image014.jpg) <br> 
+*A 􀆟zenhárom aradi vértanú*
+
 <br><br>
 
 A vereség következményei:
