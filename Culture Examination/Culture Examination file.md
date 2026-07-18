@@ -313,6 +313,49 @@ Európai színvonalú a magyar opera
 - Berzsenyi Dániel: Az első szerelem
 
 
+## A romantika:
+
+Az 1820-as éveket a politika és az irodalom szoros összefonódása jellemezte, ekkor vált Pest-Buda az ország irodalmi középpontjává. Újságok, folyóiratok indultak, megkezdte működését a Magyar Tudományos Akadémia, 1837-ben pedig megnyitotta kapuit a Nemzeti Színház elődje, a Pesti Magyar Színház.
+
+Kiemelkedő alakjai és egy jelentős művük:
+- Kölcsey Ferenc: Himnusz
+- Vörösmarty Mihály: Szózat
+- Petőfi Sándor: Nemzeti dal
+- Jókai Mór: A kőszívű ember fiai
+- Arany János: A walesi bárdok
+- Katona József: Bánk bán
+- Madách Imre: Az ember tragédiája
+
+
+## A 20. század kiemelkedő költői, írói és egy jelentős művük:
+- Ady Endre: Elbocsátó, szép üzenet
+- Móricz Zsigmond: Rokonok
+- Kosztolányi Dezső: Édes Anna
+- Karinthy Frigyes: Így írtok ti
+- József Attila: Tiszta szívvel
+- Radnóti Miklós: Nem tudhatom…
+- Márai Sándor: Egy polgár vallomása
+
+
+## Az európai irodalom és zene
+
+**Az európai irodalom kiemelkedő alakjai és egy jelentős művük:**
+- William Shakespeare: Rómeó és Júlia
+- Voltaire: Candide
+- Johann Wolfgang von Goethe: Faust
+
+**Az európai zene kiemelkedő alakjai és egy jelentős művük:**
+- Ludwig van Beethoven: IX. szimfónia (az Európai Unió himnusza)
+- Wolfgang Amadeus Mozart: A varázsfuvola
+- Pjotr Iljics Csajkovszkij: A hattyúk tava
+
+
+
+Az Európai Unió egyik jelképévé vált dallam Ludwig van Beethoven 1824-ben bemutatott IX. szimfóniájának negyedik tétele, Friedrich von Schiller 1785-ös lírai költeményének, az Örömódának a megzenésített változata.
+
+
+
+
 
 
 
