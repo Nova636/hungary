@@ -25,6 +25,7 @@ Magyar kulturális ismereti vizsga
 <br><br>
 
 ### 1.1.3 Magyarország zászlója
+![](image004.png)
 A színek az alábbiakat jelképezik:
    a piros sáv az „erőt” 
    a fehér a „hűséget” 
@@ -32,6 +33,7 @@ A színek az alábbiakat jelképezik:
 <br><br>
 
 ### 1.1.4 Koronázási jelvények
+![](image005.png)![](image006.png)
 Az egykori királyi hatalom jelképei, jelenleg nemzeti jelképeink részei.
 - Koronázási jogar
 - Koronázási kard	 	
