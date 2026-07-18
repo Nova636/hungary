@@ -69,7 +69,7 @@ Erkel Ferenc zenésítette meg.
 
 ![](image008.jpg) 
 *Kölcsey Ferenc*
-
+<br><br>
 ```
 Isten, áldd meg a magyart
 Jó kedvvel, bőséggel,
