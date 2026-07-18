@@ -458,10 +458,132 @@ Kialakulásuk sorrendje szerint az alapjogok alábbi generációit különbözte
 4. fogyatékkal élők jogai
 
 
+## Az Alaptörvényben biztosított alapvető jogok
+Magyarország elismeri az ember sérthetetlen és elidegeníthetetlen alapvető jogait, ezek tiszteletben tartása és védelme az állam elsőrendű kötelessége.
+
+Alapvető jogot korlátozni csak másik alapvető jog vagy valamely alkotmányos érték védelme érdekében lehet.
+
+Az Alaptörvényben biztosított legfőbb alapvető jogok:
+
+- törvény előtti egyenlőség
+- élethez és emberi méltósághoz való jog
+- tisztességes eljáráshoz való jog
+- gondolat-, lelkiismeret- és vallásszabadság 
+- véleménynyilvánítás szabadsága
+- gyülekezési szabadság
+- tulajdonjog és örökléshez való jog
+- személyes adatok védelméhez való jog
+
+A halálbüntetés Magyarországon:
+1990-ben törölték el, miután az Alkotmánybíróság alkotmányellenesnek nyilvánította.
 
 
 
 # 6) Európa és Magyarország a mindennapokban
+
+## Magyarországról általánosságban
+- Államformája: köztársaság
+- Területe: 93 ezer km².
+- Népessége: 9,6 millió fő
+- Fővárosa: Budapest
+- Tájegységei: Alföld, Alpokalja, Dunántúli-dombság, Dunántúl-középhegység, Északi-középhegység, Kisalföld
+- Legnagyobb tavai: Balaton, Fertő tó, Velencei-tó
+- Legnagyobb folyói: Duna, Tisza, Dráva, Rába
+- Szomszédos országok: Szlovákia, Ukrajna, Románia, Szerbia, Horvátország, Szlovénia, Ausztria
+- Pénzneme: forint
+- Hivatalos nyelve: magyar
+- Nemzetiségei: bolgár, görög, horvát, lengyel, német, örmény, roma, román, ruszin, szerb, szlovák, szlovén és ukrán
+
+## Magyarország fővárosa: Budapest
+Magyarország tizenkilenc vármegyéje:
+
+Baranya
+Borsod-Abaúj-Zemplén 
+Bács-Kiskun
+Békés
+Csongrád-Csanád 
+Fejér
+Győr-Moson-Sopron 
+Hajdú-Bihar
+Heves
+Jász-Nagykun-Szolnok 	Komárom-Esztergom 
+Nógrád
+Pest 
+Somogy
+Szabolcs-Szatmár-Bereg
+Tolna
+Vas 
+Veszprém 
+Zala
+
+Budapest és nevezetességei
+1873 november 17-én jött létre a Duna bal partján fekvő Pest, valamint a jobb partján elterülő Buda és Óbuda városainak egyesítésével. 1994 óta 23 kerülettel rendelkezik.
+Főbb nevezetességei:
+Budavári Palota
+Citadella
+Gellért Gyógyfürdő
+Halászbástya
+Hősök tere
+Magyar Nemzeti Múzeum
+Magyar Zene Háza
+Magyar Állami Operaház
+Mátyás-templom
+Parlament
+Szent István Bazilika
+Széchenyi Lánchíd
+Szépművészeti Múzeum
+Vajdahunyad vára
+
+
+## Hungarikumok
+Azok az alkotások, jellegzetes tárgyak, szokások, amelyek tipikusan magyar vonatkozásúak, semmilyen más népre nem jellemzőek, csak a magyarokra. A „hungarikum” szó Magyarország latin nevéből ered (Hungária).
+
+Ételek: gulyásleves, bajai és tiszai halászlé, dobostorta, Pick téliszalámi 
+Ételek, alapanyagok: makói hagyma, kalocsai és szegedi őrölt fűszerpaprika
+Italok: magyar borok (tokaji aszú, egri bikavér), pálinkák
+Kulturális örökség: mohácsi busójárás, Pannonhalmi Bencés Főapátság, Hollókő, Füredi Anna-bál
+Állatok: szürke szarvasmarha, magyar pásztorkutyák (puli, komondor, kuvasz) és magyar vadászkutyák (magyar vizsla, erdélyi kopó)
+Nép- és iparművészet: halasi csipke, matyó népművészet, hollóházi és Zsolnay-porcelán
+
+
+## Kereszténység Magyarországon
+Magyarország legrégibb és legjelentősebb felekezetei:
+★Magyar Katolikus Egyház (latin és görög)
+★Magyarországi Református Egyház
+★Magyarországi Evangélikus Egyház
+Legfontosabb keresztény ünnepek és magyar szokások:
+★Karácsonykor (december 24-26.) a keresztények Jézus, a Megváltó születését ünneplik. Az egyik legfontosabb keresztény és családi ünnep.
+★Húsvétkor Jézus kereszthalálára emlékezünk és feltámadását ünnepeljük.
+★Augusztus 20-a Szent István király, a magyar államalapítás napja, ekkor kerül sor a Szent Jobb Körmenetre a király ereklyéjével, majd következik az esti tűzijáték.
+Legfontosabb magyar szentek és boldogok:
+★Szent István, Szent László, Szent Imre, Szent Gellért,
+★Árpád-házi Szent Margit, Árpád-házi Szent Erzsébet
+
+
+
+## Magyarország és az Európai Unió
+
+Magyarország 2004. május 1-jén csatlakozott az Európai Unióhoz. Az Európai Unióban 450 millió polgár él.
+Magyarország 2007-ben csatlakozott a schengeni övezethez, amely a határok szabad átjárhatóságát biztosítja.
+Az Unió központja Brüsszel. Legfontosabb intézményei az Európai Bizottság, a Tanács, az Európai Parlament és az Európai Tanács.
+Az európai uniós parlamenti választásokat ötévente tartják. Magyarország 21 fővel képviselteti magát az Európai Parlamentben.
+
+
+## Az Európai Unió 27 tagállama
+
+Ausztria	Írország	Svédország
+Belgium	Lengyelország	Szlovákia
+Bulgária	Lettország	Szlovénia
+Ciprus	Litvánia	
+Csehország	Luxemburg	
+Dánia	Magyarország	
+Észtország	Málta	
+Finnország	Németország	
+Franciaország	Olaszország	
+Görögország
+Hollandia	Portugália
+Románia	
+Horvátország	Spanyolország	
 
 
 
