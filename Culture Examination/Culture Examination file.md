@@ -362,6 +362,69 @@ Az Európai Unió egyik jelképévé vált dallam Ludwig van Beethoven 1824-ben 
 
 
 # 4) Az Alaptörvény alapvető intézményei
+## Magyarország Alaptörvénye
+Az Alaptörvény különleges, a többi törvény felett álló, legmagasabb jogi erővel bíró norma, Magyarország alkotmánya. Magyarország jogrendjének alapja.
+Az Országgyűlés 2011. április 18-án fogadta el Magyarország új Alaptörvényét, amely 2012. január 1-én lépett hatályba.
+
+Az Alaptörvény megalkotásakor az Országgyűlés Magyarország alkotmányos hagyományainak tiszteletben tartását, a stabil és demokratikus alkotmányos intézményrendszer és kormányzat biztosítását, továbbá a nemzeti függetlenség és szuverenitás, a keresztény értékek és az európai kultúra megőrzését, valamint a családok és a határon túli magyar közösségek védelmét tartotta szem előtt.
+
+## Az Országgyűlés
+Magyarország legfőbb népképviseleti szerve.
+Tagjait 4 évre választják.
+Az országgyűlési képviselők száma **199 fő**.
+
+
+Legfőbb feladatai:
+- megalkotja és módosítja Magyarország Alaptörvényét,
+- törvényeket alkot,
+- elfogadja a központi költségvetést, és jóváhagyja annak végrehajtását,
+- megválasztja a miniszterelnököt, dönt a Kormánnyal kapcsolatos bizalmi kérdésekről.
+
+
+## A Kormány
+
+A Kormány és a neki alárendelt közigazgatás alkotja a végrehajtó hatalmat.
+Tagjai a kormányfő (miniszterelnök) és a miniszterek.
+
+Magyarország miniszterelnöke: Magyar Péter
+az Országgyűlés választja meg,
+a Kormány feje,
+képviseli Magyarországot az Európai Tanácsban
+
+A Kormány főbb feladatai:
+irányítja a közigazgatás munkáját és összehangolja tevékenységét,
+jogszabályokat alkot,
+működteti az állami ellátórendszereket (pl.: honvédelem, rendvédelem, oktatás, egészségügy)
+
+## Minisztériumok
+1. Agrár- és Élelmiszergazdaságért Felelős Minisztérium
+2. Belügyminisztérium
+3. Egészségügyi Minisztérium
+4. Élő Környezetért Felelős Minisztérium
+5. Gazdasági és Energetikai Minisztérium
+6. Honvédelmi Minisztérium
+7. Szociális és Családügyi Minisztérium
+8. Vidék- és Településfejlesztési Minisztérium
+9. Igazságügyi Minisztérium
+10. Oktatási és Gyermekügyi Minisztérium
+11. Közlekedési és Beruházási Minisztérium
+12. Külügyminisztérium
+13. Miniszterelnökség
+14. Pénzügyminisztérium
+15. Társadalmi kapcsolatokért és Kultúráért felelős Minisztérium
+16. Tudományos és Technológiai Minisztérium
+
+
+## A köztársasági elnök
+Magyarország államfője, aki kifejezi a nemzet egységét és őrködik az államszervezet demokratikus működése felett.
+
+Magyarország köztársasági elnöke: Dr. Sulyok Tamás
+
+- az Országgyűlés választja 5 évre titkos szavazással - legfeljebb egy alkalommal újraválasztható
+- a Magyar Honvédség főparancsnoka
+- összehívja az Országgyűlés alakuló ülését
+- feloszlathatja az Országgyűlést (Alaptörvényben meghatározott esetekben)
+
 
 
 
@@ -370,6 +433,29 @@ Az Európai Unió egyik jelképévé vált dallam Ludwig van Beethoven 1824-ben 
 
 # 5) Alapvető állampolgári jogok és kötelezettségek
 
+## Az emberi jogok
+- Európában az emberi jogok eszméje több száz éves fejlődési folyamat eredménye, amely még korábbi, ókori előzményekre tekint vissza.
+- Kiemelt jelentősége van ebben többek közt az angol Magna Charta Libertatumnak (1215), a magyar Aranybullának (1222), valamint a francia Emberi és Polgári Jogok Nyilatkozatának (1789).
+- A 17-18. században kialakult polgári társadalmak egyre erőteljesebben léptek fel a jogegyenlőség elérése érdekében. A jogegyenlőség azt jelenti, hogy az állam minden polgárát egyenlő jogok illetik meg, és a törvény előtt minden állampolgár egyenlő.
+- Mérföldkő ebben a folyamatban az Emberi Jogok Európai Egyezménye (1950). Az egyezmény arra kötelezi az államokat, hogy a benne meghatározott szabadságjogokat biztosítsák a joghatóságuk alatt élő egyének számára.
+
+Kialakulásuk sorrendje szerint az alapjogok alábbi generációit különböztetjük meg:
+- Első generációs jogok: 
+1. az élethez való jog, 
+2. a személyi szabadsághoz való jog, 
+3. az egyesülési és gyülekezési szabadság, 
+4. a lelkiismereti és vallásszabadság, 
+5. a szólás- és sajtószabadság
+- Második generációs jogok: 
+1. munkához való jog, 
+2. sztrájkhoz való jog, 
+3. oktatáshoz való jog, 
+4. szociális biztonsághoz való jog
+- Harmadik generációs jogok: 
+1. egészséges környezethez való jog, 
+2. gyermekek jogai, 
+3. betegjogok, 
+4. fogyatékkal élők jogai
 
 
 
