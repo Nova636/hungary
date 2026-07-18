@@ -764,6 +764,12 @@ Magyarország 2004. május 1-jén csatlakozott az Európai Unióhoz. Az Európai
 Magyarország 2007-ben csatlakozott a schengeni övezethez, amely a határok szabad átjárhatóságát biztosítja.
 Az Unió központja Brüsszel. Legfontosabb intézményei az Európai Bizottság, a Tanács, az Európai Parlament és az Európai Tanács.
 Az európai uniós parlamenti választásokat ötévente tartják. Magyarország 21 fővel képviselteti magát az Európai Parlamentben.
+
+<br><br>
+
+![](image033.png) <br> 
+*Az Európai Unió hivatalos zászlója*
+
 <br><br>
 
 ## 6.6 Az Európai Unió 27 tagállama
