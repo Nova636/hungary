@@ -17,6 +17,20 @@ Magyar kulturális ismereti vizsga
 - Kettős kereszt
 - Hármas halom, rajta korona
 
+### Magyarország zászlója
+A színek az alábbiakat jelképezik:
+   a piros sáv az „erőt” 
+   a fehér a „hűséget” 
+   a zöld a „reményt”
+
+### Koronázási jelvények
+Az egykori királyi hatalom jelképei, jelenleg nemzeti jelképeink részei.
+- Koronázási jogar
+- Koronázási kard	 	
+- Szent Korona
+- Országalma                        
+- Koronázási palást
+
 
 
 # 2) Magyarország történelme
