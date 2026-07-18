@@ -361,6 +361,12 @@ Egymással szemben álló hatalmak:
 
 <br><br>
 
+![](image020.jpg) <br> 
+*Lyukas zászló 1956-ból*
+
+<br><br>
+<br><br>
+
 ### 2.1.16 Az 1956. évi forradalom és szabadságharc
 
 - November 4-én a szovjet csapatok ígéretük ellenére, miszerint elhagyják az országot, megkezdték a magyar fegyveres ellenállás felszámolását.
