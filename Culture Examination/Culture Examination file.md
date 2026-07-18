@@ -580,12 +580,12 @@ Főbb nevezetességei:
 Azok az alkotások, jellegzetes tárgyak, szokások, amelyek tipikusan magyar vonatkozásúak, semmilyen más népre nem jellemzőek, csak a magyarokra. A „hungarikum” szó Magyarország latin nevéből ered (Hungária).
 <br><br>
 
-Ételek: gulyásleves, bajai és tiszai halászlé, dobostorta, Pick téliszalámi 
-Ételek, alapanyagok: makói hagyma, kalocsai és szegedi őrölt fűszerpaprika
-Italok: magyar borok (tokaji aszú, egri bikavér), pálinkák
-Kulturális örökség: mohácsi busójárás, Pannonhalmi Bencés Főapátság, Hollókő, Füredi Anna-bál
-Állatok: szürke szarvasmarha, magyar pásztorkutyák (puli, komondor, kuvasz) és magyar vadászkutyák (magyar vizsla, erdélyi kopó)
-Nép- és iparművészet: halasi csipke, matyó népművészet, hollóházi és Zsolnay-porcelán
+- Ételek: gulyásleves, bajai és tiszai halászlé, dobostorta, Pick téliszalámi 
+- Ételek, alapanyagok: makói hagyma, kalocsai és szegedi őrölt fűszerpaprika
+- Italok: magyar borok (tokaji aszú, egri bikavér), pálinkák
+- Kulturális örökség: mohácsi busójárás, Pannonhalmi Bencés Főapátság, Hollókő, Füredi Anna-bál
+- Állatok: szürke szarvasmarha, magyar pásztorkutyák (puli, komondor, kuvasz) és magyar vadászkutyák (magyar vizsla, erdélyi kopó)
+- Nép- és iparművészet: halasi csipke, matyó népművészet, hollóházi és Zsolnay-porcelán
 <br><br>
 
 ## 6.4 Kereszténység Magyarországon
