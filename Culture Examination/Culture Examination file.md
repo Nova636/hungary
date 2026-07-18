@@ -274,6 +274,23 @@ A vereség következményei:
 - A kiegyezéssel létrejött az Osztrák-Magyar Monarchia.
 - A kiegyezéstől (1867) az első világháború kitöréséig (1914) tartó időszakot Magyarország egyik aranykorának tekinthetjük. 
   Jelentős gazdasági fejlődés és társadalmi átalakulás vette kezdetét.
+
+<br><br>
+
+![](image015.jpg) <br> 
+*Deák Ferenc --- a haza bölcse*
+
+<br><br>
+
+![](image016.jpg) <br> 
+*Országház (épült 1885-1904)*
+
+<br><br>
+
+![](image017.jpg) <br> 
+*Vajdahunyad vára (épült 1902–1908)*
+
+<br><br>
 <br><br>
 
 ### 2.1.11 Az első világháború (1914-1918)
