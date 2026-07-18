@@ -548,16 +548,18 @@ Nép- és iparművészet: halasi csipke, matyó népművészet, hollóházi és 
 
 ## Kereszténység Magyarországon
 Magyarország legrégibb és legjelentősebb felekezetei:
-★Magyar Katolikus Egyház (latin és görög)
-★Magyarországi Református Egyház
-★Magyarországi Evangélikus Egyház
+- Magyar Katolikus Egyház (latin és görög)
+- Magyarországi Református Egyház
+- Magyarországi Evangélikus Egyház
+
 Legfontosabb keresztény ünnepek és magyar szokások:
-★Karácsonykor (december 24-26.) a keresztények Jézus, a Megváltó születését ünneplik. Az egyik legfontosabb keresztény és családi ünnep.
-★Húsvétkor Jézus kereszthalálára emlékezünk és feltámadását ünnepeljük.
-★Augusztus 20-a Szent István király, a magyar államalapítás napja, ekkor kerül sor a Szent Jobb Körmenetre a király ereklyéjével, majd következik az esti tűzijáték.
+- Karácsonykor (december 24-26.) a keresztények Jézus, a Megváltó születését ünneplik. Az egyik legfontosabb keresztény és családi ünnep.
+- Húsvétkor Jézus kereszthalálára emlékezünk és feltámadását ünnepeljük.
+- Augusztus 20-a Szent István király, a magyar államalapítás napja, ekkor kerül sor a Szent Jobb Körmenetre a király ereklyéjével, majd következik az esti tűzijáték.
+
 Legfontosabb magyar szentek és boldogok:
-★Szent István, Szent László, Szent Imre, Szent Gellért,
-★Árpád-házi Szent Margit, Árpád-házi Szent Erzsébet
+- Szent István, Szent László, Szent Imre, Szent Gellért,
+- Árpád-házi Szent Margit, Árpád-házi Szent Erzsébet
 
 
 
