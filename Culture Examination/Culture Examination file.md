@@ -389,7 +389,7 @@ Egymással szemben álló hatalmak:
 <br><br>
 
 ![](image022.png) <br> 
-*1989. június 16. Nagy Imre és már􀆡rtársainak ünnepélyes újratemetése*
+*1989. június 16. Nagy Imre és mártírtársainak ünnepélyes újratemetése*
 
 <br><br><br><br>
 
@@ -442,6 +442,13 @@ Kiemelkedő alakjai és egy jelentős művük:
 - Arany János: A walesi bárdok
 - Katona József: Bánk bán
 - Madách Imre: Az ember tragédiája
+
+<br><br>
+
+![](image023.jpg) <br> 
+*Petőfi Sándor*
+
+<br><br>
 
 <br><br>
 
