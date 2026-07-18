@@ -299,6 +299,11 @@ A vereség következményei:
 - 1914 július 28-án az Osztrák-Magyar Monarchia hadat üzent Szerbiának, ezzel kitört az első világháború, Európa országai hadba léptek.
 <br><br><br>
 
+![](image018.jpg) <br> 
+*Ferenc József osztrák császár és magyar király (1848-1916)*
+
+<br><br>
+
 Egymással szemben álló hatalmak:
 - Antant és szövetségesei (Franciaország, Oroszország, Nagy-Britannia, Olaszország, Japán, Amerikai Egyesült Államok, Szerb Királyság, Román Királyság)
 - Központi hatalmak (Németország, Osztrák-Magyar Monarchia, Oszmán Birodalom, Bulgária)
