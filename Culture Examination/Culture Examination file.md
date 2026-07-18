@@ -190,6 +190,12 @@ A reformkor fő politikai céljai:
 - Jelentős fejlesztéseket indított a mezőgazdaság, a közlekedés és a hajózás terén
 - Nevéhez fűződik a Budát és Pestet összekötő első kőhíd, a Lánchíd megépítése
 
+<br><br>
+![](image012.jpg) <br> 
+*Széchenyi István -- a legnagyobb magyar*
+
+<br><br>
+
 A reformkor további jelentős személyiségei:
 - Kossuth Lajos
 - Batthyány Lajos
