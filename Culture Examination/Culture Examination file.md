@@ -221,6 +221,12 @@ A márciusi ifjak a Pilvax kávéházban gyűltek össze:
 - 1848 március 17-én István nádor az uralkodó jóváhagyásával miniszterelnökké nevezte ki Batthyány Lajost
 - A márciusi események fontos szereplője volt Petőfi Sándor, Jókai Mór és Vasvári Pál
 - Az 1848-’49-es forradalom és szabadságharc egyik legfőbb szimbóluma a piros-fehér-zöld kokárda
+
+
+<br><br>
+![](image999.png) <br> 
+*kokárda*
+
 <br><br>
 
 ### 2.1.8 Az 1848-49. évi forradalom és szabadságharc
