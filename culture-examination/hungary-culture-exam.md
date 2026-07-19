@@ -19,7 +19,7 @@ Last update: 2026.07.18
 <br><br>
 
 ### 1.1.2 Magyarország címere
-![](image003.png)
+![](./images/image003.png)
 
 - Vörössel és ezüsttel hétszer vágott mező
 - Kettős kereszt
@@ -27,7 +27,7 @@ Last update: 2026.07.18
 <br><br>
 
 ### 1.1.3 Magyarország zászlója
-![](image004.png)
+![](./images/image004.png)
 
 A színek az alábbiakat jelképezik:
 - a piros sáv az „erőt” 
@@ -36,7 +36,7 @@ A színek az alábbiakat jelképezik:
 <br><br>
 
 ### 1.1.4 Koronázási jelvények
-![](image005.png)![](image006.png)
+![](./images/image005.png)![](./images/image006.png)
 
 Az egykori királyi hatalom jelképei, jelenleg nemzeti jelképeink részei.
 - Koronázási jogar
@@ -49,7 +49,7 @@ A Szent Korona az Országházban tekinthető meg.
 <br><br>
 
 ### 1.1.5 Egykori magyar koronázó városok
-![](image007.jpg) <br> 
+![](./images/image007.jpg) <br> 
 *Esztergom*
 <br><br>
 
@@ -71,7 +71,7 @@ A Szent Korona az Országházban tekinthető meg.
 Kölcsey Ferenc költeménye, 1823-ban íródott.
 Erkel Ferenc zenésítette meg.
 
-![](image008.jpg) <br> 
+![](./images/image008.jpg) <br> 
 *Kölcsey Ferenc*
 <br><br>
 ```
@@ -91,7 +91,7 @@ A multat s jövendőt!
 Vörösmarty Mihály 1836-ban írta. Egressy Béni zenésítette meg.
 A Himnusz mellett gyakran énekeljük nemzeti ünnepeken.
 
-![](image009.png) <br> 
+![](./images/image009.png) <br> 
 *Vörösmarty Mihály*
 <br><br>
 
@@ -126,11 +126,11 @@ Itt élned, halnod kell.
 Több száz éves sztyeppei vándorlást követően Árpád vezetésével a 7 magyar törzs a IX. század végén foglalta el a Kárpát-medencét, ahol ezt követően a magyarság letelepedett.
 <br><br>
 
-![](image010.jpg) <br> 
+![](./images/image010.jpg) <br> 
 *Vereckei-hágó*
 
 <br><br>
-![](image011.jpg) <br> 
+![](./images/image011.jpg) <br> 
 *Szent István lovas szobra a Budai várban*
 
 <br><br>
@@ -193,7 +193,7 @@ A reformkor fő politikai céljai:
 - Nevéhez fűződik a Budát és Pestet összekötő első kőhíd, a Lánchíd megépítése
 
 <br><br>
-![](image012.jpg) <br> 
+![](./images/image012.jpg) <br> 
 *Széchenyi István -- a legnagyobb magyar*
 
 <br><br>
@@ -225,7 +225,7 @@ A márciusi ifjak a Pilvax kávéházban gyűltek össze:
 
 
 <br><br>
-![](image999.png) <br> 
+![](./images/image999.png) <br> 
 *kokárda*
 
 <br><br>
@@ -250,7 +250,7 @@ Tagjai:
 
 <br><br>
 
-![](image013.jpg) <br> 
+![](./images/image013.jpg) <br> 
 *Az első felelős magyar kormány*
 
 <br><br>
@@ -262,7 +262,7 @@ A forradalom kezdeti sikereit követően a Habsburgok az orosz cári hadsereg se
 
 <br><br>
 
-![](image014.jpg) <br> 
+![](./images/image014.jpg) <br> 
 *A tizenhárom aradi vértanú*
 
 <br><br>
@@ -285,17 +285,17 @@ A vereség következményei:
 
 <br><br>
 
-![](image015.jpg) <br> 
+![](./images/image015.jpg) <br> 
 *Deák Ferenc --- a haza bölcse*
 
 <br><br>
 
-![](image016.jpg) <br> 
+![](./images/image016.jpg) <br> 
 *Országház (épült 1885-1904)*
 
 <br><br>
 
-![](image017.jpg) <br> 
+![](./images/image017.jpg) <br> 
 *Vajdahunyad vára (épült 1902–1908)*
 
 <br><br>
@@ -307,7 +307,7 @@ A vereség következményei:
 - 1914 július 28-án az Osztrák-Magyar Monarchia hadat üzent Szerbiának, ezzel kitört az első világháború, Európa országai hadba léptek.
 <br><br><br>
 
-![](image018.jpg) <br> 
+![](./images/image018.jpg) <br> 
 *Ferenc József osztrák császár és magyar király (1848-1916)*
 
 <br><br>
@@ -327,7 +327,7 @@ Az első világháború az antanthatalmak győzelmével végződött.
 
 <br><br>
 
-![](image019.jpg) <br> 
+![](./images/image019.jpg) <br> 
 *Magyarország területi veszteségei a trianoni békeszerződés alapján*
 
 <br><br>
@@ -369,7 +369,7 @@ Egymással szemben álló hatalmak:
 
 <br><br>
 
-![](image020.png) <br> 
+![](./images/image020.png) <br> 
 *Lyukas zászló 1956-ból*
 
 <br><br>
@@ -382,7 +382,7 @@ Egymással szemben álló hatalmak:
 
 <br><br>
 
-![](image021.png) <br> 
+![](./images/image021.png) <br> 
 *Kiégett szovjet harckocsi 1956-ban*
 
 <br><br>
@@ -396,7 +396,7 @@ Egymással szemben álló hatalmak:
 
 <br><br>
 
-![](image022.png) <br> 
+![](./images/image022.png) <br> 
 *1989. június 16. Nagy Imre és mártírtársainak ünnepélyes újratemetése*
 
 <br><br><br><br>
@@ -453,7 +453,7 @@ Kiemelkedő alakjai és egy jelentős művük:
 
 <br><br>
 
-![](image023.jpg) <br> 
+![](./images/image023.jpg) <br> 
 *Petőfi Sándor*
 
 <br><br>
@@ -471,7 +471,7 @@ Kiemelkedő alakjai és egy jelentős művük:
 
 <br><br>
 
-![](image024.png) <br> 
+![](./images/image024.png) <br> 
 *József Attila*
 
 <br><br>
@@ -508,7 +508,7 @@ Az Alaptörvény megalkotásakor az Országgyűlés Magyarország alkotmányos h
 
 <br><br>
 
-![](image025.jpg) <br> 
+![](./images/image025.jpg) <br> 
 *Magyarország Alaptörvénye*
 
 <br><br>
@@ -553,7 +553,7 @@ működteti az állami ellátórendszereket (pl.: honvédelem, rendvédelem, okt
 
 <br><br>
 
-![](image026.png) <br> 
+![](./images/image026.png) <br> 
 *Magyar Péter, Magyarország miniszterelnöke*
 
 <br><br>
@@ -663,7 +663,7 @@ A halálbüntetés Magyarországon:
 
 <br><br>
 
-![](image027.png) <br> 
+![](./images/image027.png) <br> 
 *Tájegységei*
 
 <br><br>
@@ -693,7 +693,7 @@ Magyarország tizenkilenc vármegyéje:
 
 <br><br>
 
-![](image028.png) <br> 
+![](./images/image028.png) <br> 
 *Magyarország vármegyéi*
 
 <br><br>
@@ -720,7 +720,7 @@ Főbb nevezetességei:
 
 <br><br>
 
-![](image029.jpg) <br> 
+![](./images/image029.jpg) <br> 
 *Magyar Állami Operaház*
 
 <br><br>
@@ -757,17 +757,17 @@ Legfontosabb magyar szentek és boldogok:
 
 <br><br>
 
-![](image030.jpg) <br> 
+![](./images/image030.jpg) <br> 
 *Szent István-bazilika*
 
 <br><br>
 
-![](image031.jpg) <br> 
+![](./images/image031.jpg) <br> 
 *Debreceni Református Nagytemplom*
 
 <br><br>
 
-![](image032.jpg) <br> 
+![](./images/image032.jpg) <br> 
 *Békéscsabai Evangélikus Nagytemplom*
 
 <br><br>
@@ -782,7 +782,7 @@ Az európai uniós parlamenti választásokat ötévente tartják. Magyarország
 
 <br><br>
 
-![](image033.png) <br> 
+![](./images/image033.png) <br> 
 *Az Európai Unió hivatalos zászlója*
 
 <br><br>
