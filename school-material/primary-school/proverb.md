@@ -36,7 +36,14 @@ This is Hungary proverb.
 003  ★ 
 
 ***HU:*** Jobb adni, mint kapni.
-It is better to give than to receive.
+
+***EN:*** It is better to give than to receive.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -44,7 +51,14 @@ It is better to give than to receive.
 004 ★ 
 
 ***HU:*** Kétszer ad, aki gyorsan ad.
-He gives twice who gives quickly.
+
+***EN:*** He gives twice who gives quickly.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -52,7 +66,14 @@ He gives twice who gives quickly.
 005 ★ 
 
 ***HU:*** Amilyen az adjonisten, olyan a fogadjisten.
-Like greeting, on arrival, like answer.
+
+***EN:*** Like greeting, on arrival, like answer.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -60,7 +81,14 @@ Like greeting, on arrival, like answer.
 006 ★ 
 
 ***HU:*** Hátrább az agarakkal!
-Backwards with the greyhounds.   'Be more modest!'
+
+***EN:*** Backwards with the greyhounds.   'Be more modest!'
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -68,7 +96,14 @@ Backwards with the greyhounds.   'Be more modest!'
 007 ★ 
  
 ***HU:*** Ki mint veti ágyát, úgy alussza álmát.
-As one makes his bed, so he sleeps his dream.
+
+***EN:*** As one makes his bed, so he sleeps his dream.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -76,7 +111,14 @@ As one makes his bed, so he sleeps his dream.
 008 ★ 
 
 ***HU:*** Ágyúval lő verebekre.
-He shoots at sparrows with a high calibre gun.
+
+***EN:*** He shoots at sparrows with a high calibre gun.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -84,50 +126,105 @@ He shoots at sparrows with a high calibre gun.
 009 ★ 
 
 ***HU:*** Ajándék lónak ne nézd a fogát.
-Do not look at the tooth of a gift horse.
+
+***EN:*** Do not look at the tooth of a gift horse.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
 
-010 ★ Ajtóstul ront be a házba.
-He rushes into the house together with the door.
-'He tells/does something to somebody without announcement.'
+010 ★ 
+
+***HU:*** Ajtóstul ront be a házba.
+
+***EN:*** 
+
+- He rushes into the house together with the door.
+
+- 'He tells/does something to somebody without announcement.'
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
 
-011 ★ Ha kidobják az ajtón, bemegy az ablakon.
+011 ★ 
+
+***HU:*** Ha kidobják az ajtón, bemegy az ablakon.
 If he is thrown out through the door, he enters through the window.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
-012 ★ Nem amint akarnánk, hanem amint lehet.
+012 ★ 
+
+***HU:*** Nem amint akarnánk, hanem amint lehet.
 One should act as he may, not as he would like to.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
-013 ★ Csak akasztásra való istrángot sem érdemelne.
+013 ★ 
+
+***HU:*** Csak akasztásra való istrángot sem érdemelne.
 He would not deserve even the rope for hanging.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
-014 ★ Kinek akasztófa helye, nem hal a Dunába.
+014 ★ 
+
+***HU:*** Kinek akasztófa helye, nem hal a Dunába.
 (A bűnöst eléri méltó büntetése.)
 He whose place is on the gallows, will not die in the Danube.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
-015 ★ Akasztott ember házában kötelet emleget.
+015 ★ 
+
+***HU:*** Akasztott ember házában kötelet emleget.
 He names a rope in the house of a man that was hanged.
 
 <br><br><br>
 
 
-016 ★ Alkalom szüli a tolvajt.
+016 ★ 
+
+***HU:*** Alkalom szüli a tolvajt.
 Opportunity bears the thief.
 
 <br><br><br>
@@ -135,99 +232,133 @@ Opportunity bears the thief.
 
 017 ★ 
 
-***HU:***Felkavarta az állóvizet.
- Követ dobott az állóvízbe.
+***HU:***
+
+- Felkavarta az állóvizet.
+
+- Követ dobott az állóvízbe.
 
 
-***EN:*** He has stirred up (or threw a stone into) still water.
-'He brought motion in a quiet life.'
+***EN:*** 
+
+- He has stirred up (or threw a stone into) still water.
+
+- 'He brought motion in a quiet life.'
 
 ***CN:***
 
 <br><br><br>
 
 
-018 ★ Nem esik messze az alma a fájától.
+018 ★ 
+
+***HU:*** Nem esik messze az alma a fájától.
 The apple does not fall far from its tree.
 
 <br><br><br>
 
 
-019 ★ Nem vagyunk angyalok.
+019 ★ 
+
+***HU:*** Nem vagyunk angyalok.
 We are not angels.
 
 <br><br><br>
 
 
-020 ★ Amilyen az anya, olyan a leánya.
+020 ★ 
+
+***HU:*** Amilyen az anya, olyan a leánya.
 Like mother, like daughter.
 
 <br><br><br>
 
 
-021 ★ Nézd meg az anyját, vedd el a lányát.
+021 ★ 
+
+***HU:*** Nézd meg az anyját, vedd el a lányát.
 Have a close look at the mother and then marry her daughter.
 
 <br><br><br>
 
 
-022 ★ Ár ellen nehéz úszni.
+022 ★ 
+
+***HU:*** Ár ellen nehéz úszni.
 It is difficult to swim against the stream.
 
 <br><br><br>
 
 
-023 ★ Aki nem tud arabusul, ne beszéljen arabusul.
+023 ★ 
+
+***HU:*** Aki nem tud arabusul, ne beszéljen arabusul.
 He who cannot speak Arabic, should not speak Arabic.
 'He who has no knowledge/understanding of something, should not engage in (or interfere with) it.'
 
 <br><br><br>
 
 
-024 ★ Az arany a sárban is arany.
+024 ★ 
+
+***HU:*** Az arany a sárban is arany.
 Gold is gold even in the mud.
 
 <br><br><br>
 
 
-025 ★ Hallgatni arany (beszélni ezüst).
+025 ★ 
+
+***HU:*** Hallgatni arany (beszélni ezüst).
 To be silent is golden (to speak is silver).
 
 <br><br><br>
 
 
-026 ★ Nem mind arany, ami fénylik.
+026 ★ 
+
+***HU:*** Nem mind arany, ami fénylik.
 All is not gold that glitters.
 
 <br><br><br>
 
 
-027 ★ Ki korán kel, aranyat lel.
+027 ★ 
+
+***HU:*** Ki korán kel, aranyat lel.
 He who gets up early finds gold.
 
 <br><br><br>
 
 
-028 ★ Nem fog aranyon a rozsda.
+028 ★ 
+
+***HU:*** Nem fog aranyon a rozsda.
 Rust cannot do any harm to gold.
 'A man of character is resistant to temptation.'
 
 <br><br><br>
 
 
-029 ★ Aranykulcs minden ajtóba beillik.
+029 ★ 
+
+***HU:*** Aranykulcs minden ajtóba beillik.
 A golden key fits every door.
 
 <br><br><br>
 
 
-030 ★ Nem mindig az arat, aki vet.
+030 ★ 
+
+***HU:*** Nem mindig az arat, aki vet.
 Not always that reaps who sows.
 
 <br><br><br>
 
 
-031 ★ Ez nem az én asztalom.
+031 ★ 
+
+***HU:*** Ez nem az én asztalom.
 This is not my table.
 'This is not my duty/responsibility/concern.'
 "A refusal of doing/dealing with something."
@@ -235,37 +366,49 @@ This is not my table.
 <br><br><br>
 
 
-032 ★ Három asszony (egy lúd, két asszony), egész vásár.
+032 ★ 
+
+***HU:*** Három asszony (egy lúd, két asszony), egész vásár.
 Three women (A goose and two women) make a whole fair.
 
 <br><br><br>
 
 
-033 ★ Jó asszony a háznak koronája.
+033 ★ 
+
+***HU:*** Jó asszony a háznak koronája.
 A good wife is the crown of the house.
 
 <br><br><br>
 
 
-034 ★ Serény asszonynak rest a lánya, rest asszonynak serény a lánya.
+034 ★ 
+
+***HU:*** Serény asszonynak rest a lánya, rest asszonynak serény a lánya.
 A busy women has a lazy daughter, a lazy women has a busy daughter.
 
 <br><br><br>
 
 
-035 ★ Higgy az asszonynépnek, mint az áprilisi időjárásnak.
+035 ★ 
+
+***HU:*** Higgy az asszonynépnek, mint az áprilisi időjárásnak.
 Believe in women as in the weather in April.
 
 <br><br><br>
 
 
-036 ★ Könnyű az asztag alatt/mellett kalászt szedni.
+036 ★ 
+
+***HU:*** Könnyű az asztag alatt/mellett kalászt szedni.
 It is easy to collect ears of corn under/beside a stack.
 
 <br><br><br>
 
 
-037 ★ Nem játszunk "add vissza a babaruhát."
+037 ★ 
+
+***HU:*** Nem játszunk "add vissza a babaruhát."
 We do not play 'Return the dolls clothes'.
 'I do not agree to cancel a promise/agreement or to return a present given by him.'
 
