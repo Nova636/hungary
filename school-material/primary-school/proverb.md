@@ -161,7 +161,7 @@ This is Hungary proverb.
 
 ***HU:*** Ha kidobják az ajtón, bemegy az ablakon.
 
-***EN:***If he is thrown out through the door, he enters through the window.
+***EN:*** If he is thrown out through the door, he enters through the window.
 
 ***CN:*** 
 
