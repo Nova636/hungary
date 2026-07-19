@@ -543,10 +543,14 @@ a Kormány feje,
 képviseli Magyarországot az Európai Tanácsban
 <br><br>
 
-A Kormány főbb feladatai:
+***A Kormány főbb feladatai:***
+
 irányítja a közigazgatás munkáját és összehangolja tevékenységét,
+
 jogszabályokat alkot,
+
 működteti az állami ellátórendszereket (pl.: honvédelem, rendvédelem, oktatás, egészségügy)
+
 <br><br>
 
 ![](image026.png) <br> 
