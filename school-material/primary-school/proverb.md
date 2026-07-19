@@ -1,7 +1,7 @@
 
 This is Hungary proverb.
 
-
+<br><br><br>
 
 
 
@@ -12,7 +12,8 @@ This is Hungary proverb.
 
 ***EN:*** He that says a, should also say b.
 
-***CN:*** 
+***CN:*** 字面意思：谁既然说了“A”，也应该把“B”说出来。
+          翻译：有始有终。
 
 <br><br><br>
 
