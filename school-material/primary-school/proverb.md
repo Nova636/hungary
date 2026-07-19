@@ -175,7 +175,8 @@ This is Hungary proverb.
 012 ★ 
 
 ***HU:*** Nem amint akarnánk, hanem amint lehet.
-One should act as he may, not as he would like to.
+
+***EN:*** One should act as he may, not as he would like to.
 
 ***CN:*** 
 
@@ -189,7 +190,8 @@ One should act as he may, not as he would like to.
 013 ★ 
 
 ***HU:*** Csak akasztásra való istrángot sem érdemelne.
-He would not deserve even the rope for hanging.
+
+***EN:*** He would not deserve even the rope for hanging.
 
 ***CN:*** 
 
@@ -202,9 +204,9 @@ He would not deserve even the rope for hanging.
 
 014 ★ 
 
-***HU:*** Kinek akasztófa helye, nem hal a Dunába.
-(A bűnöst eléri méltó büntetése.)
-He whose place is on the gallows, will not die in the Danube.
+***HU:*** Kinek akasztófa helye, nem hal a Dunába. (A bűnöst eléri méltó büntetése.)
+
+***EN:*** He whose place is on the gallows, will not die in the Danube.
 
 ***CN:*** 
 
@@ -218,7 +220,14 @@ He whose place is on the gallows, will not die in the Danube.
 015 ★ 
 
 ***HU:*** Akasztott ember házában kötelet emleget.
-He names a rope in the house of a man that was hanged.
+
+***EN:*** He names a rope in the house of a man that was hanged.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -226,7 +235,14 @@ He names a rope in the house of a man that was hanged.
 016 ★ 
 
 ***HU:*** Alkalom szüli a tolvajt.
-Opportunity bears the thief.
+
+***EN:*** Opportunity bears the thief.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -256,6 +272,12 @@ Opportunity bears the thief.
 ***HU:*** Nem esik messze az alma a fájától.
 The apple does not fall far from its tree.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
@@ -263,6 +285,12 @@ The apple does not fall far from its tree.
 
 ***HU:*** Nem vagyunk angyalok.
 We are not angels.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -272,6 +300,12 @@ We are not angels.
 ***HU:*** Amilyen az anya, olyan a leánya.
 Like mother, like daughter.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
@@ -280,6 +314,12 @@ Like mother, like daughter.
 ***HU:*** Nézd meg az anyját, vedd el a lányát.
 Have a close look at the mother and then marry her daughter.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
@@ -287,6 +327,12 @@ Have a close look at the mother and then marry her daughter.
 
 ***HU:*** Ár ellen nehéz úszni.
 It is difficult to swim against the stream.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -297,6 +343,12 @@ It is difficult to swim against the stream.
 He who cannot speak Arabic, should not speak Arabic.
 'He who has no knowledge/understanding of something, should not engage in (or interfere with) it.'
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
@@ -304,6 +356,12 @@ He who cannot speak Arabic, should not speak Arabic.
 
 ***HU:*** Az arany a sárban is arany.
 Gold is gold even in the mud.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -313,6 +371,12 @@ Gold is gold even in the mud.
 ***HU:*** Hallgatni arany (beszélni ezüst).
 To be silent is golden (to speak is silver).
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
@@ -321,6 +385,12 @@ To be silent is golden (to speak is silver).
 ***HU:*** Nem mind arany, ami fénylik.
 All is not gold that glitters.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
@@ -328,6 +398,12 @@ All is not gold that glitters.
 
 ***HU:*** Ki korán kel, aranyat lel.
 He who gets up early finds gold.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -338,6 +414,12 @@ He who gets up early finds gold.
 Rust cannot do any harm to gold.
 'A man of character is resistant to temptation.'
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
@@ -346,6 +428,12 @@ Rust cannot do any harm to gold.
 ***HU:*** Aranykulcs minden ajtóba beillik.
 A golden key fits every door.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
@@ -353,6 +441,12 @@ A golden key fits every door.
 
 ***HU:*** Nem mindig az arat, aki vet.
 Not always that reaps who sows.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -364,6 +458,12 @@ This is not my table.
 'This is not my duty/responsibility/concern.'
 "A refusal of doing/dealing with something."
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
@@ -371,6 +471,12 @@ This is not my table.
 
 ***HU:*** Három asszony (egy lúd, két asszony), egész vásár.
 Three women (A goose and two women) make a whole fair.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -380,6 +486,12 @@ Three women (A goose and two women) make a whole fair.
 ***HU:*** Jó asszony a háznak koronája.
 A good wife is the crown of the house.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
@@ -387,6 +499,12 @@ A good wife is the crown of the house.
 
 ***HU:*** Serény asszonynak rest a lánya, rest asszonynak serény a lánya.
 A busy women has a lazy daughter, a lazy women has a busy daughter.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -396,6 +514,12 @@ A busy women has a lazy daughter, a lazy women has a busy daughter.
 ***HU:*** Higgy az asszonynépnek, mint az áprilisi időjárásnak.
 Believe in women as in the weather in April.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
@@ -403,6 +527,12 @@ Believe in women as in the weather in April.
 
 ***HU:*** Könnyű az asztag alatt/mellett kalászt szedni.
 It is easy to collect ears of corn under/beside a stack.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -413,11 +543,23 @@ It is easy to collect ears of corn under/beside a stack.
 We do not play 'Return the dolls clothes'.
 'I do not agree to cancel a promise/agreement or to return a present given by him.'
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
 038 ★ Sok bába közt elvész a gyerek.
 Among many midwives the child is lost.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -425,11 +567,23 @@ Among many midwives the child is lost.
 039 ★ Nem babra megy a játék.
 The stake of the play is not beans.        'It is a serious matter.'
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
 040 ★ A bagoly is bíró barlangjában.
 Even an owl is a judge in her cave.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
@@ -437,11 +591,23 @@ Even an owl is a judge in her cave.
 041 ★ Bagoly mondja verébnek, hogy nagyfejű.
 The owl tells the sparrow that her head is big.
 
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
+
 <br><br><br>
 
 
 042 ★ A baj nem jár egyedül.
 Trouble does not come alone.
+
+***CN:*** 
+
+- 字面意思： 
+
+- 翻译：
 
 <br><br><br>
 
