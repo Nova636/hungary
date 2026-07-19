@@ -581,7 +581,7 @@ működteti az állami ellátórendszereket (pl.: honvédelem, rendvédelem, okt
 ## 4.5 A köztársasági elnök
 Magyarország államfője, aki kifejezi a nemzet egységét és őrködik az államszervezet demokratikus működése felett.
 
-Magyarország köztársasági elnöke: Dr. Sulyok Tamás
+Magyarország köztársasági elnöke: ***Dr. Sulyok Tamás***
 
 - az Országgyűlés választja 5 évre titkos szavazással - legfeljebb egy alkalommal újraválasztható
 - a Magyar Honvédség főparancsnoka
