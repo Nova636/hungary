@@ -14,7 +14,7 @@ This is Hungary proverb.
 
 ***CN:*** 字面意思：谁既然说了“A”，也应该把“B”说出来。
 
-    翻译：有始有终。
+   翻译：有始有终。
 
 <br><br><br>
 
@@ -25,7 +25,8 @@ This is Hungary proverb.
 ***EN:*** If something is given to you then take it, if you are beaten, then run away.
 
 ***CN:*** 字面意思：给你的就拿着，挨打了就跑。 
-    翻译：有始有终。
+
+   翻译：有始有终。
 
 <br><br><br>
 
