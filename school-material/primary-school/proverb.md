@@ -131,9 +131,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 字面意思： 
+- 字面意思： 不要看赠送的马的牙齿。
 
-- 翻译：
+- 翻译：不要挑三拣四。
 
 <br><br><br>
 
@@ -146,13 +146,13 @@ This is Hungary proverb.
 
 - He rushes into the house together with the door.
 
-- 'He tells/does something to somebody without announcement.'
+- He tells/does something to somebody without announcement.
 
 ***CN:*** 
 
-- 字面意思： 
+- 字面意思： 连门一起撞进房子。
 
-- 翻译：
+- 翻译：破门而入。
 
 <br><br><br>
 
