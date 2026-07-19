@@ -152,7 +152,7 @@ This is Hungary proverb.
 
 - 字面意思： 连门一起撞进房子。
 
-- 翻译：破门而入。
+- 翻译：破门而入。/开门见山。
 
 <br><br><br>
 
@@ -160,7 +160,8 @@ This is Hungary proverb.
 011 ★ 
 
 ***HU:*** Ha kidobják az ajtón, bemegy az ablakon.
-If he is thrown out through the door, he enters through the window.
+
+***EN:***If he is thrown out through the door, he enters through the window.
 
 ***CN:*** 
 
