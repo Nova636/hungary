@@ -534,7 +534,7 @@ A Kormány és a neki alárendelt közigazgatás alkotja a végrehajtó hatalmat
 Tagjai a kormányfő (miniszterelnök) és a miniszterek.
 <br><br>
 
-Magyarország miniszterelnöke: Magyar Péter
+Magyarország miniszterelnöke: ***Magyar Péter***
 az Országgyűlés választja meg,
 a Kormány feje,
 képviseli Magyarországot az Európai Tanácsban
