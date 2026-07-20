@@ -225,7 +225,7 @@ A márciusi ifjak a Pilvax kávéházban gyűltek össze:
 
 
 <br><br>
-![](./images/image999.png) <br> 
+![](./images/image997.png) <br> 
 *kokárda*
 
 <br><br>
@@ -553,7 +553,7 @@ működteti az állami ellátórendszereket (pl.: honvédelem, rendvédelem, okt
 
 <br><br>
 
-![](./images/image026.png) <br> 
+![](./images/image998.png) <br> 
 *Magyar Péter, Magyarország miniszterelnöke*
 
 <br><br>
