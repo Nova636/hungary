@@ -193,7 +193,7 @@ A reformkor fő politikai céljai:
 - Nevéhez fűződik a Budát és Pestet összekötő első kőhíd, a Lánchíd megépítése
 
 <br><br>
-![](./images/image012.jpg) <br> 
+![](./images/image012.png) <br> 
 *Széchenyi István -- a legnagyobb magyar*
 
 <br><br>
