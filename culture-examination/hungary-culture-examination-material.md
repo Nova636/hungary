@@ -663,7 +663,7 @@ A halálbüntetés Magyarországon:
 
 <br><br>
 
-![](./images/image027.png) <br> 
+![](./images/image996.png) <br> 
 *Tájegységei*
 
 <br><br>
