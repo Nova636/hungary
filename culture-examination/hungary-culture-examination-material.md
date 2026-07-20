@@ -693,7 +693,7 @@ Magyarország tizenkilenc vármegyéje:
 
 <br><br>
 
-![](./images/image028.png) <br> 
+![](./images/image995.png) <br> 
 *Magyarország vármegyéi*
 
 <br><br>
