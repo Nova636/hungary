@@ -7,8 +7,8 @@ Following is the official link:
 https://oif.gov.hu/factsheets/hungarian-cultural-knowledge-exam
 
 
-
-
+<br><br><br>
+<br><br><br>
 
 
 MAGYAR KULTURÁLIS ISMERETI VIZSGA - TÁJÉKOZTATÓ：
