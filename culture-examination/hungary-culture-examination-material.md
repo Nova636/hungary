@@ -130,7 +130,7 @@ Több száz éves sztyeppei vándorlást követően Árpád vezetésével a 7 ma
 *Vereckei-hágó*
 
 <br><br>
-![](./images/image011.jpg) <br> 
+![](./images/image993.png) <br> 
 *Szent István lovas szobra a Budai várban*
 
 <br><br>
@@ -290,12 +290,12 @@ A vereség következményei:
 
 <br><br>
 
-![](./images/image016.jpg) <br> 
+![](./images/image992.png) <br> 
 *Országház (épült 1885-1904)*
 
 <br><br>
 
-![](./images/image017.jpg) <br> 
+![](./images/image991.png) <br> 
 *Vajdahunyad vára (épült 1902–1908)*
 
 <br><br>
