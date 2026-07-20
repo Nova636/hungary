@@ -453,7 +453,7 @@ Kiemelkedő alakjai és egy jelentős művük:
 
 <br><br>
 
-![](./images/image023.jpg) <br> 
+![](./images/image023.png) <br> 
 *Petőfi Sándor*
 
 <br><br>
