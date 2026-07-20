@@ -285,7 +285,7 @@ A vereség következményei:
 
 <br><br>
 
-![](./images/image015.jpg) <br> 
+![](./images/image015.png) <br> 
 *Deák Ferenc --- a haza bölcse*
 
 <br><br>
