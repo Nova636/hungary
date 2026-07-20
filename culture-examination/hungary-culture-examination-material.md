@@ -262,7 +262,7 @@ A forradalom kezdeti sikereit követően a Habsburgok az orosz cári hadsereg se
 
 <br><br>
 
-![](./images/image014.jpg) <br> 
+![](./images/image014.png) <br> 
 *A tizenhárom aradi vértanú*
 
 <br><br>
