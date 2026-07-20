@@ -197,7 +197,7 @@ This is Hungary proverb.
 
 - 直译： 他连一根用来吊死他的绳子都不配。
 
-- 翻译：
+- 翻译：一文不值。
 
 <br><br><br>
 
