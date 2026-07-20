@@ -327,7 +327,7 @@ Az első világháború az antanthatalmak győzelmével végződött.
 
 <br><br>
 
-![](./images/image019.jpg) <br> 
+![](./images/image019.png) <br> 
 *Magyarország területi veszteségei a trianoni békeszerződés alapján*
 
 <br><br>
