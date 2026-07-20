@@ -27,3 +27,9 @@ MAGYAR KULTURÁLIS ISMERETI VIZSGA - JELENTKEZÉSI LAP：
 https://kormanyhivatalok.hu/sites/default/files/2025-01/magyar-kulturalis-ismereti-vizsga-jelentkezesi-lap.docx
 
 
+<br><br><br>
+
+
+
+
+
