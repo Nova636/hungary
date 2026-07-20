@@ -49,7 +49,7 @@ A Szent Korona az Országházban tekinthető meg.
 <br><br>
 
 ### 1.1.5 Egykori magyar koronázó városok
-![](./images/image007.jpg) <br> 
+![](./images/image990.png) <br> 
 *Esztergom*
 <br><br>
 
@@ -720,7 +720,7 @@ Főbb nevezetességei:
 
 <br><br>
 
-![](./images/image029.jpg) <br> 
+![](./images/image989.png) <br> 
 *Magyar Állami Operaház*
 
 <br><br>
@@ -757,17 +757,17 @@ Legfontosabb magyar szentek és boldogok:
 
 <br><br>
 
-![](./images/image030.jpg) <br> 
+![](./images/image988.png) <br> 
 *Szent István-bazilika*
 
 <br><br>
 
-![](./images/image031.jpg) <br> 
+![](./images/image987.png) <br> 
 *Debreceni Református Nagytemplom*
 
 <br><br>
 
-![](./images/image032.jpg) <br> 
+![](./images/image986.png) <br> 
 *Békéscsabai Evangélikus Nagytemplom*
 
 <br><br>
