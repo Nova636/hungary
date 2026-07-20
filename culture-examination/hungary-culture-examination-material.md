@@ -307,7 +307,7 @@ A vereség következményei:
 - 1914 július 28-án az Osztrák-Magyar Monarchia hadat üzent Szerbiának, ezzel kitört az első világháború, Európa országai hadba léptek.
 <br><br><br>
 
-![](./images/image018.jpg) <br> 
+![](./images/image985.png) <br> 
 *Ferenc József osztrák császár és magyar király (1848-1916)*
 
 <br><br>
@@ -471,7 +471,7 @@ Kiemelkedő alakjai és egy jelentős művük:
 
 <br><br>
 
-![](./images/image024.png) <br> 
+![](./images/image984.png) <br> 
 *József Attila*
 
 <br><br>
