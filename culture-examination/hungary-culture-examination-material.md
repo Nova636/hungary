@@ -250,7 +250,7 @@ Tagjai:
 
 <br><br>
 
-![](./images/image013.jpg) <br> 
+![](./images/image013.png) <br> 
 *Az első felelős magyar kormány*
 
 <br><br>
