@@ -9,8 +9,8 @@ HU                     |  EN                | CN
 :----------------------|:-------------------|:-------------------------
 a közelben             |around here         |在附近
 ablak                  |window              |窗户
-ágy
-ahol
+ágy                    |bed                 |床
+ahol                   |
 ajtó
 akar
 aki
