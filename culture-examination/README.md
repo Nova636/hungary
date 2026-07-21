@@ -2,8 +2,7 @@ Hungarian cultural knowledge examination material link(online):
 
 https://github.com/Nova636/hungary/blob/main/culture-examination/hungary-culture-examination-material.md
 
-<br><br><br>
-<br><br><br>
+<br><br>
 
 Hungarian cultural knowledge examination material link(pdf file, printable):
 
