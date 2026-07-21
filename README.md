@@ -6,7 +6,7 @@ This is about Hungary information
 
 this is the link:
 
-https://github.com/Nova636/hungary/blob/main/culture-examination/hungary-culture-examination-material.md
+https://github.com/Nova636/hungary/tree/main/culture-examination
 
 
 
@@ -21,9 +21,9 @@ https://github.com/Nova636/hungary/blob/main/culture-examination/hungary-culture
 
 # School Material
 
-## 
+## primary school
 
-## 
+## high school
 
 
 
