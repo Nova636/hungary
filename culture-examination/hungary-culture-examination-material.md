@@ -545,11 +545,9 @@ képviseli Magyarországot az Európai Tanácsban
 
 ***A Kormány főbb feladatai:***
 
-irányítja a közigazgatás munkáját és összehangolja tevékenységét,
-
-jogszabályokat alkot,
-
-működteti az állami ellátórendszereket (pl.: honvédelem, rendvédelem, oktatás, egészségügy)
+- irányítja a közigazgatás munkáját és összehangolja tevékenységét,
+- jogszabályokat alkot,
+- működteti az állami ellátórendszereket (pl.: honvédelem, rendvédelem, oktatás, egészségügy)
 
 <br><br>
 
