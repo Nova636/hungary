@@ -536,11 +536,9 @@ Tagjai a kormányfő (miniszterelnök) és a miniszterek.
 
 Magyarország miniszterelnöke: ***Magyar Péter***
 
-az Országgyűlés választja meg,
-
-a Kormány feje,
-
-képviseli Magyarországot az Európai Tanácsban
+- az Országgyűlés választja meg,
+- a Kormány feje,
+- képviseli Magyarországot az Európai Tanácsban
 <br><br>
 
 ***A Kormány főbb feladatai:***
