@@ -583,9 +583,13 @@ Magyarország köztársasági elnöke: ***Forsthoffer Ágnes***
 - a Magyar Honvédség főparancsnoka
 - összehívja az Országgyűlés alakuló ülését
 - feloszlathatja az Országgyűlést (Alaptörvényben meghatározott esetekben)
-<br>
-  ![](./images/image983.png) <br> 
+
+<br><br>
+
+![](./images/image983.png) <br> 
+
 *Forsthoffer Ágnes, Magyarország ideiglenes köztársasági elnöke*
+
 <br><br><br><br>
 
 
