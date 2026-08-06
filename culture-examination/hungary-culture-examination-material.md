@@ -577,7 +577,7 @@ Magyarország miniszterelnöke: ***Magyar Péter***
 ## 4.5 A köztársasági elnök
 Magyarország államfője, aki kifejezi a nemzet egységét és őrködik az államszervezet demokratikus működése felett.
 
-Magyarország köztársasági elnöke: ***Forsthoffer Ágnes***
+Magyarország köztársasági elnöke: ***Forsthoffer Ágnes***(ideiglenes)
 
 - az Országgyűlés választja 5 évre titkos szavazással - legfeljebb egy alkalommal újraválasztható
 - a Magyar Honvédség főparancsnoka
