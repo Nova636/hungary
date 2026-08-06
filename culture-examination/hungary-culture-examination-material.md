@@ -656,7 +656,7 @@ A halálbüntetés Magyarországon:
 - Területe: 93 ezer km².
 - Népessége: 9,6 millió fő
 - Fővárosa: Budapest
-- Tájegységei: Alföld, Alpokalja, Dunántúli-dombság, Dunántúl-középhegység, Északi-középhegység, Kisalföld
+- Tájegységei: Alföld, Alpokalja, Dunántúli-dombság, Dunántúli-középhegység, Északi-középhegység, Kisalföld
 - Legnagyobb tavai: Balaton, Fertő tó, Velencei-tó
 - Legnagyobb folyói: Duna, Tisza, Dráva, Rába
 - Szomszédos országok: Szlovákia, Ukrajna, Románia, Szerbia, Horvátország, Szlovénia, Ausztria
@@ -751,7 +751,7 @@ Magyarország legrégibb és legjelentősebb felekezetei:
 Legfontosabb keresztény ünnepek és magyar szokások:
 - Karácsonykor (december 24-26.) a keresztények Jézus, a Megváltó születését ünneplik. Az egyik legfontosabb keresztény és családi ünnep.
 - Húsvétkor Jézus kereszthalálára emlékezünk és feltámadását ünnepeljük.
-- Augusztus 20-a Szent István király, a magyar államalapítás napja, ekkor kerül sor a Szent Jobb Körmenetre a király ereklyéjével, majd következik az esti tűzijáték.
+- Augusztus 20-a Szent István király, a magyar államalapítás napja, ekkor kerül sor a Szent Jobbkörmenetre a király ereklyéjével, majd következik az esti tűzijáték.
 <br><br>
 
 Legfontosabb magyar szentek és boldogok:
