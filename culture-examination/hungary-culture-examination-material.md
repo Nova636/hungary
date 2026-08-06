@@ -577,12 +577,15 @@ Magyarország miniszterelnöke: ***Magyar Péter***
 ## 4.5 A köztársasági elnök
 Magyarország államfője, aki kifejezi a nemzet egységét és őrködik az államszervezet demokratikus működése felett.
 
-Magyarország köztársasági elnöke: ***Dr. Sulyok Tamás***
+Magyarország köztársasági elnöke: ***Forsthoffer Ágnes***
 
 - az Országgyűlés választja 5 évre titkos szavazással - legfeljebb egy alkalommal újraválasztható
 - a Magyar Honvédség főparancsnoka
 - összehívja az Országgyűlés alakuló ülését
 - feloszlathatja az Országgyűlést (Alaptörvényben meghatározott esetekben)
+<br>
+  ![](./images/image983.png) <br> 
+*Forsthoffer Ágnes, Magyarország ideiglenes köztársasági elnöke*
 <br><br><br><br>
 
 
