@@ -1,7 +1,7 @@
 ```
 Hungarian cultural knowledge exam
 Magyar kulturális ismereti vizsga
-Last update: 2026.07.18
+Last update: 2026.08.06
 ```
 
 
