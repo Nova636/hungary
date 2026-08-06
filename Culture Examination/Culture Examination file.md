@@ -30,7 +30,7 @@ https://kormanyhivatalok.hu/sites/default/files/2025-01/magyar-kulturalis-ismere
 
 MAGYAR KULTURÁLIS ISMERETI VIZSGA - SEGÉDANYAG：
 
-https://kormanyhivatalok.hu/sites/default/files/2026-07/kiv_segedanyag_bfkh_01_14_honlapra_bfkh.pdf
+https://kormanyhivatalok.hu/sites/default/files/2026-07/kiv_segedanyag.pptx
 
 <br><br>
 
