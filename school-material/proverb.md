@@ -225,9 +225,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 在被绞死之人的家里提起绳子。
 
-- 翻译：
+- 翻译：哪壶不开提哪壶。/往别人伤口上撒盐。
 
 <br><br><br>
 
@@ -240,9 +240,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 机会造就小偷。
 
-- 翻译：
+- 翻译：苍蝇不叮无缝的蛋。/财帛动人心。
 
 <br><br><br>
 
@@ -260,9 +260,13 @@ This is Hungary proverb.
 
 - He has stirred up (or threw a stone into) still water.
 
-- 'He brought motion in a quiet life.'
+- He brought motion in a quiet life.
 
 ***CN:***
+
+- 直译： 把静止的水搅浑了。/往静水里扔了一块石头。
+
+- 翻译： 一石激起千层浪。
 
 <br><br><br>
 
@@ -270,13 +274,14 @@ This is Hungary proverb.
 018 ★ 
 
 ***HU:*** Nem esik messze az alma a fájától.
-The apple does not fall far from its tree.
+
+***EN:*** The apple does not fall far from its tree.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 苹果不会掉得离树太远。
 
-- 翻译：
+- 翻译： 有其父必有其子。/龙生龙，凤生凤。
 
 <br><br><br>
 
@@ -284,13 +289,14 @@ The apple does not fall far from its tree.
 019 ★ 
 
 ***HU:*** Nem vagyunk angyalok.
-We are not angels.
+
+***EN:*** We are not angels.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 我们不是天使。
 
-- 翻译：
+- 翻译： 人无完人。/人非圣贤，孰能无过？
 
 <br><br><br>
 
@@ -298,13 +304,14 @@ We are not angels.
 020 ★ 
 
 ***HU:*** Amilyen az anya, olyan a leánya.
-Like mother, like daughter.
+
+***EN:*** Like mother, like daughter.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 母亲是什么样，女儿就是什么样。
 
-- 翻译：
+- 翻译： 有其母必有其女。/有其父必有其子。
 
 <br><br><br>
 
@@ -312,13 +319,14 @@ Like mother, like daughter.
 021 ★ 
 
 ***HU:*** Nézd meg az anyját, vedd el a lányát.
-Have a close look at the mother and then marry her daughter.
+
+***EN:*** Have a close look at the mother and then marry her daughter.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 看看她的母亲，然后娶她的女儿。
 
-- 翻译：
+- 翻译： 有其母必有其女。
 
 <br><br><br>
 
@@ -326,13 +334,14 @@ Have a close look at the mother and then marry her daughter.
 022 ★ 
 
 ***HU:*** Ár ellen nehéz úszni.
-It is difficult to swim against the stream.
+
+***EN:*** It is difficult to swim against the stream.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 逆流游泳很困难。
 
-- 翻译：
+- 翻译： 逆水行舟。/逆势而行。
 
 <br><br><br>
 
@@ -340,14 +349,16 @@ It is difficult to swim against the stream.
 023 ★ 
 
 ***HU:*** Aki nem tud arabusul, ne beszéljen arabusul.
-He who cannot speak Arabic, should not speak Arabic.
-'He who has no knowledge/understanding of something, should not engage in (or interfere with) it.'
+
+***EN:*** 
+- He who cannot speak Arabic, should not speak Arabic.
+- He who has no knowledge/understanding of something, should not engage in (or interfere with) it.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 不会说阿拉伯语的人，就不要说阿拉伯语。
 
-- 翻译：
+- 翻译： 不懂就别瞎说。/不懂装懂。
 
 <br><br><br>
 
@@ -355,7 +366,8 @@ He who cannot speak Arabic, should not speak Arabic.
 024 ★ 
 
 ***HU:*** Az arany a sárban is arany.
-Gold is gold even in the mud.
+
+***EN:*** Gold is gold even in the mud.
 
 ***CN:*** 
 
@@ -369,7 +381,8 @@ Gold is gold even in the mud.
 025 ★ 
 
 ***HU:*** Hallgatni arany (beszélni ezüst).
-To be silent is golden (to speak is silver).
+
+***EN:*** To be silent is golden (to speak is silver).
 
 ***CN:*** 
 
@@ -383,7 +396,8 @@ To be silent is golden (to speak is silver).
 026 ★ 
 
 ***HU:*** Nem mind arany, ami fénylik.
-All is not gold that glitters.
+
+***EN:*** All is not gold that glitters.
 
 ***CN:*** 
 
@@ -397,7 +411,8 @@ All is not gold that glitters.
 027 ★ 
 
 ***HU:*** Ki korán kel, aranyat lel.
-He who gets up early finds gold.
+
+***EN:*** He who gets up early finds gold.
 
 ***CN:*** 
 
@@ -411,8 +426,10 @@ He who gets up early finds gold.
 028 ★ 
 
 ***HU:*** Nem fog aranyon a rozsda.
-Rust cannot do any harm to gold.
-'A man of character is resistant to temptation.'
+
+***EN:*** 
+- Rust cannot do any harm to gold.
+- A man of character is resistant to temptation.
 
 ***CN:*** 
 
@@ -426,7 +443,8 @@ Rust cannot do any harm to gold.
 029 ★ 
 
 ***HU:*** Aranykulcs minden ajtóba beillik.
-A golden key fits every door.
+
+***EN:*** A golden key fits every door.
 
 ***CN:*** 
 
@@ -440,7 +458,8 @@ A golden key fits every door.
 030 ★ 
 
 ***HU:*** Nem mindig az arat, aki vet.
-Not always that reaps who sows.
+
+***EN:*** Not always that reaps who sows.
 
 ***CN:*** 
 
@@ -454,9 +473,11 @@ Not always that reaps who sows.
 031 ★ 
 
 ***HU:*** Ez nem az én asztalom.
-This is not my table.
-'This is not my duty/responsibility/concern.'
-"A refusal of doing/dealing with something."
+
+***EN:*** 
+- This is not my table.
+- This is not my duty/responsibility/concern.
+- A refusal of doing/dealing with something.
 
 ***CN:*** 
 
@@ -470,7 +491,8 @@ This is not my table.
 032 ★ 
 
 ***HU:*** Három asszony (egy lúd, két asszony), egész vásár.
-Three women (A goose and two women) make a whole fair.
+
+***EN:*** Three women (A goose and two women) make a whole fair.
 
 ***CN:*** 
 
@@ -484,7 +506,8 @@ Three women (A goose and two women) make a whole fair.
 033 ★ 
 
 ***HU:*** Jó asszony a háznak koronája.
-A good wife is the crown of the house.
+
+***EN:*** A good wife is the crown of the house.
 
 ***CN:*** 
 
@@ -498,7 +521,8 @@ A good wife is the crown of the house.
 034 ★ 
 
 ***HU:*** Serény asszonynak rest a lánya, rest asszonynak serény a lánya.
-A busy women has a lazy daughter, a lazy women has a busy daughter.
+
+***EN:*** A busy women has a lazy daughter, a lazy women has a busy daughter.
 
 ***CN:*** 
 
@@ -512,7 +536,8 @@ A busy women has a lazy daughter, a lazy women has a busy daughter.
 035 ★ 
 
 ***HU:*** Higgy az asszonynépnek, mint az áprilisi időjárásnak.
-Believe in women as in the weather in April.
+
+***EN:*** Believe in women as in the weather in April.
 
 ***CN:*** 
 
@@ -526,7 +551,8 @@ Believe in women as in the weather in April.
 036 ★ 
 
 ***HU:*** Könnyű az asztag alatt/mellett kalászt szedni.
-It is easy to collect ears of corn under/beside a stack.
+
+***EN:*** It is easy to collect ears of corn under/beside a stack.
 
 ***CN:*** 
 
@@ -540,8 +566,10 @@ It is easy to collect ears of corn under/beside a stack.
 037 ★ 
 
 ***HU:*** Nem játszunk "add vissza a babaruhát."
-We do not play 'Return the dolls clothes'.
-'I do not agree to cancel a promise/agreement or to return a present given by him.'
+
+***EN:*** 
+- We do not play 'Return the dolls clothes.
+- I do not agree to cancel a promise/agreement or to return a present given by him.
 
 ***CN:*** 
 
@@ -552,8 +580,11 @@ We do not play 'Return the dolls clothes'.
 <br><br><br>
 
 
-038 ★ Sok bába közt elvész a gyerek.
-Among many midwives the child is lost.
+038 ★ 
+
+***HU:*** Sok bába közt elvész a gyerek.
+
+***EN:*** Among many midwives the child is lost.
 
 ***CN:*** 
 
@@ -564,8 +595,13 @@ Among many midwives the child is lost.
 <br><br><br>
 
 
-039 ★ Nem babra megy a játék.
-The stake of the play is not beans.        'It is a serious matter.'
+039 ★ 
+
+***HU:*** Nem babra megy a játék.
+
+***EN:*** 
+- The stake of the play is not beans. 
+- It is a serious matter.
 
 ***CN:*** 
 
@@ -576,8 +612,11 @@ The stake of the play is not beans.        'It is a serious matter.'
 <br><br><br>
 
 
-040 ★ A bagoly is bíró barlangjában.
-Even an owl is a judge in her cave.
+040 ★ 
+
+***HU:*** A bagoly is bíró barlangjában.
+
+***EN:*** Even an owl is a judge in her cave.
 
 ***CN:*** 
 
@@ -588,8 +627,11 @@ Even an owl is a judge in her cave.
 <br><br><br>
 
 
-041 ★ Bagoly mondja verébnek, hogy nagyfejű.
-The owl tells the sparrow that her head is big.
+041 ★ 
+
+***HU:*** Bagoly mondja verébnek, hogy nagyfejű.
+
+***EN:*** The owl tells the sparrow that her head is big.
 
 ***CN:*** 
 
@@ -601,7 +643,8 @@ The owl tells the sparrow that her head is big.
 
 
 042 ★ A baj nem jár egyedül.
-Trouble does not come alone.
+
+***EN:*** Trouble does not come alone.
 
 ***CN:*** 
 
@@ -613,7 +656,8 @@ Trouble does not come alone.
 
 
 043 ★ Mindenkinek megvan a maga baja.
-Everyone his own trouble.
+
+***EN:*** Everyone his own trouble.
 
 ***CN:*** 
 
@@ -626,7 +670,10 @@ Everyone his own trouble.
 
 
 044 ★ Ugyanazon bakot nyúzza.      (A régi nótát fújja.)
-He is flaying the same bock.              (He sings the same old song.)
+
+***EN:*** 
+- He is flaying the same bock.
+- He sings the same old song.
 
 ***CN:*** 
 
@@ -639,7 +686,8 @@ He is flaying the same bock.              (He sings the same old song.)
 
 
 045 ★ Mindenkit érhet baleset.
-Accidents may happen to anyone.
+
+***EN:*** Accidents may happen to anyone.
 
 ***CN:*** 
 
@@ -652,8 +700,10 @@ Accidents may happen to anyone.
 
 
 046 ★ Elcsúszott egy banánhéjon.
-He has slipped on a banana-peel.
-'By making a small error his secret/illegal activity came into the open.'
+
+***EN:*** 
+- He has slipped on a banana-peel.
+- By making a small error his secret/illegal activity came into the open.'
 
 ***CN:*** 
 
@@ -666,7 +716,8 @@ He has slipped on a banana-peel.
 
 
 047 ★ Késő bánat ebgondolat.
-A late repentance is a dogs idea.      (After death the doctor.)
+
+***EN:*** A late repentance is a dogs idea.      (After death the doctor.)
 
 ***CN:*** 
 
@@ -679,7 +730,8 @@ A late repentance is a dogs idea.      (After death the doctor.)
 
 
 048 ★ Barátot szerencse hoz, szükség próbál.
-Luck brings friends, need tries them.
+
+***EN:*** Luck brings friends, need tries them.
 
 ***CN:*** 
 
@@ -692,7 +744,8 @@ Luck brings friends, need tries them.
 
 
 049 ★ Mondd meg, ki a barátod megmondom ki vagy.
-Tell me who your friend is, I'll tell you who you are.
+
+***EN:*** Tell me who your friend is, I'll tell you who you are.
 
 ***CN:*** 
 
@@ -705,7 +758,8 @@ Tell me who your friend is, I'll tell you who you are.
 
 
 050 ★ Nem mind barátod, aki rád mosolyog.
-All are not your friends who smile at you.
+
+***EN:*** All are not your friends who smile at you.
 
 ***CN:*** 
 
@@ -718,8 +772,10 @@ All are not your friends who smile at you.
 
 
 051 ★ Inába szállt a bátorsága.
-His courage sank to his sinews.
-'He got frightened.'
+
+***EN:*** 
+- His courage sank to his sinews.
+- He got frightened.
 
 ***CN:*** 
 
@@ -732,7 +788,8 @@ His courage sank to his sinews.
 
 
 052 ★ Bátraké a szerencse.
-Luck belongs to the brave.
+
+***EN:*** Luck belongs to the brave.
 
 ***CN:*** 
 
@@ -745,7 +802,10 @@ Luck belongs to the brave.
 
 
 053 ★ A béka feneke alatt van.
-It is below the bottom of a frog.          'It is of inferior quality.'
+
+***EN:*** 
+- It is below the bottom of a frog.
+- It is of inferior quality.
 
 ***CN:*** 
 
@@ -758,7 +818,10 @@ It is below the bottom of a frog.          'It is of inferior quality.'
 
 
 054 ★ Lenyeli a békát.
-He swallows the frog.                 'He swallows the bitter pill.'
+
+***EN:*** 
+- He swallows the frog.
+- He swallows the bitter pill.
 
 ***CN:*** 
 
@@ -771,7 +834,8 @@ He swallows the frog.                 'He swallows the bitter pill.'
 
 
 055 ★ Hagyj békét másnak, magadra viselj gondot.
-Leave others in peace, care for yourself.
+
+***EN:*** Leave others in peace, care for yourself.
 
 ***CN:*** 
 
@@ -784,8 +848,10 @@ Leave others in peace, care for yourself.
 
 
 056 ★ Jobb a békesség.
-Peace is better.
-'It is better to refrain from quarrels/contradictions or raising/forcing an argument.'
+
+***EN:*** 
+- Peace is better.
+- It is better to refrain from quarrels/contradictions or raising/forcing an argument.
 
 ***CN:*** 
 
@@ -798,8 +864,10 @@ Peace is better.
 
 
 057 ★ Kapkod, mint Bernát a mennykőhöz.
-Like Barnard, he tries to catch the 'heaven's stone' (i. e. the lightning).
-He acts in confusion, inconsistently.
+
+***EN:*** 
+- Like Barnard, he tries to catch the 'heaven's stone' (i. e. the lightning).
+- He acts in confusion, inconsistently.
 
 ***CN:*** 
 
@@ -812,7 +880,10 @@ He acts in confusion, inconsistently.
 
 
 058 ★ Nyert benne, mint Bertók a csíkban.          (Mindent elvesztett.)
-He succeeded like Bertók with the loach.            'He lost everything.'
+
+***EN:*** 
+- He succeeded like Bertók with the loach.
+- He lost everything.
 
 ***CN:*** 
 
@@ -825,7 +896,8 @@ He succeeded like Bertók with the loach.            'He lost everything.'
 
 
 059 ★ Sok beszédnek sok az alja.
-In much talk there is much "bottom" (i. e. inferior matter).
+
+***EN:*** In much talk there is much "bottom" (i. e. inferior matter).
 
 ***CN:*** 
 
@@ -838,7 +910,8 @@ In much talk there is much "bottom" (i. e. inferior matter).
 
 
 060 ★ A betyárból lesz a legjobb pandúr.
-The former highwayman men are the best gendarmes.
+
+***EN:*** The former highwayman men are the best gendarmes.
 
 ***CN:*** 
 
@@ -851,8 +924,10 @@ The former highwayman men are the best gendarmes.
 
 
 061 ★ Beletört a bicskája.
-His (pocket)-knife was broken in it.
-'He tried but failed in a achieving something.'
+
+***EN:*** 
+- His (pocket)-knife was broken in it.
+- He tried but failed in a achieving something.
 
 ***CN:*** 
 
@@ -865,8 +940,10 @@ His (pocket)-knife was broken in it.
 
 
 062 ★ Kinyílik a bicska a zsebemben.
-The (pocket)-knife opens in my pocket.
-'Something has caused anger/despair but one was compelled to stand idly by.'
+
+***EN:*** 
+- The (pocket)-knife opens in my pocket.
+- Something has caused anger/despair but one was compelled to stand idly by.
 
 ***CN:*** 
 
@@ -879,7 +956,10 @@ The (pocket)-knife opens in my pocket.
 
 
 063 ★ Aki bírja, marja.
-He who is strongest/ablest can devour it.            'The strongest/ablest wins.'
+
+***EN:*** 
+- He who is strongest/ablest can devour it.
+- The strongest/ablest wins.
 
 ***CN:*** 
 
@@ -892,7 +972,8 @@ He who is strongest/ablest can devour it.            'The strongest/ablest wins.
 
 
 064 ★ Sorba megy, mint a falusi bíróság.
-It is taken by turns like village headmanship.
+
+***EN:*** It is taken by turns like village headmanship.
 
 ***CN:*** 
 
@@ -905,7 +986,8 @@ It is taken by turns like village headmanship.
 
 
 065 ★ Ki hol bízik, ott hízik.
-Where one trusts, there he gets fat.
+
+***EN:*** Where one trusts, there he gets fat.
 
 ***CN:*** 
 
@@ -918,8 +1000,10 @@ Where one trusts, there he gets fat.
 
 
 066 ★ Magyarázza a bizonyítványát.
-He explains away his report.
-'He tries hard to explain or justify his action or behaviour.'
+
+***EN:*** 
+- He explains away his report.
+- He tries hard to explain or justify his action or behaviour.
 
 ***CN:*** 
 
@@ -932,7 +1016,10 @@ He explains away his report.
 
 
 067 ★ Szegénységi bizonyítványt állít ki magáról.
-He issues a certificate of poverty of himself.              'He proves his incapacity.'
+
+***EN:*** 
+- He issues a certificate of poverty of himself. 
+- He proves his incapacity.
 
 ***CN:*** 
 
@@ -945,7 +1032,10 @@ He issues a certificate of poverty of himself.              'He proves his incap
 
 
 068 ★ Bocskorbőr az orcája.                                   (Vastag bőr van a képén.)
-There is thick sandal leather on his face.          'He is bluntly shameless.'
+
+***EN:*** 
+- There is thick sandal leather on his face.
+- He is bluntly shameless.
 
 ***CN:*** 
 
@@ -958,8 +1048,8 @@ There is thick sandal leather on his face.          'He is bluntly shameless.'
 
 
 069 ★ Mást beszél, mint Bodóné, mikor a bor árát kérik.
-Like Mrs Bodó he talks about something else when asked to pay for the wine.
-'Side-stepping an issue.'
+
+***EN:*** Like Mrs Bodó he talks about something else when asked to pay for the wine. 'Side-stepping an issue.'
 
 ***CN:*** 
 
@@ -972,7 +1062,10 @@ Like Mrs Bodó he talks about something else when asked to pay for the wine.
 
 
 070 ★ Bolond lyukból bolond szél fúj.
-Out of a foolish hole a foolish wind blows.                'A fool can tell only foolish things.'
+
+***EN:*** 
+- Out of a foolish hole a foolish wind blows.
+- A fool can tell only foolish things.
 
 ***CN:*** 
 
@@ -985,7 +1078,8 @@ Out of a foolish hole a foolish wind blows.                'A fool can tell only
 
 
 071 ★ Bolond ütközik kétszer egy kőbe.
-A fool stumbles twice at the same stone.
+
+***EN:*** A fool stumbles twice at the same stone.
 
 ***CN:*** 
 
@@ -998,7 +1092,8 @@ A fool stumbles twice at the same stone.
 
 
 072 ★ Bolondnak kedvez/jár a szerencse.
-Fortune favours the fool.
+
+***EN:*** Fortune favours the fool.
 
 ***CN:*** 
 
@@ -1011,7 +1106,8 @@ Fortune favours the fool.
 
 
 073 ★ Egy bolond beledobja a kútba a követ, száz okos se veszi ki.
-A fool may throw a stone into a well which a hundred wise cannot take out.
+
+***EN:*** A fool may throw a stone into a well which a hundred wise cannot take out.
 
 ***CN:*** 
 
@@ -1024,7 +1120,8 @@ A fool may throw a stone into a well which a hundred wise cannot take out.
 
 
 074 ★ Egy bolond százat csinál.
-One fool makes a hundred.
+
+***EN:*** One fool makes a hundred.
 
 ***CN:*** 
 
@@ -1037,7 +1134,8 @@ One fool makes a hundred.
 
 
 075 ★ Bor be, ész ki.
-Wine in, sense out.
+
+***EN:*** Wine in, sense out.
 
 ***CN:*** 
 
@@ -1050,7 +1148,8 @@ Wine in, sense out.
 
 
 076 ★ Jó bornak nem kell cégér.
-Good wine needs no signboard/bush.
+
+***EN:*** Good wine needs no signboard/bush.
 
 ***CN:*** 
 
@@ -1063,8 +1162,10 @@ Good wine needs no signboard/bush.
 
 
 077 ★ Bámul, mint borjú az új kapura.
-He stares at the new gate as a calf.
-'He merely looks at something without taking action.'
+
+***EN:*** 
+- He stares at the new gate as a calf.
+- He merely looks at something without taking action.
 
 ***CN:*** 
 
@@ -1077,7 +1178,10 @@ He stares at the new gate as a calf.
 
 
 078 ★ Borotvaélen táncol.
-He dances on a razor-edge.              'He tries to face danger from two/more sides.'
+
+***EN:*** 
+- He dances on a razor-edge.
+- He tries to face danger from two/more sides.
 
 ***CN:*** 
 
@@ -1090,7 +1194,8 @@ He dances on a razor-edge.              'He tries to face danger from two/more s
 
 
 079 ★ Kicsi a bors, de erős.
-Pepper is small but strong.
+
+***EN:*** Pepper is small but strong.
 
 ***CN:*** 
 
@@ -1103,7 +1208,9 @@ Pepper is small but strong.
 
 
 080 ★ Borsot tör valakinek az orra alá.
-He crushes pepper under the nose of somebody.             'He annoys/irritates somebody.'
+***EN:*** 
+- He crushes pepper under the nose of somebody.
+- He annoys/irritates somebody.
 
 ***CN:*** 
 
@@ -1116,7 +1223,10 @@ He crushes pepper under the nose of somebody.             'He annoys/irritates s
 
 
 081 ★ Falra hányt borsó.
-It is like peas thrown against the wall.                  'A vain effort.'
+
+***EN:*** 
+- It is like peas thrown against the wall.
+- A vain effort.
 
 ***CN:*** 
 
@@ -1129,7 +1239,8 @@ It is like peas thrown against the wall.                  'A vain effort.'
 
 
 082 ★ Úgy illik össze, mint bot a tegezbe.
-They match as a stick in a quiver.
+
+***EN:*** They match as a stick in a quiver.
 
 ***CN:*** 
 
@@ -1142,7 +1253,9 @@ They match as a stick in a quiver.
 
 
 083 ★ Minden botnak a végén a feje.              (Nyugtával dicsérd a napot.)
-The "head" of each stick is at its end.            (Praise a fair day at night.)
+***EN:*** 
+- The "head" of each stick is at its end.
+- Praise a fair day at night.
 
 ***CN:*** 
 
@@ -1155,7 +1268,8 @@ The "head" of each stick is at its end.            (Praise a fair day at night.)
 
 
 084 ★ Aki bottal köszön, annak doronggal felelnek.
-He who greets with a stick, will be answered with a club.
+
+***EN:*** He who greets with a stick, will be answered with a club.
 
 ***CN:*** 
 
@@ -1168,7 +1282,10 @@ He who greets with a stick, will be answered with a club.
 
 
 085 ★ Bottal üthetik a nyomát.
-His footprints can be beaten with a stick.                'He managed to escape.'
+
+***EN:*** 
+- His footprints can be beaten with a stick.
+- He managed to escape.
 
 ***CN:*** 
 
@@ -1181,7 +1298,10 @@ His footprints can be beaten with a stick.                'He managed to escape.
 
 
 086 ★ Senki sem tud kibújni a saját bőréből.
-Nobody can slip out of his own skin.                   'Nobody can abandon easily his customs/ideas.'
+
+***EN:*** 
+- Nobody can slip out of his own skin.
+- Nobody can abandon easily his customs/ideas.
 
 ***CN:*** 
 
@@ -1194,7 +1314,8 @@ Nobody can slip out of his own skin.                   'Nobody can abandon easil
 
 
 087 ★ Mindenki a maga bőrét viszi a vásárra.
-Every one carries his own skin to the market (i.e. acts at his own risk).
+
+***EN:*** Every one carries his own skin to the market (i.e. acts at his own risk).
 
 ***CN:*** 
 
@@ -1207,8 +1328,9 @@ Every one carries his own skin to the market (i.e. acts at his own risk).
 
 
 088 ★ El van maradva egy brosúrával.
-He is one pamphlet behind the others.
-'He still thinks/speaks/acts according to the previous guidelines.'
+***EN:*** 
+- He is one pamphlet behind the others.
+- He still thinks/speaks/acts according to the previous guidelines.
 
 ***CN:*** 
 
@@ -1221,7 +1343,8 @@ He is one pamphlet behind the others.
 
 
 089 ★ Nem egy nap alatt épült Buda vára.
-The castle of Buda was not built in one day.
+
+***EN:*** The castle of Buda was not built in one day.
 
 ***CN:*** 
 
@@ -1234,8 +1357,10 @@ The castle of Buda was not built in one day.
 
 
 090 ★ Egyszer volt Budán kutyavásár.
-These was a dog-market in Buda only once.                        
-'This favourable opportunity was a one-time occasion only.'
+
+***EN:*** 
+- These was a dog-market in Buda only once.                        
+- This favourable opportunity was a one-time occasion only.
 
 ***CN:*** 
 
@@ -1248,7 +1373,10 @@ These was a dog-market in Buda only once.
 
 
 091 ★ Felfelé bukott.
-He stumbled upwards.                'After failing in a job he was moved to higher position.'
+
+***EN:*** 
+- He stumbled upwards. 
+- After failing in a job he was moved to higher position.
 
 ***CN:*** 
 
@@ -1261,7 +1389,8 @@ He stumbled upwards.                'After failing in a job he was moved to high
 
 
 092 ★ A cél szentesíti az eszközt.
-The purpose consecrates the means.
+
+***EN:*** The purpose consecrates the means.
 
 ***CN:*** 
 
@@ -1274,7 +1403,8 @@ The purpose consecrates the means.
 
 
 093 ★ Minden cigány a maga lovát dicséri.
-Every gypsy prises his own horse.
+
+***EN:*** Every gypsy prises his own horse.
 
 ***CN:*** 
 
@@ -1287,8 +1417,10 @@ Every gypsy prises his own horse.
 
 
 094 ★ Nem szokta a cigány a szántást.
-The gypsy is not accustomed to ploughing.
-'He is compelled to do something, he was previously reluctant to do.'
+
+***EN:*** 
+- The gypsy is not accustomed to ploughing.
+- He is compelled to do something, he was previously reluctant to do.
 
 ***CN:*** 
 
@@ -1301,7 +1433,10 @@ The gypsy is not accustomed to ploughing.
 
 
 095 ★ Még ha cigánygyerekek potyognak/esnek is az égből.
-Even if gypsy children are dropped from the sky.             (Come hell or high water.)
+
+***EN:*** 
+- Even if gypsy children are dropped from the sky.
+- Come hell or high water.
 
 ***CN:*** 
 
