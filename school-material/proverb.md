@@ -371,9 +371,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 金子即使在泥里，也还是金子。
 
-- 翻译：
+- 翻译： 瑕不掩瑜。/是金子总会发光。
 
 <br><br><br>
 
@@ -386,9 +386,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 保持沉默是黄金。
 
-- 翻译：
+- 翻译： 沉默是金。
 
 <br><br><br>
 
@@ -401,9 +401,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 发光的东西不全都是金子。
 
-- 翻译：
+- 翻译： 人不可貌相。
 
 <br><br><br>
 
@@ -416,9 +416,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 谁早起，谁就找到金子。
 
-- 翻译：
+- 翻译： 早起的鸟儿有虫吃。
 
 <br><br><br>
 
@@ -433,9 +433,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 铁锈不会侵蚀黄金。
 
-- 翻译：
+- 翻译： 真金不怕锈蚀。
 
 <br><br><br>
 
@@ -448,9 +448,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 金钥匙能打开所有的门。
 
-- 翻译：
+- 翻译： 有钱能使鬼推磨。
 
 <br><br><br>
 
@@ -463,9 +463,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 播种的人未必总是收获的人。
 
-- 翻译：
+- 翻译： 前人栽树，后人乘凉。/为他人作嫁。
 
 <br><br><br>
 
@@ -481,9 +481,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 这不是我的桌子。
 
-- 翻译：
+- 翻译： 这不在我的职责范围内。/这不归我管。
 
 <br><br><br>
 
@@ -496,9 +496,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 三个女人，就是一整个集市。/一只鹅加两个女人，就足以形成一个热闹的集市。
 
-- 翻译：
+- 翻译： 三个女人一台戏。
 
 <br><br><br>
 
@@ -511,9 +511,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 贤妻是家庭的皇冠。
 
-- 翻译：
+- 翻译： 家有贤妻，胜过良田万顷。/家有贤妻，如国有良相。/妻贤夫祸少。
 
 <br><br><br>
 
@@ -526,9 +526,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 勤快母亲生懒女儿，懒惰母亲生勤快女儿。
 
-- 翻译：
+- 翻译： 慈母多败儿。/惯子如杀子。
 
 <br><br><br>
 
@@ -541,9 +541,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 相信女人，就像相信四月的天气一样。
 
-- 翻译：
+- 翻译： 女人心，海底针。
 
 <br><br><br>
 
@@ -556,9 +556,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 在麦垛旁边捡麦穗很容易。
 
-- 翻译：
+- 翻译： 靠着大树好乘凉。/近水楼台先得月。
 
 <br><br><br>
 
@@ -573,9 +573,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 我们不玩‘把娃娃衣服还回来’的游戏。
 
-- 翻译：
+- 翻译： 君子一言，驷马难追。
 
 <br><br><br>
 
@@ -588,9 +588,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 接生婆太多，孩子反而丢了。
 
-- 翻译：
+- 翻译： 三个和尚没水喝。/人人负责，等于无人负责。
 
 <br><br><br>
 
@@ -605,9 +605,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 这场游戏的赌注不是豆子。
 
-- 翻译：
+- 翻译： 这可不是闹着玩的。/事关重大。
 
 <br><br><br>
 
@@ -620,9 +620,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 猫头鹰在自己的洞里也是个法官。
 
-- 翻译：
+- 翻译： 山中无老虎，猴子称大王。/强龙不压地头蛇。
 
 <br><br><br>
 
@@ -635,65 +635,73 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 猫头鹰对麻雀说：“你的脑袋真大。
 
-- 翻译：
+- 翻译： 五十步笑百步。/乌鸦笑猪黑。
 
 <br><br><br>
 
 
-042 ★ A baj nem jár egyedül.
+042 ★ 
+
+***HU:*** A baj nem jár egyedül.
 
 ***EN:*** Trouble does not come alone.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 麻烦不会单独到来。
 
-- 翻译：
+- 翻译： 祸不单行。
 
 <br><br><br>
 
 
-043 ★ Mindenkinek megvan a maga baja.
+043 ★ 
+
+***HU:*** Mindenkinek megvan a maga baja.
 
 ***EN:*** Everyone his own trouble.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 每个人都有自己的烦恼。
 
-- 翻译：
+- 翻译： 家家有本难念的经。
 
 
 <br><br><br>
 
 
-044 ★ Ugyanazon bakot nyúzza.      (A régi nótát fújja.)
+044 ★ 
+
+***HU:*** Ugyanazon bakot nyúzza.(A régi nótát fújja.)
 
 ***EN:*** 
-- He is flaying the same bock.
-- He sings the same old song.
+    - He is flaying the same bock.
+    - He sings the same old song.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 老是在剥同一只山羊的皮。
 
-- 翻译：
+- 翻译： 老调重弹。/陈词滥调。/旧话重提。
 
 
 <br><br><br>
 
 
-045 ★ Mindenkit érhet baleset.
+045 ★ 
+
+***HU:*** Mindenkit érhet baleset.
 
 ***EN:*** Accidents may happen to anyone.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 任何人都可能发生意外。
 
-- 翻译：
+- 翻译： 人有失手，马有失蹄。
 
 
 <br><br><br>
