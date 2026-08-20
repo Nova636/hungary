@@ -707,7 +707,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-046 ★ Elcsúszott egy banánhéjon.
+046 ★ 
+
+***HU:*** Elcsúszott egy banánhéjon.
 
 ***EN:*** 
 - He has slipped on a banana-peel.
@@ -723,7 +725,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-047 ★ Késő bánat ebgondolat.
+047 ★ 
+
+***HU:*** Késő bánat ebgondolat.
 
 ***EN:*** A late repentance is a dogs idea.      (After death the doctor.)
 
@@ -737,7 +741,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-048 ★ Barátot szerencse hoz, szükség próbál.
+048 ★ 
+
+***HU:*** Barátot szerencse hoz, szükség próbál.
 
 ***EN:*** Luck brings friends, need tries them.
 
@@ -751,7 +757,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-049 ★ Mondd meg, ki a barátod megmondom ki vagy.
+049 ★ 
+
+***HU:*** Mondd meg, ki a barátod megmondom ki vagy.
 
 ***EN:*** Tell me who your friend is, I'll tell you who you are.
 
@@ -765,7 +773,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-050 ★ Nem mind barátod, aki rád mosolyog.
+050 ★ 
+
+***HU:*** Nem mind barátod, aki rád mosolyog.
 
 ***EN:*** All are not your friends who smile at you.
 
@@ -779,7 +789,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-051 ★ Inába szállt a bátorsága.
+051 ★ 
+
+***HU:*** Inába szállt a bátorsága.
 
 ***EN:*** 
 - His courage sank to his sinews.
@@ -795,7 +807,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-052 ★ Bátraké a szerencse.
+052 ★ 
+
+***HU:*** Bátraké a szerencse.
 
 ***EN:*** Luck belongs to the brave.
 
@@ -809,7 +823,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-053 ★ A béka feneke alatt van.
+053 ★ 
+
+***HU:*** A béka feneke alatt van.
 
 ***EN:*** 
 - It is below the bottom of a frog.
@@ -825,7 +841,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-054 ★ Lenyeli a békát.
+054 ★ 
+
+***HU:*** Lenyeli a békát.
 
 ***EN:*** 
 - He swallows the frog.
@@ -841,7 +859,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-055 ★ Hagyj békét másnak, magadra viselj gondot.
+055 ★ 
+
+***HU:*** Hagyj békét másnak, magadra viselj gondot.
 
 ***EN:*** Leave others in peace, care for yourself.
 
@@ -855,7 +875,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-056 ★ Jobb a békesség.
+056 ★ 
+
+***HU:*** Jobb a békesség.
 
 ***EN:*** 
 - Peace is better.
@@ -871,7 +893,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-057 ★ Kapkod, mint Bernát a mennykőhöz.
+057 ★ 
+
+***HU:*** Kapkod, mint Bernát a mennykőhöz.
 
 ***EN:*** 
 - Like Barnard, he tries to catch the 'heaven's stone' (i. e. the lightning).
@@ -887,7 +911,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-058 ★ Nyert benne, mint Bertók a csíkban.          (Mindent elvesztett.)
+058 ★ 
+
+***HU:*** Nyert benne, mint Bertók a csíkban. (Mindent elvesztett.)
 
 ***EN:*** 
 - He succeeded like Bertók with the loach.
@@ -903,7 +929,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-059 ★ Sok beszédnek sok az alja.
+059 ★ 
+
+***HU:*** Sok beszédnek sok az alja.
 
 ***EN:*** In much talk there is much "bottom" (i. e. inferior matter).
 
@@ -917,7 +945,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-060 ★ A betyárból lesz a legjobb pandúr.
+060 ★ 
+
+***HU:*** A betyárból lesz a legjobb pandúr.
 
 ***EN:*** The former highwayman men are the best gendarmes.
 
@@ -931,7 +961,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-061 ★ Beletört a bicskája.
+061 ★ 
+
+***HU:*** Beletört a bicskája.
 
 ***EN:*** 
 - His (pocket)-knife was broken in it.
@@ -947,7 +979,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-062 ★ Kinyílik a bicska a zsebemben.
+062 ★ 
+
+***HU:*** Kinyílik a bicska a zsebemben.
 
 ***EN:*** 
 - The (pocket)-knife opens in my pocket.
@@ -963,7 +997,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-063 ★ Aki bírja, marja.
+063 ★ 
+
+***HU:*** Aki bírja, marja.
 
 ***EN:*** 
 - He who is strongest/ablest can devour it.
@@ -979,7 +1015,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-064 ★ Sorba megy, mint a falusi bíróság.
+064 ★ 
+
+***HU:*** Sorba megy, mint a falusi bíróság.
 
 ***EN:*** It is taken by turns like village headmanship.
 
@@ -993,7 +1031,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-065 ★ Ki hol bízik, ott hízik.
+065 ★ 
+
+***HU:*** Ki hol bízik, ott hízik.
 
 ***EN:*** Where one trusts, there he gets fat.
 
@@ -1007,7 +1047,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-066 ★ Magyarázza a bizonyítványát.
+066 ★ 
+
+***HU:*** Magyarázza a bizonyítványát.
 
 ***EN:*** 
 - He explains away his report.
@@ -1023,7 +1065,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-067 ★ Szegénységi bizonyítványt állít ki magáról.
+067 ★ 
+
+***HU:*** Szegénységi bizonyítványt állít ki magáról.
 
 ***EN:*** 
 - He issues a certificate of poverty of himself. 
@@ -1039,7 +1083,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-068 ★ Bocskorbőr az orcája.                                   (Vastag bőr van a képén.)
+068 ★ 
+
+***HU:*** Bocskorbőr az orcája.(Vastag bőr van a képén.)
 
 ***EN:*** 
 - There is thick sandal leather on his face.
@@ -1055,7 +1101,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-069 ★ Mást beszél, mint Bodóné, mikor a bor árát kérik.
+069 ★ 
+
+***HU:*** Mást beszél, mint Bodóné, mikor a bor árát kérik.
 
 ***EN:*** Like Mrs Bodó he talks about something else when asked to pay for the wine. 'Side-stepping an issue.'
 
@@ -1069,7 +1117,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-070 ★ Bolond lyukból bolond szél fúj.
+070 ★ 
+
+***HU:*** Bolond lyukból bolond szél fúj.
 
 ***EN:*** 
 - Out of a foolish hole a foolish wind blows.
@@ -1085,7 +1135,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-071 ★ Bolond ütközik kétszer egy kőbe.
+071 ★ 
+
+***HU:*** Bolond ütközik kétszer egy kőbe.
 
 ***EN:*** A fool stumbles twice at the same stone.
 
@@ -1099,7 +1151,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-072 ★ Bolondnak kedvez/jár a szerencse.
+072 ★ 
+
+***HU:*** Bolondnak kedvez/jár a szerencse.
 
 ***EN:*** Fortune favours the fool.
 
@@ -1113,7 +1167,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-073 ★ Egy bolond beledobja a kútba a követ, száz okos se veszi ki.
+073 ★ 
+
+***HU:*** Egy bolond beledobja a kútba a követ, száz okos se veszi ki.
 
 ***EN:*** A fool may throw a stone into a well which a hundred wise cannot take out.
 
@@ -1127,7 +1183,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-074 ★ Egy bolond százat csinál.
+074 ★ 
+
+***HU:*** Egy bolond százat csinál.
 
 ***EN:*** One fool makes a hundred.
 
@@ -1141,7 +1199,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-075 ★ Bor be, ész ki.
+075 ★ 
+
+***HU:*** Bor be, ész ki.
 
 ***EN:*** Wine in, sense out.
 
@@ -1155,7 +1215,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-076 ★ Jó bornak nem kell cégér.
+076 ★ 
+
+***HU:*** Jó bornak nem kell cégér.
 
 ***EN:*** Good wine needs no signboard/bush.
 
@@ -1169,7 +1231,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-077 ★ Bámul, mint borjú az új kapura.
+077 ★ 
+
+***HU:*** Bámul, mint borjú az új kapura.
 
 ***EN:*** 
 - He stares at the new gate as a calf.
@@ -1185,7 +1249,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-078 ★ Borotvaélen táncol.
+078 ★ 
+
+***HU:*** Borotvaélen táncol.
 
 ***EN:*** 
 - He dances on a razor-edge.
@@ -1201,7 +1267,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-079 ★ Kicsi a bors, de erős.
+079 ★ 
+
+***HU:*** Kicsi a bors, de erős.
 
 ***EN:*** Pepper is small but strong.
 
@@ -1215,7 +1283,10 @@ This is Hungary proverb.
 <br><br><br>
 
 
-080 ★ Borsot tör valakinek az orra alá.
+080 ★ 
+
+***HU:*** Borsot tör valakinek az orra alá.
+
 ***EN:*** 
 - He crushes pepper under the nose of somebody.
 - He annoys/irritates somebody.
@@ -1230,7 +1301,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-081 ★ Falra hányt borsó.
+081 ★ 
+
+***HU:*** Falra hányt borsó.
 
 ***EN:*** 
 - It is like peas thrown against the wall.
@@ -1246,7 +1319,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-082 ★ Úgy illik össze, mint bot a tegezbe.
+082 ★ 
+
+***HU:*** Úgy illik össze, mint bot a tegezbe.
 
 ***EN:*** They match as a stick in a quiver.
 
@@ -1260,7 +1335,10 @@ This is Hungary proverb.
 <br><br><br>
 
 
-083 ★ Minden botnak a végén a feje.              (Nyugtával dicsérd a napot.)
+083 ★ 
+
+***HU:*** Minden botnak a végén a feje.(Nyugtával dicsérd a napot.)
+
 ***EN:*** 
 - The "head" of each stick is at its end.
 - Praise a fair day at night.
@@ -1275,7 +1353,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-084 ★ Aki bottal köszön, annak doronggal felelnek.
+084 ★ 
+
+***HU:*** Aki bottal köszön, annak doronggal felelnek.
 
 ***EN:*** He who greets with a stick, will be answered with a club.
 
@@ -1289,7 +1369,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-085 ★ Bottal üthetik a nyomát.
+085 ★ 
+
+***HU:*** Bottal üthetik a nyomát.
 
 ***EN:*** 
 - His footprints can be beaten with a stick.
@@ -1305,7 +1387,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-086 ★ Senki sem tud kibújni a saját bőréből.
+086 ★ 
+
+***HU:*** Senki sem tud kibújni a saját bőréből.
 
 ***EN:*** 
 - Nobody can slip out of his own skin.
@@ -1321,7 +1405,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-087 ★ Mindenki a maga bőrét viszi a vásárra.
+087 ★ 
+
+***HU:*** Mindenki a maga bőrét viszi a vásárra.
 
 ***EN:*** Every one carries his own skin to the market (i.e. acts at his own risk).
 
@@ -1335,7 +1421,10 @@ This is Hungary proverb.
 <br><br><br>
 
 
-088 ★ El van maradva egy brosúrával.
+088 ★ 
+
+***HU:*** El van maradva egy brosúrával.
+
 ***EN:*** 
 - He is one pamphlet behind the others.
 - He still thinks/speaks/acts according to the previous guidelines.
@@ -1350,7 +1439,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-089 ★ Nem egy nap alatt épült Buda vára.
+089 ★ 
+
+***HU:*** Nem egy nap alatt épült Buda vára.
 
 ***EN:*** The castle of Buda was not built in one day.
 
@@ -1364,7 +1455,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-090 ★ Egyszer volt Budán kutyavásár.
+090 ★ 
+
+***HU:*** Egyszer volt Budán kutyavásár.
 
 ***EN:*** 
 - These was a dog-market in Buda only once.                        
@@ -1380,7 +1473,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-091 ★ Felfelé bukott.
+091 ★ 
+
+***HU:*** Felfelé bukott.
 
 ***EN:*** 
 - He stumbled upwards. 
@@ -1396,7 +1491,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-092 ★ A cél szentesíti az eszközt.
+092 ★ 
+
+***HU:*** A cél szentesíti az eszközt.
 
 ***EN:*** The purpose consecrates the means.
 
@@ -1410,7 +1507,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-093 ★ Minden cigány a maga lovát dicséri.
+093 ★ 
+
+***HU:*** Minden cigány a maga lovát dicséri.
 
 ***EN:*** Every gypsy prises his own horse.
 
@@ -1424,7 +1523,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-094 ★ Nem szokta a cigány a szántást.
+094 ★ 
+
+***HU:*** Nem szokta a cigány a szántást.
 
 ***EN:*** 
 - The gypsy is not accustomed to ploughing.
@@ -1440,7 +1541,9 @@ This is Hungary proverb.
 <br><br><br>
 
 
-095 ★ Még ha cigánygyerekek potyognak/esnek is az égből.
+095 ★ 
+
+***HU:*** Még ha cigánygyerekek potyognak/esnek is az égből.
 
 ***EN:*** 
 - Even if gypsy children are dropped from the sky.
@@ -1456,9 +1559,13 @@ This is Hungary proverb.
 <br><br><br>
 
 
-096 ★ Csáky szalmájának tekinti.
-He considers it as straw of the landowner Csáky.
-'An expression of negligence instead of due care.'
+096 ★ 
+
+***HU:*** Csáky szalmájának tekinti.
+
+***EN:*** 
+- He considers it as straw of the landowner Csáky.
+- An expression of negligence instead of due care.
 
 ***CN:*** 
 
@@ -1470,8 +1577,11 @@ He considers it as straw of the landowner Csáky.
 <br><br><br>
 
 
-097 ★ Csalánba nem üt a ménkű/mennykő.
-The sky's stone does not strike the nettle.             (Weeds don't spoil.)
+097 ★ 
+
+***HU:*** Csalánba nem üt a ménkű/mennykő.
+
+***EN:*** The sky's stone does not strike the nettle.(Weeds don't spoil.)
 
 ***CN:*** 
 
@@ -1483,7 +1593,10 @@ The sky's stone does not strike the nettle.             (Weeds don't spoil.)
 <br><br><br>
 
 
-098 ★ Add meg a császárnak, ami a császáré, és az Istennek, ami az Istené.
+098 ★ 
+
+***HU:*** Add meg a császárnak, ami a császáré, és az Istennek, ami az Istené.
+
 Give the emperor what is the emperor's and God what is God's.           'Give everyone his due.'
 
 ***CN:*** 
@@ -1496,7 +1609,10 @@ Give the emperor what is the emperor's and God what is God's.           'Give ev
 <br><br><br>
 
 
-099 ★ Elásták a csatabárdot.
+099 ★ 
+
+***HU:*** Elásták a csatabárdot.
+
 They have buried the hatchet.
 
 ***CN:*** 
@@ -1509,7 +1625,10 @@ They have buried the hatchet.
 <br><br><br>
 
 
-100 ★ Sok csepp követ váj.
+100 ★ 
+
+***HU:*** Sok csepp követ váj.
+
 Many drops hollow the stone.
 
 ***CN:*** 
@@ -1522,7 +1641,10 @@ Many drops hollow the stone.
 <br><br><br>
 
 
-101 ★ Cserép, zsindely van a háztetőn/házon.          (Fiatal/gyerek van jelen, ill. "a falnak is füle van.")
+101 ★ 
+
+***HU:*** Cserép, zsindely van a háztetőn/házon.          (Fiatal/gyerek van jelen, ill. "a falnak is füle van.")
+
 There is a tile on the roof.           (Walls have ears.)
 
 ***CN:*** 
@@ -1535,7 +1657,10 @@ There is a tile on the roof.           (Walls have ears.)
 <br><br><br>
 
 
-102 ★ Cseréptálhoz fakanál.
+102 ★ 
+
+***HU:*** Cseréptálhoz fakanál.
+
 To an earthenware dish a wooden spoon.               'Marry your match.'
 
 ***CN:*** 
@@ -1548,7 +1673,10 @@ To an earthenware dish a wooden spoon.               'Marry your match.'
 <br><br><br>
 
 
-103 ★ Lehazudná a csillagokat az égről.
+103 ★ 
+
+***HU:*** Lehazudná a csillagokat az égről.
+
 He would even lie, there is no star in the sky.
 'He is ready to deny even the most obvious truths.'
 
@@ -1562,7 +1690,10 @@ He would even lie, there is no star in the sky.
 <br><br><br>
 
 
-104 ★ Ha nem csinálok semmit, abból nem lehet baj.
+104 ★ 
+
+***HU:*** Ha nem csinálok semmit, abból nem lehet baj.
+
 If we do nothing (without being ordered to do) no trouble will result from it.
 
 ***CN:*** 
@@ -1575,7 +1706,10 @@ If we do nothing (without being ordered to do) no trouble will result from it.
 <br><br><br>
 
 
-105 ★ A sáros csizmámat sem törölném hozzá.
+105 ★ 
+
+***HU:*** A sáros csizmámat sem törölném hozzá.
+
 I would not wipe my muddy boots in him.
 'An expression of utter despise.'
 
@@ -1589,7 +1723,10 @@ I would not wipe my muddy boots in him.
 <br><br><br>
 
 
-106 ★ Hogy kerül a csizma az asztalra?
+106 ★ 
+
+***HU:*** Hogy kerül a csizma az asztalra?
+
 How could the boots get on the table?
 'What has that got to do with it?'                 'An expression of indignant surprise.'
 
@@ -1603,7 +1740,10 @@ How could the boots get on the table?
 <br><br><br>
 
 
-107 ★ Minden csoda három napig tart.
+107 ★ 
+
+***HU:*** Minden csoda három napig tart.
+
 Every wonder lasts three days.
 
 ***CN:*** 
@@ -1616,7 +1756,10 @@ Every wonder lasts three days.
 <br><br><br>
 
 
-108 ★ Ez már lerágott csont.
+108 ★ 
+
+***HU:*** Ez már lerágott csont.
+
 This is already a gnawed bone.                  'A matter already discussed several times.'
 
 ***CN:*** 
@@ -1629,7 +1772,10 @@ This is already a gnawed bone.                  'A matter already discussed seve
 <br><br><br>
 
 
-109 ★ Későn jövőnek csont az ebédje.
+109 ★ 
+
+***HU:*** Későn jövőnek csont az ebédje.
+
 He who comes late gets bones for lunch.
 
 ***CN:*** 
@@ -1642,7 +1788,10 @@ He who comes late gets bones for lunch.
 <br><br><br>
 
 
-110 ★ Ha nem csordul/csurran, cseppen.
+110 ★ 
+
+***HU:*** Ha nem csordul/csurran, cseppen.
+
 If it does not trickle, it will drop.
 'Even if it is less than expected, still there will be something.'
 
@@ -1656,7 +1805,10 @@ If it does not trickle, it will drop.
 <br><br><br>
 
 
-111 ★ Csöbörből vödörbe.
+111 ★ 
+
+***HU:*** Csöbörből vödörbe.
+
 He got out of the bucket and got into the pail.             (Out of the frying into the fire.)
 
 ***CN:*** 
@@ -1669,7 +1821,10 @@ He got out of the bucket and got into the pail.             (Out of the frying i
 <br><br><br>
 
 
-112 ★ Kicsiny csupor hamar felforr.
+112 ★ 
+
+***HU:*** Kicsiny csupor hamar felforr.
+
 A little pot quickly boils.
 
 ***CN:*** 
@@ -1682,7 +1837,10 @@ A little pot quickly boils.
 <br><br><br>
 
 
-113 ★ Darázsfészekbe nyúl.
+113 ★ 
+
+***HU:*** Darázsfészekbe nyúl.
+
 He puts his hand into a wasp's nest.
 
 ***CN:*** 
@@ -1695,7 +1853,10 @@ He puts his hand into a wasp's nest.
 <br><br><br>
 
 
-114 ★ Elköltené a Dárius kincsét is.
+114 ★ 
+
+***HU:*** Elköltené a Dárius kincsét is.
+
 He would spend even the treasures of Darius.
 
 ***CN:*** 
@@ -1708,7 +1869,10 @@ He would spend even the treasures of Darius.
 <br><br><br>
 
 
-115 ★ Te sem vagy jobb a Deákné vásznánál.
+115 ★ 
+
+***HU:*** Te sem vagy jobb a Deákné vásznánál.
+
 Even you are not better than the linen of Deak's wife.              'You are as bad as the others.'
 
 ***CN:*** 
@@ -1721,7 +1885,10 @@ Even you are not better than the linen of Deak's wife.              'You are as 
 <br><br><br>
 
 
-116 ★ Jön még kutyára dér.
+116 ★ 
+
+***HU:*** Jön még kutyára dér.
+
 The hoar-frost is still to come for the dog.                 'Be sure your sins will find you out!'
 
 ***CN:*** 
@@ -1734,7 +1901,10 @@ The hoar-frost is still to come for the dog.                 'Be sure your sins 
 <br><br><br>
 
 
-117 ★ Három napig dínomdánom, holtig való szánom bánom.
+117 ★ 
+
+***HU:*** Három napig dínomdánom, holtig való szánom bánom.
+
 A three day long merry-making and regret lasting till death.                'A hasty marriage.'
 
 ***CN:*** 
@@ -1747,7 +1917,10 @@ A three day long merry-making and regret lasting till death.                'A h
 <br><br><br>
 
 
-118 ★ A dió törve, az asszony verve jó.
+118 ★ 
+
+***HU:*** A dió törve, az asszony verve jó.
+
 A nut is good if broken, a woman if beaten.
 
 ***CN:*** 
@@ -1760,7 +1933,10 @@ A nut is good if broken, a woman if beaten.
 <br><br><br>
 
 
-119 ★ Hallgat, mint a süket disznó a búzában.
+119 ★ 
+
+***HU:*** Hallgat, mint a süket disznó a búzában.
+
 He keeps silent, like a deaf pig in the wheat-field.
 
 ***CN:*** 
@@ -1773,7 +1949,10 @@ He keeps silent, like a deaf pig in the wheat-field.
 <br><br><br>
 
 
-120 ★ Éhes disznó makkal álmodik.
+120 ★ 
+
+***HU:*** Éhes disznó makkal álmodik.
+
 A hungry pig dreams of acorns.
 
 ***CN:*** 
@@ -1786,7 +1965,9 @@ A hungry pig dreams of acorns.
 <br><br><br>
 
 
-121 ★ Okos disznó mély gyökeret ránt.
+121 ★ 
+
+***HU:*** Okos disznó mély gyökeret ránt.
 A clever pig extracts a deep root.                        'A clever man achieves remarkable feats.'
 
 ***CN:*** 
@@ -1799,7 +1980,9 @@ A clever pig extracts a deep root.                        'A clever man achieves
 <br><br><br>
 
 
-122 ★ Disznóra gyömbért ne vesztegess.
+122 ★ 
+
+***HU:*** Disznóra gyömbért ne vesztegess.
 Do not waste your ginger on pigs.
 
 ***CN:*** 
@@ -1812,7 +1995,9 @@ Do not waste your ginger on pigs.
 <br><br><br>
 
 
-123 ★ Nem erőszak a disznótor.
+123 ★ 
+
+***HU:*** Nem erőszak a disznótor.
 Nobody is forced to attend the dinner given after killing a pig.
 'You are free to refrain from accepting an offer I consider favourable to/for you.'
 
@@ -1826,7 +2011,9 @@ Nobody is forced to attend the dinner given after killing a pig.
 <br><br><br>
 
 
-124 ★ Dobbal nem lehet verebet fogni.
+124 ★ 
+
+***HU:*** Dobbal nem lehet verebet fogni.
 Sparrows cannot be caught by beating a drum.
 
 ***CN:*** 
@@ -1839,7 +2026,9 @@ Sparrows cannot be caught by beating a drum.
 <br><br><br>
 
 
-125 ★ Aki dolgozik, az nem ér rá pénzt keresni.
+125 ★ 
+
+***HU:*** Aki dolgozik, az nem ér rá pénzt keresni.
 He who works has no time to earn money.
 'If a job is hard and little paid, then one cannot earn additionally in a second job.'
 
@@ -1853,7 +2042,9 @@ He who works has no time to earn money.
 <br><br><br>
 
 
-126 ★ Aki nem dolgozik, ne is egyék.
+126 ★ 
+
+***HU:*** Aki nem dolgozik, ne is egyék.
 He that does not work, shall not eat either.
 
 ***CN:*** 
@@ -1866,7 +2057,9 @@ He that does not work, shall not eat either.
 <br><br><br>
 
 
-127 ★ Dróton rángat valakit.
+127 ★ 
+
+***HU:*** Dróton rángat valakit.
 To pull somebody by a wire.                        (To pull the strings.)
 
 ***CN:*** 
@@ -1879,7 +2072,9 @@ To pull somebody by a wire.                        (To pull the strings.)
 <br><br><br>
 
 
-128 ★ Két dudás egy csárdában nem fér meg.
+128 ★ 
+
+***HU:*** Két dudás egy csárdában nem fér meg.
 Two pipers cannot get on in one tavern.
 
 ***CN:*** 
@@ -1892,7 +2087,9 @@ Two pipers cannot get on in one tavern.
 <br><br><br>
 
 
-129 ★ Akkor lészen az, mikor a Duna visszafoly vagy elszárad.
+129 ★ 
+
+***HU:*** Akkor lészen az, mikor a Duna visszafoly vagy elszárad.
 It will happen when the Danube reverts its course or dries up.
 
 ***CN:*** 
@@ -1905,7 +2102,9 @@ It will happen when the Danube reverts its course or dries up.
 <br><br><br>
 
 
-130 ★ Dunát lehetne rekeszteni vele/velük.
+130 ★ 
+
+***HU:*** Dunát lehetne rekeszteni vele/velük.
 The Danube could be dammed by them.                   'There are too many of them.'
 
 ***CN:*** 
@@ -1918,7 +2117,9 @@ The Danube could be dammed by them.                   'There are too many of the
 <br><br><br>
 
 
-131 ★ Nehezen alkuszik meg két eb egy csonton.
+131 ★ 
+
+***HU:*** Nehezen alkuszik meg két eb egy csonton.
 Two dogs can hardly agree on one bone.
 
 ***CN:*** 
@@ -1931,7 +2132,9 @@ Two dogs can hardly agree on one bone.
 <br><br><br>
 
 
-132 ★ Az ebek harmincadjára kerül/jutott.
+132 ★ 
+
+***HU:*** Az ebek harmincadjára kerül/jutott.
 It fell to the thirtieth of dogs.                     'Although it is valuable nobody cares for it any more.'
 
 ***CN:*** 
@@ -1944,7 +2147,9 @@ It fell to the thirtieth of dogs.                     'Although it is valuable n
 <br><br><br>
 
 
-133 ★ Fogas ebnek való a csontrágás.
+133 ★ 
+
+***HU:*** Fogas ebnek való a csontrágás.
 Gnawing on bones is for dogs having teeth.
 
 ***CN:*** 
@@ -1957,7 +2162,9 @@ Gnawing on bones is for dogs having teeth.
 <br><br><br>
 
 
-134 ★ Ha egy ebet bottal hajtanak a nyúl után, nem fogja az meg.
+134 ★ 
+
+***HU:*** Ha egy ebet bottal hajtanak a nyúl után, nem fogja az meg.
 If a dog is driven by a stick after a hare, he will not catch it.
 
 ***CN:*** 
@@ -1970,7 +2177,9 @@ If a dog is driven by a stick after a hare, he will not catch it.
 <br><br><br>
 
 
-135 ★ Köti az ebet a karóhoz.
+135 ★ 
+
+***HU:*** Köti az ebet a karóhoz.
 He ties the dog to the post.                      'He sticks to his position/plan/idea.'
 
 ***CN:*** 
@@ -1983,7 +2192,9 @@ He ties the dog to the post.                      'He sticks to his position/pla
 <br><br><br>
 
 
-136 ★ Ebcsont beforr.
+136 ★ 
+
+***HU:*** Ebcsont beforr.
 A dogs broken bone will soon be healed.                'The wound inflicted will soon be healed.'
 
 ***CN:*** 
@@ -1996,7 +2207,9 @@ A dogs broken bone will soon be healed.                'The wound inflicted will
 <br><br><br>
 
 
-137 ★ Ég és föld a különbség (köztük).
+137 ★ 
+
+***HU:*** Ég és föld a különbség (köztük).
 The difference between them is like that between sky and earth.
 
 ***CN:*** 
@@ -2009,7 +2222,9 @@ The difference between them is like that between sky and earth.
 <br><br><br>
 
 
-138 ★ Mint derült égből a villámcsapás.
+138 ★ 
+
+***HU:*** Mint derült égből a villámcsapás.
 Like a thunderstroke from a clear sky.
 
 ***CN:*** 
@@ -2022,7 +2237,9 @@ Like a thunderstroke from a clear sky.
 <br><br><br>
 
 
-139 ★ Az egészség ízét a betegség adja meg.
+139 ★ 
+
+***HU:*** Az egészség ízét a betegség adja meg.
 The flavour of health is given by an illness.
 
 ***CN:*** 
@@ -2035,7 +2252,9 @@ The flavour of health is given by an illness.
 <br><br><br>
 
 
-140 ★ Szegény az eklézsia, maga harangoz a pap.
+140 ★ 
+
+***HU:*** Szegény az eklézsia, maga harangoz a pap.
 The congregation is poor, the priest rings the bell himself.
 
 ***CN:*** 
@@ -2048,7 +2267,9 @@ The congregation is poor, the priest rings the bell himself.
 <br><br><br>
 
 
-141 ★ Elefánt a porcelánboltban.
+141 ★ 
+
+***HU:*** Elefánt a porcelánboltban.
 An elephant in the china shop.
 
 ***CN:*** 
@@ -2061,7 +2282,9 @@ An elephant in the china shop.
 <br><br><br>
 
 
-142 ★ Nem azért élünk, hogy együnk, hanem azért eszünk, hogy éljünk.
+142 ★ 
+
+***HU:*** Nem azért élünk, hogy együnk, hanem azért eszünk, hogy éljünk.
 We do not live to eat, but we eat to live.
 
 ***CN:*** 
@@ -2074,7 +2297,9 @@ We do not live to eat, but we eat to live.
 <br><br><br>
 
 
-143 ★ Ki elbízza magát, könnyen megszégyenül.
+143 ★ 
+
+***HU:*** Ki elbízza magát, könnyen megszégyenül.
 He who is conceited, will easily be ashamed.
 
 ***CN:*** 
@@ -2087,7 +2312,9 @@ He who is conceited, will easily be ashamed.
 <br><br><br>
 
 
-144 ★ Se el ne hidd/bízd magad, se kétségbe ne essél.
+144 ★ 
+
+***HU:*** Se el ne hidd/bízd magad, se kétségbe ne essél.
 Neither be conceited, nor fall into despair.
 
 ***CN:*** 
@@ -2100,7 +2327,9 @@ Neither be conceited, nor fall into despair.
 <br><br><br>
 
 
-145 ★ Akkor/Úgy szép az élet, ha zajlik.
+145 ★ 
+
+***HU:*** Akkor/Úgy szép az élet, ha zajlik.
 Life is beautiful if it is hectic.
 
 ***CN:*** 
@@ -2113,7 +2342,9 @@ Life is beautiful if it is hectic.
 <br><br><br>
 
 
-146 ★ Az ellenségemnek se kívánom.
+146 ★ 
+
+***HU:*** Az ellenségemnek se kívánom.
 I do not want it even for my enemy.
 
 ***CN:*** 
@@ -2126,7 +2357,9 @@ I do not want it even for my enemy.
 <br><br><br>
 
 
-147 ★ Aki nincs ellenünk, az velünk van.
+147 ★ 
+
+***HU:*** Aki nincs ellenünk, az velünk van.
 He who is not against us, that is with us.
 
 ***CN:*** 
@@ -2139,7 +2372,9 @@ He who is not against us, that is with us.
 <br><br><br>
 
 
-148 ★ Ami elmúlt, elmúlt.
+148 ★ 
+
+***HU:*** Ami elmúlt, elmúlt.
 What's gone, is gone.                (Don't cry over spilt milk.)
 
 ***CN:*** 
@@ -2152,7 +2387,9 @@ What's gone, is gone.                (Don't cry over spilt milk.)
 <br><br><br>
 
 
-149 ★ Ahány ember, annyi vélemény.
+149 ★ 
+
+***HU:*** Ahány ember, annyi vélemény.
 As many men as many opinions.
 
 ***CN:*** 
@@ -2165,7 +2402,9 @@ As many men as many opinions.
 <br><br><br>
 
 
-150 ★ Az ember nem lehet elég óvatos.
+150 ★ 
+
+***HU:*** Az ember nem lehet elég óvatos.
 One cannot be cautious enough.
 
 ***CN:*** 
@@ -2178,7 +2417,9 @@ One cannot be cautious enough.
 <br><br><br>
 
 
-151 ★ Ember embernek farkasa.
+151 ★ 
+
+***HU:*** Ember embernek farkasa.
 Man is a wolf to man.
 
 ***CN:*** 
@@ -2191,7 +2432,9 @@ Man is a wolf to man.
 <br><br><br>
 
 
-152 ★ Ember tervez, Isten végez.
+152 ★ 
+
+***HU:*** Ember tervez, Isten végez.
 Man plans, God decides.
 
 ***CN:*** 
@@ -2204,7 +2447,9 @@ Man plans, God decides.
 <br><br><br>
 
 
-153 ★ Holtig remél az ember.
+153 ★ 
+
+***HU:*** Holtig remél az ember.
 Man hopes until his death.
 
 ***CN:*** 
@@ -2217,7 +2462,9 @@ Man hopes until his death.
 <br><br><br>
 
 
-154 ★ Nem tudja az ember, mire virrad.
+154 ★ 
+
+***HU:*** Nem tudja az ember, mire virrad.
 One does not know what he will find tomorrow.
 
 ***CN:*** 
@@ -2230,7 +2477,9 @@ One does not know what he will find tomorrow.
 <br><br><br>
 
 
-155 ★ Sok jó ember elfér kis helyen.
+155 ★ 
+
+***HU:*** Sok jó ember elfér kis helyen.
 Many good people can find room in a small space.
 
 ***CN:*** 
@@ -2243,7 +2492,9 @@ Many good people can find room in a small space.
 <br><br><br>
 
 
-156 ★ Híres eperre nem kell kosárral menni (a közelebb lakók vagy szemfülesebbek már leszedték rég).
+156 ★ 
+
+***HU:*** Híres eperre nem kell kosárral menni (a közelebb lakók vagy szemfülesebbek már leszedték rég).
 You do not needed a basket to pick well-known strawberries (those living nearby or being quicker have already picked them).
 
 ***CN:*** 
@@ -2256,7 +2507,9 @@ You do not needed a basket to pick well-known strawberries (those living nearby 
 <br><br><br>
 
 
-157 ★ Nem szed más kosarába epret.
+157 ★ 
+
+***HU:*** Nem szed más kosarába epret.
 He won't pick strawberries into the basket of somebody else.
 
 ***CN:*** 
@@ -2269,7 +2522,9 @@ He won't pick strawberries into the basket of somebody else.
 <br><br><br>
 
 
-158 ★ Az erdőnek füle van, a mezőnek szeme van.
+158 ★ 
+
+***HU:*** Az erdőnek füle van, a mezőnek szeme van.
 The forest has an ear, the field has an eye.
 
 ***CN:*** 
@@ -2282,7 +2537,9 @@ The forest has an ear, the field has an eye.
 <br><br><br>
 
 
-159 ★ Ahogy esik, úgy puffan.
+159 ★ 
+
+***HU:*** Ahogy esik, úgy puffan.
 As it falls so it plumps.                   (As the tree falls, it will lie.)
 
 ***CN:*** 
@@ -2295,7 +2552,9 @@ As it falls so it plumps.                   (As the tree falls, it will lie.)
 <br><br><br>
 
 
-160 ★ Eső után köpönyeg.
+160 ★ 
+
+***HU:*** Eső után köpönyeg.
 After rain (comes) raincoat.                  (After meat, mustard.)
 
 ***CN:*** 
@@ -2308,7 +2567,9 @@ After rain (comes) raincoat.                  (After meat, mustard.)
 <br><br><br>
 
 
-161 ★ Májusi eső aranyat ér.
+161 ★ 
+
+***HU:*** Májusi eső aranyat ér.
 A rain in May is golden.
 
 ***CN:*** 
@@ -2321,7 +2582,9 @@ A rain in May is golden.
 <br><br><br>
 
 
-162 ★ Többet ésszel, mint erővel.
+162 ★ 
+
+***HU:*** Többet ésszel, mint erővel.
 One should/could do more by wisdom than by force.
 
 ***CN:*** 
@@ -2334,7 +2597,9 @@ One should/could do more by wisdom than by force.
 <br><br><br>
 
 
-163 ★ Eszi, nem eszi, nem kap mást.
+163 ★ 
+
+***HU:*** Eszi, nem eszi, nem kap mást.
 He may eat it or not, he won't get anything else.
 
 ***CN:*** 
@@ -2347,7 +2612,9 @@ He may eat it or not, he won't get anything else.
 <br><br><br>
 
 
-164 ★ Azt se tudja, eszik-e vagy isszák.
+164 ★ 
+
+***HU:*** Azt se tudja, eszik-e vagy isszák.
 He does not even know whether it is eaten or drunk.
 'He has no idea about it.'
 
@@ -2361,7 +2628,9 @@ He does not even know whether it is eaten or drunk.
 <br><br><br>
 
 
-165 ★ Sok eszkimó, kevés fóka.
+165 ★ 
+
+***HU:*** Sok eszkimó, kevés fóka.
 Many Eskimos and few seals.
 
 ***CN:*** 
@@ -2374,7 +2643,9 @@ Many Eskimos and few seals.
 <br><br><br>
 
 
-166 ★ Nincs olyan hitvány eszköz, hogy hasznát ne lehetne venni.
+166 ★ 
+
+***HU:*** Nincs olyan hitvány eszköz, hogy hasznát ne lehetne venni.
 There is no worthless thing which could not be used something.
 
 ***CN:*** 
@@ -2387,7 +2658,9 @@ There is no worthless thing which could not be used something.
 <br><br><br>
 
 
-167 ★ Evés közben jön meg az étvágy.
+167 ★ 
+
+***HU:*** Evés közben jön meg az étvágy.
 Appetite comes while eating.
 
 ***CN:*** 
@@ -2400,7 +2673,9 @@ Appetite comes while eating.
 <br><br><br>
 
 
-168 ★ Ez van, ezt kell szeretni.
+168 ★ 
+
+***HU:*** Ez van, ezt kell szeretni.
 This is (what we have/experience), this is to be liked.
 
 ***CN:*** 
@@ -2413,7 +2688,9 @@ This is (what we have/experience), this is to be liked.
 <br><br><br>
 
 
-169 ★Amilyen a fa, olyan a gyümölcse.
+169 ★
+
+***HU:*** Amilyen a fa, olyan a gyümölcse.
 Like tree, like fruit.
 
 ***CN:*** 
@@ -2426,7 +2703,9 @@ Like tree, like fruit.
 <br><br><br>
 
 
-170 ★ Nagy fába vágta a fejszéjét.
+170 ★ 
+
+***HU:*** Nagy fába vágta a fejszéjét.
 He cut his axe into a big tree.
 (A hard venture.)
 
@@ -2440,7 +2719,9 @@ He cut his axe into a big tree.
 <br><br><br>
 
 
-171 ★ Fából vaskarika.
+171 ★ 
+
+***HU:*** Fából vaskarika.
 An iron ring made of wood.
 'An absurdity.'
 
@@ -2454,7 +2735,9 @@ An iron ring made of wood.
 <br><br><br>
 
 
-172 ★ Kemény fából faragták.
+172 ★ 
+
+***HU:*** Kemény fából faragták.
 He was carved of hard wood.
 'He is strong/steadfast.'
 
@@ -2468,7 +2751,9 @@ He was carved of hard wood.
 <br><br><br>
 
 
-173 ★ Jó fának is van rossz gyümölcse.
+173 ★ 
+
+***HU:*** Jó fának is van rossz gyümölcse.
 Even a good tree has (sometimes) bad fruit.
 
 ***CN:*** 
@@ -2481,7 +2766,9 @@ Even a good tree has (sometimes) bad fruit.
 <br><br><br>
 
 
-174 ★ A fát nem vágják ki egy csapásra/vágásra.
+174 ★ 
+
+***HU:*** A fát nem vágják ki egy csapásra/vágásra.
 A tree is not felled at one stroke.
 
 ***CN:*** 
@@ -2494,7 +2781,9 @@ A tree is not felled at one stroke.
 <br><br><br>
 
 
-175 ★ Addig hajtsd a fát, míg vessző.
+175 ★ 
+
+***HU:*** Addig hajtsd a fát, míg vessző.
 Bend the tree while it is a twig.
 
 ***CN:*** 
@@ -2507,7 +2796,9 @@ Bend the tree while it is a twig.
 <br><br><br>
 
 
-176 ★ Maga alatt vágja a fát.
+176 ★ 
+
+***HU:*** Maga alatt vágja a fát.
 He cuts the tree under himself.
 
 ***CN:*** 
@@ -2520,7 +2811,9 @@ He cuts the tree under himself.
 <br><br><br>
 
 
-177 ★ Rossz fát tett a tűzre.
+177 ★ 
+
+***HU:*** Rossz fát tett a tűzre.
 He has put bad wood on the fire.
 (He has got into mischief.)
 
@@ -2534,7 +2827,9 @@ He has put bad wood on the fire.
 <br><br><br>
 
 
-178 ★ Nem látja a fától az erdőt.
+178 ★ 
+
+***HU:*** Nem látja a fától az erdőt.
 He cannot see the wood for the trees.
 
 ***CN:*** 
@@ -2547,7 +2842,9 @@ He cannot see the wood for the trees.
 <br><br><br>
 
 
-179 ★ Nem nőnek a fák az égig.
+179 ★ 
+
+***HU:*** Nem nőnek a fák az égig.
 The trees do not grow up to the sky.
 
 ***CN:*** 
@@ -2560,7 +2857,9 @@ The trees do not grow up to the sky.
 <br><br><br>
 
 
-180 ★ A fakónak muszáj húzni, mert a fakót is húzzák.
+180 ★ 
+
+***HU:*** A fakónak muszáj húzni, mert a fakót is húzzák.
 (Akitől az elöljárói megkövetelnek valamit, az is kénytelen követelni a beosztottaitól.)
 The horse has to pull as the horse is also pulled.
 'He who gets orders from his superiors, has to pass them on to his subordinates.'
@@ -2575,20 +2874,24 @@ The horse has to pull as the horse is also pulled.
 <br><br><br>
 
 
-181 ★ A falnak is füle van.（隔墙有耳）
+181 ★ 
+
+***HU:*** A falnak is füle van.
 Even the wall has an ear.
 
 ***CN:*** 
 
 - 直译： 
 
-- 翻译：
+- 翻译：隔墙有耳。
 
 
 <br><br><br>
 
 
-182 ★ A farkas a szőrét elhányja, de a szokását nem.
+182 ★ 
+
+***HU:*** A farkas a szőrét elhányja, de a szokását nem.
 The wolf may change its hair but not its nature.
 (The wolf may lose his teeth, but never his nature/memory.) *
 
@@ -2602,7 +2905,9 @@ The wolf may change its hair but not its nature.
 <br><br><br>
 
 
-183 ★ Farkast emlegetnek, a kert alatt kullog/jár.
+183 ★ 
+
+***HU:*** Farkast emlegetnek, a kert alatt kullog/jár.
 When a wolf is mentioned, he is already walking round the garden.
 
 ***CN:*** 
@@ -2615,7 +2920,9 @@ When a wolf is mentioned, he is already walking round the garden.
 <br><br><br>
 
 
-184 ★ Nem eszi meg a farkas/kutya a telet.
+184 ★ 
+
+***HU:*** Nem eszi meg a farkas/kutya a telet.
 The wolf/dog does not eat the winter.
 
 ***CN:*** 
@@ -2628,7 +2935,9 @@ The wolf/dog does not eat the winter.
 <br><br><br>
 
 
-185 ★ A farok csóválja a kutyát.
+185 ★ 
+
+***HU:*** A farok csóválja a kutyát.
 The tail wags the dog.
 'The normal order is reversed, e. g. those give orders who are expected to obey.'
 
@@ -2642,7 +2951,9 @@ The tail wags the dog.
 <br><br><br>
 
 
-186 ★ Az új fazék megtartja első szagát.
+186 ★ 
+
+***HU:*** Az új fazék megtartja első szagát.
 A new pot retains its first scent.
 (The cask savours of the first fill.)
 
@@ -2656,7 +2967,9 @@ A new pot retains its first scent.
 <br><br><br>
 
 
-187 ★ Minden ember az ő maga fazeka mellé szít.
+187 ★ 
+
+***HU:*** Minden ember az ő maga fazeka mellé szít.
 (Minden szentnek maga felé hajlik a keze.)
 Every man kindles the fire below his own pot.
 
@@ -2670,7 +2983,9 @@ Every man kindles the fire below his own pot.
 <br><br><br>
 
 
-188 ★ Egy fecske nem csinál nyarat.
+188 ★ 
+
+***HU:*** Egy fecske nem csinál nyarat.
 One swallow does not make a summer.
 
 ***CN:*** 
@@ -2683,7 +2998,9 @@ One swallow does not make a summer.
 <br><br><br>
 
 
-189 ★ Akinek nincs a fejében, legyen a lábában.
+189 ★ 
+
+***HU:*** Akinek nincs a fejében, legyen a lábában.
 He who has not (enough wit) in the head, should have (force, to replace it) in the leg.
 
 ***CN:*** 
@@ -2696,7 +3013,9 @@ He who has not (enough wit) in the head, should have (force, to replace it) in t
 <br><br><br>
 
 
-190 ★ Fején találja a szöget.
+190 ★ 
+
+***HU:*** Fején találja a szöget.
 He hits the nail on the head.
 
 ***CN:*** 
@@ -2709,7 +3028,9 @@ He hits the nail on the head.
 <br><br><br>
 
 
-191 ★ Összecsapnak a feje fölött a hullámok.
+191 ★ 
+
+***HU:*** Összecsapnak a feje fölött a hullámok.
 The waves dash over his head.
 'He is unable to cope with the situation any longer.'
 
@@ -2723,7 +3044,9 @@ The waves dash over his head.
 <br><br><br>
 
 
-192 ★ Lehajtott fejet nem éri a kard.
+192 ★ 
+
+***HU:*** Lehajtott fejet nem éri a kard.
 A bent head is not touched by the sword.
 
 ***CN:*** 
@@ -2736,7 +3059,9 @@ A bent head is not touched by the sword.
 <br><br><br>
 
 
-193 ★ Nem jó fejjel menni/rohanni a falnak.
+193 ★ 
+
+***HU:*** Nem jó fejjel menni/rohanni a falnak.
 There is no point in running one's head against the wall.
 
 ***CN:*** 
@@ -2749,7 +3074,9 @@ There is no point in running one's head against the wall.
 <br><br><br>
 
 
-194 ★ Veszett fejsze nyele.
+194 ★ 
+
+***HU:*** Veszett fejsze nyele.
 The helve of the lost hatchet.
 'A little gain in a great loss.'
 
@@ -2763,7 +3090,9 @@ The helve of the lost hatchet.
 <br><br><br>
 
 
-195 ★ Jobb félni, mint megijedni.
+195 ★ 
+
+***HU:*** Jobb félni, mint megijedni.
 It is better to fear (something) than to get frightened.
 
 ***CN:*** 
@@ -2776,7 +3105,9 @@ It is better to fear (something) than to get frightened.
 <br><br><br>
 
 
-196 ★ Jobb félútról visszatérni, mint rossz útra térni.
+196 ★ 
+
+***HU:*** Jobb félútról visszatérni, mint rossz útra térni.
 Better to return from half-way than to take a wrong road.
 
 ***CN:*** 
@@ -2789,7 +3120,9 @@ Better to return from half-way than to take a wrong road.
 <br><br><br>
 
 
-197 ★ Hadd hulljon a férgese.
+197 ★ 
+
+***HU:*** Hadd hulljon a férgese.
 Let the wormy of it drop off.
 'Let those perish/leave who are not up to the standard.'
 
@@ -2803,7 +3136,9 @@ Let the wormy of it drop off.
 <br><br><br>
 
 
-198 ★ Jobb a sűrű fillér, mint a ritka forint.
+198 ★ 
+
+***HU:*** Jobb a sűrű fillér, mint a ritka forint.
 It is better to get fillérs often than forints seldom.
 
 ***CN:*** 
@@ -2816,7 +3151,9 @@ It is better to get fillérs often than forints seldom.
 <br><br><br>
 
 
-199 ★ Amíg nekünk csak fizetgetnek, addig mi is csak dolgozgatunk.
+199 ★ 
+
+***HU:*** Amíg nekünk csak fizetgetnek, addig mi is csak dolgozgatunk.
 Until we are only poorly paid, we shall also poorly work.
 
 ***CN:*** 
@@ -2829,7 +3166,9 @@ Until we are only poorly paid, we shall also poorly work.
 <br><br><br>
 
 
-200 ★ Akinek a foga fáj, tartsa a nyelvét rajta.
+200 ★ 
+
+***HU:*** Akinek a foga fáj, tartsa a nyelvét rajta.
 (Segíts magadon.)
 He who has a toothache, should keep/hold his tongue on it.
 'Help yourself.'
@@ -2844,7 +3183,9 @@ He who has a toothache, should keep/hold his tongue on it.
 <br><br><br>
 
 
-201 ★ Feni a fogát valamire.
+201 ★ 
+
+***HU:*** Feni a fogát valamire.
 He whets his teeth on something.
 'He is very eager to get something.'
 
