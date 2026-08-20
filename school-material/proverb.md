@@ -717,9 +717,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他踩到香蕉皮滑倒了。
 
-- 翻译：
+- 翻译： 一着不慎，满盘皆输。/百密一疏。/阴沟里翻船。
 
 
 <br><br><br>
@@ -729,13 +729,13 @@ This is Hungary proverb.
 
 ***HU:*** Késő bánat ebgondolat.
 
-***EN:*** A late repentance is a dogs idea.      (After death the doctor.)
+***EN:*** A late repentance is a dogs idea. (After death the doctor.)
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 迟来的后悔，不过是狗的念头。
 
-- 翻译：
+- 翻译： 事后诸葛亮。/早知如此，何必当初。/木已成舟。/马后炮。
 
 
 <br><br><br>
@@ -749,9 +749,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 幸运带来朋友，患难考验朋友。
 
-- 翻译：
+- 翻译： 患难见真情。/路遥知马力，日久见人心。
 
 
 <br><br><br>
@@ -765,9 +765,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 告诉我你的朋友是谁，我就告诉你你是谁。
 
-- 翻译：
+- 翻译： 物以类聚，人以群分。/看其友，知其人。
 
 
 <br><br><br>
