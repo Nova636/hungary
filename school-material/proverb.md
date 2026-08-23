@@ -15,7 +15,7 @@ This is Hungary proverb.
 ***CN:*** 
 - 直译：谁既然说了“A”，也应该把“B”说出来。
 
-- 翻译：有始有终。
+- 翻译： 有始有终。
 
 <br><br><br>
 
@@ -29,7 +29,7 @@ This is Hungary proverb.
 
 - 直译：给你的就拿着，挨打了就跑。 
 
-- 翻译：趋利避害。
+- 翻译： 趋利避害。
 
 <br><br><br>
 
@@ -43,7 +43,7 @@ This is Hungary proverb.
 
 - 直译： 给予比接受更好。
 
-- 翻译：
+- 翻译： 
 
 <br><br><br>
 
@@ -58,7 +58,7 @@ This is Hungary proverb.
 
 - 直译： 谁给予得快，就等于给予了两次。
 
-- 翻译：雪中送炭，胜过锦上添花。
+- 翻译： 雪中送炭，胜过锦上添花。
 
 <br><br><br>
 
@@ -73,7 +73,7 @@ This is Hungary proverb.
 
 - 直译： 什么样的问候，就有什么样的回应。
 
-- 翻译：人敬我一尺，我敬人一丈。
+- 翻译： 人敬我一尺，我敬人一丈。
 
 <br><br><br>
 
@@ -88,7 +88,7 @@ This is Hungary proverb.
 
 - 直译： 把你的猎犬往后拉一拉！
 
-- 翻译：收敛一点！
+- 翻译： 收敛一点！
 
 <br><br><br>
 
@@ -103,7 +103,7 @@ This is Hungary proverb.
 
 - 直译： 一个人怎样铺自己的床，就怎样睡自己的梦。
 
-- 翻译：自作自受。
+- 翻译： 自作自受。
 
 <br><br><br>
 
@@ -118,7 +118,7 @@ This is Hungary proverb.
 
 - 直译： 用大炮射击麻雀。
 
-- 翻译：小题大做。/杀鸡用牛刀。/大材小用。
+- 翻译： 小题大做。/杀鸡用牛刀。/大材小用。
 
 <br><br><br>
 
@@ -133,7 +133,7 @@ This is Hungary proverb.
 
 - 直译： 不要看赠送的马的牙齿。
 
-- 翻译：不要挑三拣四。
+- 翻译： 不要挑三拣四。
 
 <br><br><br>
 
@@ -152,7 +152,7 @@ This is Hungary proverb.
 
 - 直译： 连门一起撞进房子。
 
-- 翻译：破门而入。/开门见山。
+- 翻译： 破门而入。/开门见山。
 
 <br><br><br>
 
@@ -167,7 +167,7 @@ This is Hungary proverb.
 
 - 直译： 如果被从门里赶出去，他就从窗户再进去。
 
-- 翻译：百折不挠。/卷土重来。/死皮赖脸。
+- 翻译： 百折不挠。/卷土重来。/死皮赖脸。
 
 <br><br><br>
 
@@ -182,7 +182,7 @@ This is Hungary proverb.
 
 - 直译： 不是按我们想要的方式，而是按能够做到的方式。
 
-- 翻译：凡事不求尽如人意，只求尽其所能。
+- 翻译： 凡事不求尽如人意，只求尽其所能。
 
 <br><br><br>
 
@@ -197,7 +197,7 @@ This is Hungary proverb.
 
 - 直译： 他连一根用来吊死他的绳子都不配。
 
-- 翻译：一文不值。
+- 翻译： 一文不值。
 
 <br><br><br>
 
@@ -212,7 +212,7 @@ This is Hungary proverb.
 
 - 直译： 命中该上绞刑架的人，不会死在多瑙河里。
 
-- 翻译：善恶有报。/天网恢恢，疏而不漏。
+- 翻译： 善恶有报。/天网恢恢，疏而不漏。
 
 <br><br><br>
 
@@ -227,7 +227,7 @@ This is Hungary proverb.
 
 - 直译： 在被绞死之人的家里提起绳子。
 
-- 翻译：哪壶不开提哪壶。/往别人伤口上撒盐。
+- 翻译： 哪壶不开提哪壶。/往别人伤口上撒盐。
 
 <br><br><br>
 
@@ -242,7 +242,7 @@ This is Hungary proverb.
 
 - 直译： 机会造就小偷。
 
-- 翻译：苍蝇不叮无缝的蛋。/财帛动人心。
+- 翻译： 苍蝇不叮无缝的蛋。/财帛动人心。
 
 <br><br><br>
 
@@ -1191,9 +1191,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 一个傻瓜能造出一百个傻瓜。
 
-- 翻译：
+- 翻译： 人云亦云./上梁不正下梁歪。
 
 
 <br><br><br>
@@ -1207,9 +1207,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 酒进去，脑子出来。
 
-- 翻译：
+- 翻译： 酒后失智。
 
 
 <br><br><br>
@@ -1223,9 +1223,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 好酒不需要招牌。
 
-- 翻译：
+- 翻译： 酒香不怕巷子深。/是金子总会发光。
 
 
 <br><br><br>
@@ -1241,9 +1241,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 像小牛盯着新大门一样发愣。
 
-- 翻译：
+- 翻译： 一脸懵./呆若木鸡.
 
 
 <br><br><br>
@@ -1259,9 +1259,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他在剃刀刃上跳舞。
 
-- 翻译：
+- 翻译： 如履薄冰。/刀尖上跳舞。/铤而走险。
 
 
 <br><br><br>
@@ -1275,9 +1275,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 胡椒虽小，却很冲。
 
-- 翻译：
+- 翻译： 人不可貌相。/浓缩的都是精华。/麻雀虽小，五脏俱全。
 
 
 <br><br><br>
@@ -1293,9 +1293,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 在别人鼻子底下磨胡椒。
 
-- 翻译：
+- 翻译： 故意给某人添堵。
 
 
 <br><br><br>
@@ -1311,9 +1311,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 往墙上扔豌豆。
 
-- 翻译：
+- 翻译： 对牛弹琴。/白费口舌。
 
 
 <br><br><br>
@@ -1327,9 +1327,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 像木棍放进箭袋一样合适。
 
-- 翻译：
+- 翻译： 严丝合缝。/珠联璧合。
 
 
 <br><br><br>
@@ -1345,9 +1345,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 每根棍子的头都在末端。
 
-- 翻译：
+- 翻译： 笑到最后才算笑得最好。/别高兴得太早。
 
 
 <br><br><br>
@@ -1361,9 +1361,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 拿棍子打招呼的人，别人会拿木棒回应他。
 
-- 翻译：
+- 翻译： 种什么因，得什么果。/以牙还牙，以眼还眼。/你敬我一尺，我敬你一丈；你犯我一尺，我还你一丈。
 
 
 <br><br><br>
@@ -1379,9 +1379,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 只能拿棍子敲打他的脚印了。
 
-- 翻译：
+- 翻译： 逃之夭夭。/黄花菜都凉了。
 
 
 <br><br><br>
@@ -1397,9 +1397,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 谁也不能从自己的皮里钻出来。
 
-- 翻译：
+- 翻译： 江山易改，本性难移。/狗改不了吃屎。
 
 
 <br><br><br>
@@ -1413,9 +1413,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 每个人都把自己的皮带到集市上。
 
-- 翻译：
+- 翻译： 后果自负。/
 
 
 <br><br><br>
@@ -1431,9 +1431,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他落后了一本宣传册。
 
-- 翻译：
+- 翻译： 他落伍了。/
 
 
 <br><br><br>
@@ -1447,9 +1447,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 布达城堡不是一天建成的。
 
-- 翻译：
+- 翻译： 罗马不是一天建成的。/急于求成。/冰冻三尺，非一日之寒。
 
 
 <br><br><br>
@@ -1465,9 +1465,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 布达的狗市只开过一次。
 
-- 翻译：
+- 翻译： 机不可失，失不再来。/好运不会总来敲门。
 
 
 <br><br><br>
@@ -1483,9 +1483,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他向上跌倒了。
 
-- 翻译：
+- 翻译： 越失败，越高升。/适得其反。/
 
 
 <br><br><br>
@@ -1499,9 +1499,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 目标使手段神圣化。
 
-- 翻译：
+- 翻译： 为达目的，不择手段。
 
 
 <br><br><br>
@@ -1517,7 +1517,7 @@ This is Hungary proverb.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1535,7 +1535,7 @@ This is Hungary proverb.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1553,7 +1553,7 @@ This is Hungary proverb.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1571,7 +1571,7 @@ This is Hungary proverb.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1587,7 +1587,7 @@ This is Hungary proverb.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1604,7 +1604,7 @@ This is Hungary proverb.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1620,7 +1620,7 @@ This is Hungary proverb.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1636,7 +1636,7 @@ This is Hungary proverb.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1652,7 +1652,7 @@ This is Hungary proverb.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1668,7 +1668,7 @@ This is Hungary proverb.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1686,7 +1686,7 @@ He would even lie, there is no star in the sky.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1702,7 +1702,7 @@ He would even lie, there is no star in the sky.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1720,7 +1720,7 @@ I would not wipe my muddy boots in him.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1738,7 +1738,7 @@ How could the boots get on the table?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1754,7 +1754,7 @@ How could the boots get on the table?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1770,7 +1770,7 @@ How could the boots get on the table?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1786,7 +1786,7 @@ How could the boots get on the table?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1804,7 +1804,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1820,7 +1820,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1836,7 +1836,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1852,7 +1852,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1868,7 +1868,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1884,7 +1884,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1900,7 +1900,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1916,7 +1916,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1932,7 +1932,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1948,7 +1948,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1964,7 +1964,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1980,7 +1980,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -1996,7 +1996,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2013,7 +2013,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2029,7 +2029,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2046,7 +2046,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2062,7 +2062,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2078,7 +2078,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2094,7 +2094,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2110,7 +2110,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2126,7 +2126,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2142,7 +2142,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2158,7 +2158,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2174,7 +2174,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2190,7 +2190,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2206,7 +2206,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2222,7 +2222,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2238,7 +2238,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2254,7 +2254,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2270,7 +2270,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2286,7 +2286,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2302,7 +2302,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2318,7 +2318,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2334,7 +2334,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2350,7 +2350,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2366,7 +2366,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2382,7 +2382,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2398,7 +2398,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2414,7 +2414,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2430,7 +2430,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2446,7 +2446,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2462,7 +2462,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2478,7 +2478,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2494,7 +2494,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2510,7 +2510,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2526,7 +2526,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2542,7 +2542,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2558,7 +2558,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2574,7 +2574,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2590,7 +2590,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2606,7 +2606,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2622,7 +2622,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2638,7 +2638,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2654,7 +2654,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2671,7 +2671,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2687,7 +2687,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2703,7 +2703,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2719,7 +2719,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2735,7 +2735,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2751,7 +2751,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2768,7 +2768,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2785,7 +2785,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2802,7 +2802,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2818,7 +2818,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2834,7 +2834,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2850,7 +2850,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2866,7 +2866,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2883,7 +2883,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2899,7 +2899,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2915,7 +2915,7 @@ If it does not trickle, it will drop.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2933,7 +2933,7 @@ The horse has to pull as the horse is also pulled.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2949,7 +2949,7 @@ The horse has to pull as the horse is also pulled.
 
 - 直译： 
 
-- 翻译：隔墙有耳。
+- 翻译： 隔墙有耳。
 
 
 <br><br><br>
@@ -2966,7 +2966,7 @@ The horse has to pull as the horse is also pulled.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2982,7 +2982,7 @@ The horse has to pull as the horse is also pulled.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -2998,7 +2998,7 @@ The horse has to pull as the horse is also pulled.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3015,7 +3015,7 @@ The horse has to pull as the horse is also pulled.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3032,7 +3032,7 @@ The horse has to pull as the horse is also pulled.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3049,7 +3049,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3065,7 +3065,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3081,7 +3081,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3097,7 +3097,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3114,7 +3114,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3130,7 +3130,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3146,7 +3146,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3163,7 +3163,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3179,7 +3179,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3195,7 +3195,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3212,7 +3212,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3228,7 +3228,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3244,7 +3244,7 @@ Every man kindles the fire below his own pot.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3262,7 +3262,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3279,7 +3279,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3296,7 +3296,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3313,7 +3313,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3329,7 +3329,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3346,7 +3346,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3363,7 +3363,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3379,7 +3379,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3395,7 +3395,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3411,7 +3411,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3427,7 +3427,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3444,7 +3444,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3461,7 +3461,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3477,7 +3477,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3493,7 +3493,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3509,7 +3509,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3525,7 +3525,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3541,7 +3541,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3558,7 +3558,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3574,7 +3574,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3591,7 +3591,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3608,7 +3608,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3640,7 +3640,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3656,7 +3656,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3672,7 +3672,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3688,7 +3688,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3704,7 +3704,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3720,7 +3720,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3736,7 +3736,7 @@ He who has a toothache, should keep/hold his tongue on it.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3753,7 +3753,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3769,7 +3769,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3785,7 +3785,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3801,7 +3801,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3817,7 +3817,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3833,7 +3833,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3849,7 +3849,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3865,7 +3865,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3881,7 +3881,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3897,7 +3897,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3913,7 +3913,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3929,7 +3929,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3945,7 +3945,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3961,7 +3961,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3977,7 +3977,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -3993,7 +3993,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4009,7 +4009,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4025,7 +4025,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4041,7 +4041,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4057,7 +4057,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4073,7 +4073,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4089,7 +4089,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4105,7 +4105,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4122,7 +4122,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4138,7 +4138,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4154,7 +4154,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4170,7 +4170,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4186,7 +4186,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4202,7 +4202,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4218,7 +4218,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4234,7 +4234,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4250,7 +4250,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4266,7 +4266,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4282,7 +4282,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4298,7 +4298,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4315,7 +4315,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4331,7 +4331,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4347,7 +4347,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4363,7 +4363,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4379,7 +4379,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4396,7 +4396,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4412,7 +4412,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4428,7 +4428,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4444,7 +4444,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4460,7 +4460,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4476,7 +4476,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4492,7 +4492,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4508,7 +4508,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4524,7 +4524,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4540,7 +4540,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4556,7 +4556,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4572,7 +4572,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4588,7 +4588,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4604,7 +4604,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4620,7 +4620,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4636,7 +4636,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4652,7 +4652,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4668,7 +4668,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4684,7 +4684,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4701,7 +4701,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4717,7 +4717,7 @@ In the army there is no Uncle Peter.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4735,7 +4735,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4751,7 +4751,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4767,7 +4767,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4783,7 +4783,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4799,7 +4799,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4815,7 +4815,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4831,7 +4831,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4847,7 +4847,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4863,7 +4863,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4879,7 +4879,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4895,7 +4895,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4911,7 +4911,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4927,7 +4927,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4943,7 +4943,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4959,7 +4959,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4975,7 +4975,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -4992,7 +4992,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5008,7 +5008,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5024,7 +5024,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5040,7 +5040,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5056,7 +5056,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5072,7 +5072,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5088,7 +5088,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5104,7 +5104,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5120,7 +5120,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5136,7 +5136,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5152,7 +5152,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5168,7 +5168,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5184,7 +5184,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5201,7 +5201,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5219,7 +5219,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5235,7 +5235,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5251,7 +5251,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5268,7 +5268,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5284,7 +5284,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5300,7 +5300,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5316,7 +5316,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5332,7 +5332,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5348,7 +5348,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5364,7 +5364,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5380,7 +5380,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5396,7 +5396,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5413,7 +5413,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5429,7 +5429,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5445,7 +5445,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5461,7 +5461,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5477,7 +5477,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5493,7 +5493,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5509,7 +5509,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5525,7 +5525,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5541,7 +5541,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5557,7 +5557,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5573,7 +5573,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5589,7 +5589,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5605,7 +5605,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5621,7 +5621,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5637,7 +5637,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5653,7 +5653,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5669,7 +5669,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5685,7 +5685,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5701,7 +5701,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5717,7 +5717,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5733,7 +5733,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5749,7 +5749,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5765,7 +5765,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5781,7 +5781,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5797,7 +5797,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5813,7 +5813,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5829,7 +5829,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5845,7 +5845,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5861,7 +5861,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5877,7 +5877,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5893,7 +5893,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5909,7 +5909,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5925,7 +5925,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5941,7 +5941,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5957,7 +5957,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5974,7 +5974,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -5990,7 +5990,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6006,7 +6006,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6022,7 +6022,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6038,7 +6038,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6054,7 +6054,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6070,7 +6070,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6086,7 +6086,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6102,7 +6102,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6118,7 +6118,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6134,7 +6134,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6150,7 +6150,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6166,7 +6166,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6182,7 +6182,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6198,7 +6198,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6214,7 +6214,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6230,7 +6230,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6246,7 +6246,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6262,7 +6262,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6278,7 +6278,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6294,7 +6294,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6310,7 +6310,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6326,7 +6326,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6342,7 +6342,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6358,7 +6358,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6374,7 +6374,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6390,7 +6390,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6406,7 +6406,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6423,7 +6423,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6439,7 +6439,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6455,7 +6455,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6471,7 +6471,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6487,7 +6487,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6503,7 +6503,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6519,7 +6519,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6535,7 +6535,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6551,7 +6551,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6567,7 +6567,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6583,7 +6583,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6600,7 +6600,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6616,7 +6616,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6632,7 +6632,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6648,7 +6648,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6664,7 +6664,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6680,7 +6680,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6696,7 +6696,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6712,7 +6712,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6728,7 +6728,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6744,7 +6744,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6760,7 +6760,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6776,7 +6776,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6792,7 +6792,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6808,7 +6808,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6824,7 +6824,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6840,7 +6840,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6856,7 +6856,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6872,7 +6872,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6888,7 +6888,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6905,7 +6905,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6921,7 +6921,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6938,7 +6938,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6954,7 +6954,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6970,7 +6970,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -6986,7 +6986,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7002,7 +7002,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7018,7 +7018,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7034,7 +7034,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7050,7 +7050,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7066,7 +7066,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7082,7 +7082,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7098,7 +7098,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7114,7 +7114,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7130,7 +7130,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7147,7 +7147,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7163,7 +7163,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7179,7 +7179,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7195,7 +7195,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7211,7 +7211,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7227,7 +7227,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7243,7 +7243,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7259,7 +7259,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7275,7 +7275,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7291,7 +7291,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7307,7 +7307,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7323,7 +7323,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7339,7 +7339,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7355,7 +7355,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7371,7 +7371,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7387,7 +7387,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7403,7 +7403,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7419,7 +7419,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7435,7 +7435,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7451,7 +7451,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7467,7 +7467,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7484,7 +7484,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7500,7 +7500,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7516,7 +7516,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7532,7 +7532,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7548,7 +7548,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7564,7 +7564,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7580,7 +7580,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7596,7 +7596,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7613,7 +7613,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7630,7 +7630,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7646,7 +7646,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7662,7 +7662,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7678,7 +7678,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7694,7 +7694,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7710,7 +7710,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7726,7 +7726,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7742,7 +7742,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7758,7 +7758,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7774,7 +7774,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7790,7 +7790,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7806,7 +7806,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7822,7 +7822,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7838,7 +7838,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7855,7 +7855,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7871,7 +7871,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7887,7 +7887,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7903,7 +7903,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7919,7 +7919,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7935,7 +7935,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7951,7 +7951,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7967,7 +7967,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7983,7 +7983,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -7999,7 +7999,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8015,7 +8015,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8031,7 +8031,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8047,7 +8047,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8063,7 +8063,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8079,7 +8079,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8095,7 +8095,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8111,7 +8111,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8127,7 +8127,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8143,7 +8143,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8159,7 +8159,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8175,7 +8175,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8191,7 +8191,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8207,7 +8207,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8223,7 +8223,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8239,7 +8239,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8255,7 +8255,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8271,7 +8271,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8287,7 +8287,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8303,7 +8303,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8319,7 +8319,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8335,7 +8335,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8351,7 +8351,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8367,7 +8367,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8383,7 +8383,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8400,7 +8400,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8416,7 +8416,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8432,7 +8432,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8448,7 +8448,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8464,7 +8464,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8480,7 +8480,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8496,7 +8496,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8512,7 +8512,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8528,7 +8528,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8544,7 +8544,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8560,7 +8560,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8576,7 +8576,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8592,7 +8592,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8608,7 +8608,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8624,7 +8624,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8640,7 +8640,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8656,7 +8656,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8672,7 +8672,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8688,7 +8688,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8704,7 +8704,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8720,7 +8720,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8736,7 +8736,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8752,7 +8752,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8768,7 +8768,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8784,7 +8784,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8800,7 +8800,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8816,7 +8816,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8832,7 +8832,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8848,7 +8848,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8864,7 +8864,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8880,7 +8880,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8896,7 +8896,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8912,7 +8912,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8928,7 +8928,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8944,7 +8944,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8960,7 +8960,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8976,7 +8976,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -8992,7 +8992,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9008,7 +9008,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9024,7 +9024,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9040,7 +9040,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9056,7 +9056,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9072,7 +9072,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9088,7 +9088,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9104,7 +9104,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9120,7 +9120,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9136,7 +9136,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9152,7 +9152,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9168,7 +9168,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9184,7 +9184,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9200,7 +9200,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9216,7 +9216,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9232,7 +9232,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9248,7 +9248,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9264,7 +9264,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9280,7 +9280,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9296,7 +9296,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9312,7 +9312,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9328,7 +9328,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9344,7 +9344,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9360,7 +9360,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9376,7 +9376,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9392,7 +9392,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9408,7 +9408,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9424,7 +9424,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9440,7 +9440,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9456,7 +9456,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9472,7 +9472,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9488,7 +9488,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9504,7 +9504,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9520,7 +9520,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9536,7 +9536,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9552,7 +9552,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9568,7 +9568,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9584,7 +9584,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9601,7 +9601,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9618,7 +9618,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9634,7 +9634,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9650,7 +9650,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9667,7 +9667,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9683,7 +9683,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9699,7 +9699,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9715,7 +9715,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9731,7 +9731,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9747,7 +9747,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9763,7 +9763,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9779,7 +9779,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9795,7 +9795,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9812,7 +9812,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9828,7 +9828,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9844,7 +9844,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9860,7 +9860,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9876,7 +9876,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9892,7 +9892,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9909,7 +9909,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9925,7 +9925,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9941,7 +9941,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9957,7 +9957,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9973,7 +9973,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -9989,7 +9989,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10005,7 +10005,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10021,7 +10021,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10037,7 +10037,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10053,7 +10053,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10069,7 +10069,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10085,7 +10085,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10101,7 +10101,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10117,7 +10117,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10133,7 +10133,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10149,7 +10149,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10165,7 +10165,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10181,7 +10181,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10197,7 +10197,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10213,7 +10213,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10229,7 +10229,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10245,7 +10245,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10261,7 +10261,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10277,7 +10277,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10293,7 +10293,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10310,7 +10310,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10326,7 +10326,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10342,7 +10342,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10358,7 +10358,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10374,7 +10374,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10390,7 +10390,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10406,7 +10406,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10422,7 +10422,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10438,7 +10438,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10454,7 +10454,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10470,7 +10470,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10486,7 +10486,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10502,7 +10502,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10518,7 +10518,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10534,7 +10534,7 @@ Having no ointment and box why do you pose as hairdresser?
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10552,7 +10552,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10568,7 +10568,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10584,7 +10584,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10601,7 +10601,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10618,7 +10618,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10634,7 +10634,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10650,7 +10650,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10666,7 +10666,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10682,7 +10682,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10698,7 +10698,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10714,7 +10714,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10731,7 +10731,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10747,7 +10747,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10763,7 +10763,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10780,7 +10780,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10796,7 +10796,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10812,7 +10812,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10828,7 +10828,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10845,7 +10845,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10862,7 +10862,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10878,7 +10878,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10894,7 +10894,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10910,7 +10910,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10926,7 +10926,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10943,7 +10943,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10959,7 +10959,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10975,7 +10975,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -10991,7 +10991,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11007,7 +11007,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11023,7 +11023,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11040,7 +11040,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11056,7 +11056,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11072,7 +11072,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11088,7 +11088,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11104,7 +11104,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11120,7 +11120,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11136,7 +11136,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11152,7 +11152,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11168,7 +11168,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11184,7 +11184,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11201,7 +11201,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11217,7 +11217,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11233,7 +11233,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11249,7 +11249,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11265,7 +11265,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11281,7 +11281,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11297,7 +11297,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11313,7 +11313,7 @@ The room and the stove are one item.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11330,7 +11330,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11346,7 +11346,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11362,7 +11362,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11378,7 +11378,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11394,7 +11394,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11410,7 +11410,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11426,7 +11426,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11442,7 +11442,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11458,7 +11458,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11474,7 +11474,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11490,7 +11490,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11506,7 +11506,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11522,7 +11522,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11538,7 +11538,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11554,7 +11554,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11570,7 +11570,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11586,7 +11586,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11602,7 +11602,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11618,7 +11618,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11634,7 +11634,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11650,7 +11650,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11667,7 +11667,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11683,7 +11683,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11699,7 +11699,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11715,7 +11715,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11731,7 +11731,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11747,7 +11747,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11763,7 +11763,7 @@ God is the doctor of the man who quarrels with his master.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11781,7 +11781,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11797,7 +11797,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11813,7 +11813,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11829,7 +11829,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11845,7 +11845,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11861,7 +11861,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11877,7 +11877,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11893,7 +11893,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11910,7 +11910,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11926,7 +11926,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11942,7 +11942,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11959,7 +11959,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11975,7 +11975,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -11992,7 +11992,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -12008,7 +12008,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -12025,7 +12025,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -12041,7 +12041,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -12058,7 +12058,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -12074,7 +12074,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -12090,7 +12090,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 
 <br><br><br>
@@ -12107,7 +12107,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 <br><br><br>
 
@@ -12122,7 +12122,7 @@ or 'I cannot see any good reason for deciding this or that way either'.
 
 - 直译： 
 
-- 翻译：
+- 翻译： 
 
 <br><br><br>
 
