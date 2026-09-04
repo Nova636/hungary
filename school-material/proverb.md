@@ -1515,9 +1515,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 每个吉卜赛人都夸自己的马。
 
-- 翻译： 
+- 翻译： 王婆卖瓜，自卖自夸。
 
 
 <br><br><br>
@@ -1533,9 +1533,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 吉卜赛人不习惯犁地。
 
-- 翻译： 
+- 翻译： 隔行如隔山。/赶鸭子上架。/不是这块料。
 
 
 <br><br><br>
@@ -1551,9 +1551,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 哪怕天上掉下吉卜赛孩子来。
 
-- 翻译： 
+- 翻译： 风雨无阻。/雷打不动。/
 
 
 <br><br><br>
@@ -1569,9 +1569,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 把它当成恰基（Csáky）家的稻草。
 
-- 翻译： 
+- 翻译： 漫不经心地对待别人的财物。/慷他人之慨。
 
 
 <br><br><br>
@@ -1585,9 +1585,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 天雷不劈荨麻。
 
-- 翻译： 
+- 翻译： 祸害总是活得久。/坏人总能躲过灾祸。
 
 
 <br><br><br>
@@ -1598,13 +1598,15 @@ This is Hungary proverb.
 
 ***HU:*** Add meg a császárnak, ami a császáré, és az Istennek, ami az Istené.
 
-***EN:*** Give the emperor what is the emperor's and God what is God's.           'Give everyone his due.'
+***EN:*** 
+- Give the emperor what is the emperor's and God what is God's. 
+- Give everyone his due.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 凯撒的归凯撒，上帝的归上帝。
 
-- 翻译： 
+- 翻译： 各归其主。/各得其所。
 
 
 <br><br><br>
@@ -1618,9 +1620,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他们把战斧埋起来了。
 
-- 翻译： 
+- 翻译： 化干戈为玉帛。/言归于好。/冰释前嫌。
 
 
 <br><br><br>
@@ -1634,9 +1636,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 许多水滴能把石头滴穿。
 
-- 翻译： 
+- 翻译： 滴水穿石。
 
 
 <br><br><br>
@@ -1644,15 +1646,25 @@ This is Hungary proverb.
 
 101 ★ 
 
-***HU:*** Cserép, zsindely van a háztetőn/házon.          (Fiatal/gyerek van jelen, ill. "a falnak is füle van.")
+***HU:*** 
 
-***EN:*** There is a tile on the roof.           (Walls have ears.)
+- Cserép, zsindely van a háztetőn/házon. --> 屋顶上有瓦片。
+
+- Fiatal/gyerek van jelen, ill.  --> 墙也长着耳朵。
+
+- a falnak is füle van. --> 别说了，孩子在听！
+
+***EN:*** 
+
+- There is a tile on the roof.
+
+- Walls have ears.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 屋顶上有瓦片。/墙也长着耳朵。
 
-- 翻译： 
+- 翻译： 隔墙有耳。
 
 
 <br><br><br>
@@ -1662,13 +1674,13 @@ This is Hungary proverb.
 
 ***HU:*** Cseréptálhoz fakanál.
 
-***EN:*** To an earthenware dish a wooden spoon.               'Marry your match.'
+***EN:*** To an earthenware dish a wooden spoon.     'Marry your match.'
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 陶碗配木勺。
 
-- 翻译： 
+- 翻译： 门当户对。
 
 
 <br><br><br>
@@ -1679,14 +1691,16 @@ This is Hungary proverb.
 ***HU:*** Lehazudná a csillagokat az égről.
 
 ***EN:*** 
-He would even lie, there is no star in the sky.
-'He is ready to deny even the most obvious truths.'
+
+- He would even lie, there is no star in the sky.
+
+- He is ready to deny even the most obvious truths.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他能把天上的星星都从天上说没了。
 
-- 翻译： 
+- 翻译： 睁着眼睛说瞎话。/颠倒黑白。
 
 
 <br><br><br>
@@ -1700,9 +1714,9 @@ He would even lie, there is no star in the sky.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 如果我什么都不做，就不会惹出麻烦。
 
-- 翻译： 
+- 翻译： 多做多错，少做少错，不做不错。/明哲保身。
 
 
 <br><br><br>
@@ -1713,14 +1727,16 @@ He would even lie, there is no star in the sky.
 ***HU:*** A sáros csizmámat sem törölném hozzá.
 
 ***EN:*** 
-I would not wipe my muddy boots in him.
-'An expression of utter despise.'
+
+- I would not wipe my muddy boots in him.
+
+- An expression of utter despise.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 我连沾满泥的靴子都不屑往他身上擦。
 
-- 翻译： 
+- 翻译： 嗤之以鼻。/不屑一顾。
 
 
 <br><br><br>
@@ -1731,14 +1747,18 @@ I would not wipe my muddy boots in him.
 ***HU:*** Hogy kerül a csizma az asztalra?
 
 ***EN:*** 
-How could the boots get on the table?
-'What has that got to do with it?'                 'An expression of indignant surprise.'
+
+- How could the boots get on the table?
+
+- What has that got to do with it?
+
+- An expression of indignant surprise.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 靴子怎么跑到桌子上来了？
 
-- 翻译： 
+- 翻译： 风马牛不相及。/驴唇不对马嘴。
 
 
 <br><br><br>
@@ -1752,9 +1772,9 @@ How could the boots get on the table?
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 每个奇迹都只持续三天。
 
-- 翻译： 
+- 翻译： 三分钟热度。
 
 
 <br><br><br>
@@ -1764,13 +1784,17 @@ How could the boots get on the table?
 
 ***HU:*** Ez már lerágott csont.
 
-***EN:*** This is already a gnawed bone.                  'A matter already discussed several times.'
+***EN:*** 
+
+- This is already a gnawed bone.  
+
+- A matter already discussed several times.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 这已经是一根啃过的骨头了。
 
-- 翻译： 
+- 翻译： 老生常谈。/陈词滥调。/炒冷饭。
 
 
 <br><br><br>
@@ -1784,9 +1808,9 @@ How could the boots get on the table?
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 来晚的人，午饭只剩骨头。
 
-- 翻译： 
+- 翻译： 机不可失，时不再来。
 
 
 <br><br><br>
@@ -1797,14 +1821,16 @@ How could the boots get on the table?
 ***HU:*** Ha nem csordul/csurran, cseppen.
 
 ***EN:*** 
-If it does not trickle, it will drop.
-'Even if it is less than expected, still there will be something.'
+
+- If it does not trickle, it will drop.
+
+- Even if it is less than expected, still there will be something.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 即使流不出来，至少还能滴下来。
 
-- 翻译： 
+- 翻译： 聊胜于无。
 
 
 <br><br><br>
@@ -1814,13 +1840,17 @@ If it does not trickle, it will drop.
 
 ***HU:*** Csöbörből vödörbe.
 
-***EN:*** He got out of the bucket and got into the pail.             (Out of the frying into the fire.)
+***EN:*** 
+
+- He got out of the bucket and got into the pail.  
+
+- Out of the frying into the fire.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 从木桶跳进水桶。
 
-- 翻译： 
+- 翻译： 刚出狼窝，又入虎穴。
 
 
 <br><br><br>
@@ -1834,9 +1864,9 @@ If it does not trickle, it will drop.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 小锅容易先烧开。
 
-- 翻译： 
+- 翻译： 脾气急的人最容易发火。
 
 
 <br><br><br>
@@ -1850,9 +1880,9 @@ If it does not trickle, it will drop.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他把手伸进黄蜂窝里。
 
-- 翻译： 
+- 翻译： 自找麻烦。
 
 
 <br><br><br>
@@ -1866,9 +1896,9 @@ If it does not trickle, it will drop.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 连大流士（古波斯帝国著名君主的名字。）的宝藏他都能花光。
 
-- 翻译： 
+- 翻译： 挥金如土。
 
 
 <br><br><br>
@@ -1878,13 +1908,17 @@ If it does not trickle, it will drop.
 
 ***HU:*** Te sem vagy jobb a Deákné vásznánál.
 
-***EN:*** Even you are not better than the linen of Deak's wife.              'You are as bad as the others.'
+***EN:*** 
+
+- Even you are not better than the linen of Deak's wife.  
+
+- You are as bad as the others.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 你也不比德阿克太太的亚麻布强。
 
-- 翻译： 
+- 翻译： 半斤八两。/五十步笑百步。
 
 
 <br><br><br>
@@ -1894,13 +1928,17 @@ If it does not trickle, it will drop.
 
 ***HU:*** Jön még kutyára dér.
 
-***EN:*** The hoar-frost is still to come for the dog.                 'Be sure your sins will find you out!'
+***EN:*** 
+
+- The hoar-frost is still to come for the dog. 
+
+- Be sure your sins will find you out!
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 狗迟早也会遇上霜冻。
 
-- 翻译： 
+- 翻译： 恶人终有恶报。/出来混，迟早要还。
 
 
 <br><br><br>
@@ -1910,13 +1948,17 @@ If it does not trickle, it will drop.
 
 ***HU:*** Három napig dínomdánom, holtig való szánom bánom.
 
-***EN:*** A three day long merry-making and regret lasting till death.                'A hasty marriage.'
+***EN:*** 
+
+- A three day long merry-making and regret lasting till death. 
+
+- A hasty marriage.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 三天欢宴作乐，一生懊悔遗憾。
 
-- 翻译： 
+- 翻译： 贪一时之乐，受长久之苦。
 
 
 <br><br><br>
@@ -1930,7 +1972,7 @@ If it does not trickle, it will drop.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 核桃砸开才好，女人打了才好。（一种反映旧时代父权思想和家庭暴力观念的过时谚语。）
 
 - 翻译： 
 
@@ -1946,9 +1988,9 @@ If it does not trickle, it will drop.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 像麦田里的聋猪一样一声不吭。
 
-- 翻译： 
+- 翻译： 装聋作哑。
 
 
 <br><br><br>
@@ -1962,9 +2004,9 @@ If it does not trickle, it will drop.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 饥饿的猪会梦见橡子。
 
-- 翻译： 
+- 翻译： 日有所思，夜有所梦。
 
 
 <br><br><br>
