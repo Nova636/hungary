@@ -1,7 +1,7 @@
 ```
 Hungarian cultural knowledge exam
 Magyar kulturális ismereti vizsga
-Last update: 2026.08.06
+Last update: 2026.09.04
 ```
 
 
@@ -577,7 +577,7 @@ Magyarország miniszterelnöke: ***Magyar Péter***
 ## 4.5 A köztársasági elnök
 Magyarország államfője, aki kifejezi a nemzet egységét és őrködik az államszervezet demokratikus működése felett.
 
-Magyarország köztársasági elnöke: ***Forsthoffer Ágnes***(ideiglenes)
+Magyarország köztársasági elnöke: ***Baka András***
 
 - az Országgyűlés választja 5 évre titkos szavazással - legfeljebb egy alkalommal újraválasztható
 - a Magyar Honvédség főparancsnoka
@@ -588,7 +588,7 @@ Magyarország köztársasági elnöke: ***Forsthoffer Ágnes***(ideiglenes)
 
 ![](./images/image983.png) <br> 
 
-*Forsthoffer Ágnes, Magyarország ideiglenes köztársasági elnöke*
+*Baka András, Magyarország köztársasági elnöke*
 
 <br><br><br><br>
 
