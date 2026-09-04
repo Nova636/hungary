@@ -586,7 +586,7 @@ Magyarország köztársasági elnöke: ***Baka András***
 
 <br><br>
 
-![](./images/image983.png) <br> 
+![](./images/image982.png) <br> 
 
 *Baka András, Magyarország köztársasági elnöke*
 
