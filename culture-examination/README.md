@@ -9,7 +9,8 @@ https://github.com/Nova636/hungary/blob/main/culture-examination/hungary-culture
 
 - Hungarian cultural knowledge examination material link(pdf file, printable):
 
-[https://github.com/Nova636/hungary/blob/main/culture-examination/hungarian-cultural-knowledge-examination-material-printable-20260806.pdf](https://github.com/Nova636/hungary/blob/main/culture-examination/hungarian-cultural-knowledge-examination-material-printable-20260904.pdf)
+https://github.com/Nova636/hungary/blob/main/culture-examination/hungarian-cultural-knowledge-examination-material-printable-20260904.pdf
+
 
 <br><br><br>
 <br><br><br>
