@@ -2016,13 +2016,17 @@ This is Hungary proverb.
 
 ***HU:*** Okos disznó mély gyökeret ránt.
 
-***EN:*** A clever pig extracts a deep root.                        'A clever man achieves remarkable feats.'
+***EN:*** 
+
+- A clever pig extracts a deep root.
+
+- A clever man achieves remarkable feats.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 聪明的猪能把深埋的树根拽出来。
 
-- 翻译： 
+- 翻译： 能人所不能。
 
 
 <br><br><br>
@@ -2036,9 +2040,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 不要把姜浪费在猪身上。
 
-- 翻译： 
+- 翻译： 对牛弹琴。
 
 
 <br><br><br>
@@ -2048,14 +2052,17 @@ This is Hungary proverb.
 
 ***HU:*** Nem erőszak a disznótor.
 
-***EN:*** Nobody is forced to attend the dinner given after killing a pig.
-'You are free to refrain from accepting an offer I consider favourable to/for you.'
+***EN:*** 
+
+- Nobody is forced to attend the dinner given after killing a pig.
+
+- You are free to refrain from accepting an offer I consider favourable to/for you.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 杀猪宴又不是强迫你参加的。
 
-- 翻译： 
+- 翻译： 没人逼你，爱来不来。
 
 
 <br><br><br>
@@ -2069,9 +2076,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 敲着鼓是抓不到麻雀的。
 
-- 翻译： 
+- 翻译： 方法不对，努力白费。/缘木求鱼。
 
 
 <br><br><br>
@@ -2081,14 +2088,17 @@ This is Hungary proverb.
 
 ***HU:*** Aki dolgozik, az nem ér rá pénzt keresni.
 
-***EN:*** He who works has no time to earn money.
-'If a job is hard and little paid, then one cannot earn additionally in a second job.'
+***EN:*** 
+
+- He who works has no time to earn money.
+
+- If a job is hard and little paid, then one cannot earn additionally in a second job.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 工作的人，没空挣钱。
 
-- 翻译： 
+- 翻译： 只会打工，发不了财。
 
 
 <br><br><br>
@@ -2102,9 +2112,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 不劳动的人，也不该吃饭。
 
-- 翻译： 
+- 翻译： 不劳者不得食。
 
 
 <br><br><br>
@@ -2114,13 +2124,17 @@ This is Hungary proverb.
 
 ***HU:*** Dróton rángat valakit.
 
-***EN:*** To pull somebody by a wire.                        (To pull the strings.)
+***EN:*** 
+
+- To pull somebody by a wire.  
+
+- To pull the strings.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 用线拽着某人。
 
-- 翻译： 
+- 翻译： 提线木偶。/牵着鼻子走。
 
 
 <br><br><br>
@@ -2134,9 +2148,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 两个风笛手待不进同一家酒馆。
 
-- 翻译： 
+- 翻译： 一山不容二虎。
 
 
 <br><br><br>
@@ -2150,9 +2164,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 那件事会发生，到什么时候呢？等到多瑙河倒流或者干涸的时候。
 
-- 翻译： 
+- 翻译： 等到太阳从西边出来。
 
 
 <br><br><br>
@@ -2162,13 +2176,17 @@ This is Hungary proverb.
 
 ***HU:*** Dunát lehetne rekeszteni vele/velük.
 
-***EN:*** The Danube could be dammed by them.                   'There are too many of them.'
+***EN:*** 
+
+- The Danube could be dammed by them.
+
+- There are too many of them.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 多得都能拿来堵住多瑙河了。
 
-- 翻译： 
+- 翻译： 投鞭断流。
 
 
 <br><br><br>
@@ -2182,9 +2200,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 两条狗很难在一根骨头上达成一致。
 
-- 翻译： 
+- 翻译： 一山不容二虎。
 
 
 <br><br><br>
@@ -2194,13 +2212,17 @@ This is Hungary proverb.
 
 ***HU:*** Az ebek harmincadjára kerül/jutott.
 
-***EN:*** It fell to the thirtieth of dogs.                     'Although it is valuable nobody cares for it any more.'
+***EN:*** 
+
+- It fell to the thirtieth of dogs.
+
+- Although it is valuable nobody cares for it any more.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 落到了狗的“三十分之一税”那里。
 
-- 翻译： 
+- 翻译： 本来有价值的东西，却被弃之不顾。/暴殄天物。/英雄无用武之地。
 
 
 <br><br><br>
@@ -2214,9 +2236,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 啃骨头是有牙的狗干的事。
 
-- 翻译： 
+- 翻译： 能者居之。/没有金刚钻，不揽瓷器活。
 
 
 <br><br><br>
@@ -2230,9 +2252,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 如果用棍子赶着狗去追兔子，那狗是抓不到兔子的。
 
-- 翻译： 
+- 翻译： 强扭的瓜不甜。/没有积极性，就难有好结果。
 
 
 <br><br><br>
@@ -2242,13 +2264,17 @@ This is Hungary proverb.
 
 ***HU:*** Köti az ebet a karóhoz.
 
-***EN:*** He ties the dog to the post.                      'He sticks to his position/plan/idea.'
+***EN:*** 
+
+- He ties the dog to the post.
+
+- He sticks to his position/plan/idea.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他非要把狗拴在桩子上。
 
-- 翻译： 
+- 翻译： 固执己见。
 
 
 <br><br><br>
@@ -2258,13 +2284,17 @@ This is Hungary proverb.
 
 ***HU:*** Ebcsont beforr.
 
-***EN:*** A dogs broken bone will soon be healed.                'The wound inflicted will soon be healed.'
+***EN:*** 
+
+- A dogs broken bone will soon be healed.
+
+- The wound inflicted will soon be healed.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 狗骨头会长好的。
 
-- 翻译： 
+- 翻译： 事情很快就会过去。
 
 
 <br><br><br>
@@ -2278,9 +2308,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他们之间的差别有如天地之别。
 
-- 翻译： 
+- 翻译： 天壤之别。
 
 
 <br><br><br>
@@ -2294,9 +2324,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 就像晴空中的一道霹雳。
 
-- 翻译： 
+- 翻译： 晴天霹雳。
 
 
 <br><br><br>
@@ -2310,9 +2340,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 健康的滋味，是疾病赋予的。
 
-- 翻译： 
+- 翻译： 失去之后，才懂得珍惜。
 
 
 <br><br><br>
@@ -2326,9 +2356,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 教区太穷了，连钟都是神父自己敲。
 
-- 翻译： 
+- 翻译： 一个人当两个人用。
 
 
 <br><br><br>
@@ -2342,9 +2372,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 瓷器店里的大象。
 
-- 翻译： 
+- 翻译： 笨手笨脚。
 
 
 <br><br><br>
@@ -2358,9 +2388,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 我们不是为了吃而活着，而是为了活着才吃。
 
-- 翻译： 
+- 翻译： 不要沉迷口腹之欲。
 
 
 <br><br><br>
@@ -2374,9 +2404,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 自负的人，很容易丢脸。
 
-- 翻译： 
+- 翻译： 满招损，谦受益。/骄兵必败。
 
 
 <br><br><br>
@@ -2390,9 +2420,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 既不要自满，也不要绝望。
 
-- 翻译： 
+- 翻译： 胜不骄，败不馁。
 
 
 <br><br><br>
@@ -2406,9 +2436,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 生活热热闹闹的时候才美好。
 
-- 翻译： 
+- 翻译： 生活有声有色的时候，才最美。
 
 
 <br><br><br>
@@ -2422,9 +2452,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 就连我的敌人，我也不希望他遭遇这种事。
 
-- 翻译： 
+- 翻译： 连仇人我都不愿他遭这个罪。
 
 
 <br><br><br>
@@ -2438,9 +2468,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 不反对我们的人，就是和我们站在一起的人。
 
-- 翻译： 
+- 翻译： 没站在对面，那就是自己人。
 
 
 <br><br><br>
@@ -2450,13 +2480,17 @@ This is Hungary proverb.
 
 ***HU:*** Ami elmúlt, elmúlt.
 
-***EN:*** What's gone, is gone.                (Don't cry over spilt milk.)
+***EN:*** 
+
+- What's gone, is gone.
+
+- Don't cry over spilt milk.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 过去的已经过去了。
 
-- 翻译： 
+- 翻译： 覆水难收。/木已成舟。
 
 
 <br><br><br>
@@ -2470,9 +2504,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 有多少人，就有多少种意见。
 
-- 翻译： 
+- 翻译： 众口难调。/仁者见仁，智者见智。
 
 
 <br><br><br>
@@ -2486,9 +2520,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 人再怎么小心也不为过。
 
-- 翻译： 
+- 翻译： 小心驶得万年船。/谨慎无大错。
 
 
 <br><br><br>
@@ -2502,9 +2536,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 人是人的狼。
 
-- 翻译： 
+- 翻译： 人对人往往比野兽更残酷。/人心险恶。
 
 
 <br><br><br>
@@ -2518,9 +2552,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 人做计划，上帝作决定。
 
-- 翻译： 
+- 翻译： 谋事在人，成事在天。
 
 
 <br><br><br>
@@ -2534,9 +2568,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 人直到临终都还在希望。
 
-- 翻译： 
+- 翻译： 只要活着，就还有希望。
 
 
 <br><br><br>
@@ -2550,9 +2584,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 人不知道明天醒来会迎来什么。
 
-- 翻译： 
+- 翻译： 世事难料。
 
 
 <br><br><br>
@@ -2566,9 +2600,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 许多好人挤在小地方也能待得下。
 
-- 翻译： 
+- 翻译： 心宽则天地宽。
 
 
 <br><br><br>
@@ -2582,9 +2616,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 去摘远近闻名的草莓时，不必带篮子。
 
-- 翻译： 
+- 翻译： 好东西早就被别人抢光了。
 
 
 <br><br><br>
@@ -2598,9 +2632,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他不会往别人的篮子里摘草莓。
 
-- 翻译： 
+- 翻译： 不替别人做嫁衣。
 
 
 <br><br><br>
@@ -2614,9 +2648,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 森林有耳朵，田野有眼睛。
 
-- 翻译： 
+- 翻译： 隔墙有耳。
 
 
 <br><br><br>
@@ -2626,13 +2660,17 @@ This is Hungary proverb.
 
 ***HU:*** Ahogy esik, úgy puffan.
 
-***EN:*** As it falls so it plumps.                   (As the tree falls, it will lie.)
+***EN:*** 
+
+- As it falls so it plumps.
+
+- As the tree falls, it will lie.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 怎么掉下来，就怎么砰地落地。
 
-- 翻译： 
+- 翻译： 听天由命。/顺其自然。
 
 
 <br><br><br>
@@ -2642,13 +2680,17 @@ This is Hungary proverb.
 
 ***HU:*** Eső után köpönyeg.
 
-***EN:*** After rain (comes) raincoat.                  (After meat, mustard.)
+***EN:*** 
+
+- After rain (comes) raincoat.
+
+- After meat, mustard.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 雨下完了才拿来雨披。
 
-- 翻译： 
+- 翻译： 马后炮。/事后诸葛亮。
 
 
 <br><br><br>
@@ -2662,9 +2704,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 五月的雨，价值如黄金。
 
-- 翻译： 
+- 翻译： 及时雨最珍贵。/雪中送炭。
 
 
 <br><br><br>
@@ -2678,9 +2720,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 靠脑子比靠蛮力做得更多。
 
-- 翻译： 
+- 翻译： 智取胜于力敌。
 
 
 <br><br><br>
@@ -2694,9 +2736,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 吃也好，不吃也好，反正没有别的可给。
 
-- 翻译： 
+- 翻译： 别挑三拣四。
 
 
 <br><br><br>
@@ -2706,14 +2748,17 @@ This is Hungary proverb.
 
 ***HU:*** Azt se tudja, eszik-e vagy isszák.
 
-***EN:*** He does not even know whether it is eaten or drunk.
-'He has no idea about it.'
+***EN:*** 
+
+- He does not even know whether it is eaten or drunk.
+
+- He has no idea about it.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他连这东西是吃的还是喝的都不知道。
 
-- 翻译： 
+- 翻译： 一窍不通。
 
 
 <br><br><br>
@@ -2727,9 +2772,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 爱斯基摩人太多，海豹太少。
 
-- 翻译： 
+- 翻译： 僧多粥少。/狼多肉少。/供不应求。
 
 
 <br><br><br>
@@ -2743,9 +2788,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 没有一样东西差劲到完全派不上用场。
 
-- 翻译： 
+- 翻译： 物尽其用。/尺有所短，寸有所长。
 
 
 <br><br><br>
@@ -2759,9 +2804,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 吃着吃着，胃口就来了。
 
-- 翻译： 
+- 翻译： 做着做着就有兴趣了。/人往往在过程中产生更大的热情或野心。
 
 
 <br><br><br>
