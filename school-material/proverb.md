@@ -2820,9 +2820,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 情况就是这样，只能接受并喜欢它。
 
-- 翻译： 
+- 翻译： 木已成舟，只能适应。/改变不了，就学着接受。
 
 
 <br><br><br>
@@ -2836,9 +2836,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 什么样的树，结什么样的果。
 
-- 翻译： 
+- 翻译： 有其父必有其子。/种瓜得瓜，种豆得豆。
 
 
 <br><br><br>
@@ -2848,14 +2848,13 @@ This is Hungary proverb.
 
 ***HU:*** Nagy fába vágta a fejszéjét.
 
-***EN:*** He cut his axe into a big tree.
-(A hard venture.)
+***EN:*** He cut his axe into a big tree.(A hard venture.)
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他把斧头砍进了一棵大树。
 
-- 翻译： 
+- 翻译： 承担了超大的挑战。
 
 
 <br><br><br>
@@ -2865,14 +2864,17 @@ This is Hungary proverb.
 
 ***HU:*** Fából vaskarika.
 
-***EN:*** An iron ring made of wood.
-'An absurdity.'
+***EN:*** 
+
+- An iron ring made of wood.
+
+- An absurdity.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 木头做的铁环。
 
-- 翻译： 
+- 翻译： 自相矛盾的东西。/不可能存在的事物。
 
 
 <br><br><br>
@@ -2882,14 +2884,17 @@ This is Hungary proverb.
 
 ***HU:*** Kemény fából faragták.
 
-***EN:*** He was carved of hard wood.
-'He is strong/steadfast.'
+***EN:*** 
+
+- He was carved of hard wood.
+
+- He is strong/steadfast.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他是用硬木头雕出来的。
 
-- 翻译： 
+- 翻译： 意志坚强。/硬汉子。/有骨气。
 
 
 <br><br><br>
@@ -2903,9 +2908,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 好树也会结坏果子。
 
-- 翻译： 
+- 翻译： 好树也会结坏果子。
 
 
 <br><br><br>
@@ -2919,9 +2924,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 树不是一下子就能砍倒的。
 
-- 翻译： 
+- 翻译： 冰冻三尺，非一日之寒。/大事不能一蹴而就。
 
 
 <br><br><br>
@@ -2935,9 +2940,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 树要趁还是枝条的时候弯。
 
-- 翻译： 
+- 翻译： 教育要从小抓起。/趁事物尚未定型时进行塑造。
 
 
 <br><br><br>
@@ -2951,9 +2956,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他在自己脚下砍树。
 
-- 翻译： 
+- 翻译： 自毁前程。/搬起石头砸自己的脚。/自掘坟墓。
 
 
 <br><br><br>
@@ -2963,14 +2968,13 @@ This is Hungary proverb.
 
 ***HU:*** Rossz fát tett a tűzre.
 
-***EN:*** He has put bad wood on the fire.
-(He has got into mischief.)
+***EN:*** He has put bad wood on the fire.(He has got into mischief.)
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他把坏木头扔进了火里。
 
-- 翻译： 
+- 翻译： 做了不该做的事情。
 
 
 <br><br><br>
@@ -2984,9 +2988,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他因为树木而看不见森林。
 
-- 翻译： 
+- 翻译： 只见树木，不见森林。/只顾细节，忽略整体。
 
 
 <br><br><br>
@@ -3000,9 +3004,9 @@ This is Hungary proverb.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 树不会一直长到天上去。
 
-- 翻译： 
+- 翻译： 凡事都有极限。
 
 
 <br><br><br>
@@ -3010,17 +3014,23 @@ This is Hungary proverb.
 
 180 ★ 
 
-***HU:*** A fakónak muszáj húzni, mert a fakót is húzzák.
+***HU:*** 
 
-***EN:*** (Akitől az elöljárói megkövetelnek valamit, az is kénytelen követelni a beosztottaitól.)
-The horse has to pull as the horse is also pulled.
-'He who gets orders from his superiors, has to pass them on to his subordinates.'
+- A fakónak muszáj húzni, mert a fakót is húzzák.
+
+- Akitől az elöljárói megkövetelnek valamit, az is kénytelen követelni a beosztottaitól.
+
+***EN:*** 
+
+- The horse has to pull as the horse is also pulled.
+
+- He who gets orders from his superiors, has to pass them on to his subordinates.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 黄马不得不拉车，因为它自己也在被人驱赶。
 
-- 翻译： 
+- 翻译： 身不由己。/自己受压力，也只能把压力传递下去。
 
 
 <br><br><br>
@@ -3034,7 +3044,7 @@ The horse has to pull as the horse is also pulled.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 连墙都有耳朵。
 
 - 翻译： 隔墙有耳。
 
@@ -3046,14 +3056,17 @@ The horse has to pull as the horse is also pulled.
 
 ***HU:*** A farkas a szőrét elhányja, de a szokását nem.
 
-***EN:*** The wolf may change its hair but not its nature.
-(The wolf may lose his teeth, but never his nature/memory.) *
+***EN:*** 
+
+- The wolf may change its hair but not its nature.
+
+- The wolf may lose his teeth, but never his nature/memory.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 狼会掉毛，但改不了习性。
 
-- 翻译： 
+- 翻译： 江山易改，本性难移。/禀性难移。
 
 
 <br><br><br>
@@ -3067,9 +3080,9 @@ The horse has to pull as the horse is also pulled.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 刚说到狼，狼就在园子外面转悠了。
 
-- 翻译： 
+- 翻译： 说曹操，曹操到。
 
 
 <br><br><br>
@@ -3083,9 +3096,9 @@ The horse has to pull as the horse is also pulled.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 狼（或狗）吃不掉冬天。
 
-- 翻译： 
+- 翻译： 冬天不会永远持续。
 
 
 <br><br><br>
@@ -3095,14 +3108,17 @@ The horse has to pull as the horse is also pulled.
 
 ***HU:*** A farok csóválja a kutyát.
 
-***EN:*** The tail wags the dog.
-'The normal order is reversed, e. g. those give orders who are expected to obey.'
+***EN:*** 
+
+- The tail wags the dog.
+
+- The normal order is reversed, e. g. those give orders who are expected to obey.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 尾巴在摇狗。
 
-- 翻译： 
+- 翻译： 本末倒置。/主次颠倒。
 
 
 <br><br><br>
@@ -3112,14 +3128,17 @@ The horse has to pull as the horse is also pulled.
 
 ***HU:*** Az új fazék megtartja első szagát.
 
-***EN:*** A new pot retains its first scent.
-(The cask savours of the first fill.)
+***EN:*** 
+
+- A new pot retains its first scent.
+
+- The cask savours of the first fill.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 新锅会保留它最初的气味。
 
-- 翻译： 
+- 翻译： 幼年养成的习惯会伴随终生。
 
 
 <br><br><br>
@@ -3127,16 +3146,19 @@ The horse has to pull as the horse is also pulled.
 
 187 ★ 
 
-***HU:*** Minden ember az ő maga fazeka mellé szít.
+***HU:*** 
 
-***EN:*** (Minden szentnek maga felé hajlik a keze.)
-Every man kindles the fire below his own pot.
+- Minden ember az ő maga fazeka mellé szít.
+
+- Minden szentnek maga felé hajlik a keze.
+
+***EN:*** Every man kindles the fire below his own pot.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 每个人都往自己锅底下添柴。
 
-- 翻译： 
+- 翻译： 人总是先顾自己的利益。/人不为己，天诛地灭。
 
 
 <br><br><br>
@@ -3150,9 +3172,9 @@ Every man kindles the fire below his own pot.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 一只燕子成不了夏天。
 
-- 翻译： 
+- 翻译： 孤掌难鸣。/单凭一个现象不能说明整体情况。
 
 
 <br><br><br>
@@ -3166,9 +3188,9 @@ Every man kindles the fire below his own pot.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 脑子里没有的，就得靠腿来补。
 
-- 翻译： 
+- 翻译： 脑力不足，要靠体力补救。
 
 
 <br><br><br>
@@ -3182,9 +3204,9 @@ Every man kindles the fire below his own pot.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他把钉子敲在了钉头上。
 
-- 翻译： 
+- 翻译： 切中要害。/一语中的。
 
 
 <br><br><br>
@@ -3194,14 +3216,17 @@ Every man kindles the fire below his own pot.
 
 ***HU:*** Összecsapnak a feje fölött a hullámok.
 
-***EN:*** The waves dash over his head.
-'He is unable to cope with the situation any longer.'
+***EN:*** 
+
+- The waves dash over his head.
+
+- He is unable to cope with the situation any longer.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 海浪在他头顶上方拍打、合拢。
 
-- 翻译： 
+- 翻译： 被困难淹没了。/压力大得喘不过气来。/已经快撑不住了。
 
 
 <br><br><br>
@@ -3215,9 +3240,9 @@ Every man kindles the fire below his own pot.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 低下的头，不会被剑砍到。
 
-- 翻译： 
+- 翻译： 忍一时风平浪静。/退一步海阔天空。/识时务者为俊杰。
 
 
 <br><br><br>
@@ -3231,9 +3256,9 @@ Every man kindles the fire below his own pot.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 拿脑袋去撞墙不是个好主意。
 
-- 翻译： 
+- 翻译： 不要硬碰硬。/别钻牛角尖。
 
 
 <br><br><br>
@@ -3243,14 +3268,17 @@ Every man kindles the fire below his own pot.
 
 ***HU:*** Veszett fejsze nyele.
 
-***EN:*** The helve of the lost hatchet.
-'A little gain in a great loss.'
+***EN:*** 
+
+- The helve of the lost hatchet.
+
+- A little gain in a great loss.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 丢了斧头，只剩斧柄。
 
-- 翻译： 
+- 翻译： 聊胜于无。
 
 
 <br><br><br>
@@ -3264,9 +3292,9 @@ Every man kindles the fire below his own pot.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 宁可先害怕，也不要后来被吓着。
 
-- 翻译： 
+- 翻译： 有备无患。/宁可过分谨慎，也不要事后后悔。
 
 
 <br><br><br>
@@ -3280,9 +3308,9 @@ Every man kindles the fire below his own pot.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 宁可走到半路再返回，也不要走上错误的道路。
 
-- 翻译： 
+- 翻译： 回头是岸。/知错能改，善莫大焉。
 
 
 <br><br><br>
@@ -3292,14 +3320,17 @@ Every man kindles the fire below his own pot.
 
 ***HU:*** Hadd hulljon a férgese.
 
-***EN:*** Let the wormy of it drop off.
-'Let those perish/leave who are not up to the standard.'
+***EN:*** 
+
+- Let the wormy of it drop off.
+
+- Let those perish/leave who are not up to the standard.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 让那些长虫的（坏掉的）果子自己掉下来吧。
 
-- 翻译： 
+- 翻译： 优胜劣汰。
 
 
 <br><br><br>
@@ -3313,9 +3344,9 @@ Every man kindles the fire below his own pot.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 经常得到的小钱，比偶尔得到的大钱更好。
 
-- 翻译： 
+- 翻译： 细水长流胜过暴富暴穷。/稳定的小收益比偶然的大收益更可靠。
 
 
 <br><br><br>
@@ -3329,9 +3360,9 @@ Every man kindles the fire below his own pot.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 只要人家只是马马虎虎地给我们发工资，我们也就马马虎虎地干活。
 
-- 翻译： 
+- 翻译： 按多少钱办多少事。
 
 
 <br><br><br>
@@ -3339,17 +3370,15 @@ Every man kindles the fire below his own pot.
 
 200 ★ 
 
-***HU:*** Akinek a foga fáj, tartsa a nyelvét rajta.
+***HU:*** Akinek a foga fáj, tartsa a nyelvét rajta.(Segíts magadon.)
 
-***EN:*** (Segíts magadon.)
-He who has a toothache, should keep/hold his tongue on it.
-'Help yourself.'
+***EN:*** He who has a toothache, should keep/hold his tongue on it.(Help yourself.)
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 谁牙疼，谁就把舌头放在疼的牙上。
 
-- 翻译： 
+- 翻译： 自己的事情自己最上心。
 
 
 <br><br><br>
@@ -3359,14 +3388,17 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***HU:*** Feni a fogát valamire.
 
-***EN:*** He whets his teeth on something.
-'He is very eager to get something.'
+***EN:*** 
+
+- He whets his teeth on something.
+
+- He is very eager to get something.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他正把牙磨尖，准备对付某样东西。
 
-- 翻译： 
+- 翻译： 觊觎某物。/虎视眈眈地盯着某个机会、利益或财产。
 
 
 <br><br><br>
@@ -3376,14 +3408,13 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***HU:*** Kimutatja a foga fehérjét.
 
-***EN:*** He shows the whiteness of his teeth.
-(He shows himself in his true colours.)
+***EN:*** He shows the whiteness of his teeth.(He shows himself in his true colours.)
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 露出了牙齿的白色。/露出了獠牙。
 
-- 翻译： 
+- 翻译： 露出真面目。/原形毕露。
 
 
 <br><br><br>
@@ -3393,14 +3424,17 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***HU:*** Fogjuk meg és vigyétek.
 
-***EN:*** Let us take it (into our hands) and then you carry it!
-'Somebody is urging others to work without wishing to take part in it.'
+***EN:*** 
+
+- Let us take it (into our hands) and then you carry it!
+
+- Somebody is urging others to work without wishing to take part in it.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 我们把它抬起来，然后你们搬走吧。
 
-- 翻译： 
+- 翻译： 光动嘴，不动手。/只会指挥别人干活。
 
 
 <br><br><br>
@@ -3414,9 +3448,9 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 线总是在最细的地方断掉。
 
-- 翻译： 
+- 翻译： 问题总从最薄弱的环节爆发。/链条总是从最脆弱的地方断开。
 
 
 <br><br><br>
@@ -3426,14 +3460,13 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***HU:*** Elment Földvárra deszkát árulni (meghalt).
 
-***EN:*** He left for Földvár to sell boards.
-'He died.'
+***EN:*** He left for Földvár to sell boards.(He died.)
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 他去福尔德瓦尔（Földvár）卖木板了。
 
-- 翻译： 
+- 翻译： 他去世了。
 
 
 <br><br><br>
@@ -3443,14 +3476,17 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***HU:*** Amit főztél, edd is meg!
 
-***EN:*** What you have cooked, you should eat as well.
-'You have to take the responsibility for your action.'
+***EN:*** 
+
+- What you have cooked, you should eat as well.
+
+- You have to take the responsibility for your action.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 自己煮的饭，自己吃。
 
-- 翻译： 
+- 翻译： 自己做的事，自己承担后果。
 
 
 <br><br><br>
@@ -3464,9 +3500,9 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 逃跑虽然丢脸，但很有用。
 
-- 翻译： 
+- 翻译： 三十六计，走为上计。/留得青山在，不怕没柴烧。
 
 
 <br><br><br>
@@ -3480,9 +3516,9 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 从一个耳朵进去，从另一个耳朵出来。
 
-- 翻译： 
+- 翻译： 左耳进，右耳出。/当耳边风。
 
 
 <br><br><br>
@@ -3492,13 +3528,13 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***HU:*** Se füle, se farka.
 
-***EN:*** It has neither an ear, nor a tail.     (It has neither rhyme nor reason.)     'It makes no sense.'
+***EN:*** It has neither an ear, nor a tail. (It has neither rhyme nor reason.)
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 既没有耳朵，也没有尾巴。
 
-- 翻译： 
+- 翻译： 没头没尾。/莫名其妙。
 
 
 <br><br><br>
@@ -3512,9 +3548,9 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 哪里有烟，哪里就有火。
 
-- 翻译： 
+- 翻译： 无风不起浪。
 
 
 <br><br><br>
@@ -3524,14 +3560,13 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***HU:*** Füstbe ment.
 
-***EN:*** It went into smoke.
-'Nothing was realised/achieved.'
+***EN:*** It went into smoke.(Nothing was realised/achieved.)
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 化成烟了。
 
-- 翻译： 
+- 翻译： 化为乌有。
 
 
 <br><br><br>
@@ -3541,14 +3576,13 @@ He who has a toothache, should keep/hold his tongue on it.
 
 ***HU:*** Nagyobb a füstje, mint a lángja.
 
-***EN:*** Its smoke is bigger than the flame.
-'It is not so serious.'
+***EN:*** Its smoke is bigger than the flame.(It is not so serious.)
 
 ***CN:*** 
 
-- 直译： 
+- 直译： 烟比火还大。
 
-- 翻译： 
+- 翻译： 雷声大，雨点小。/虚张声势。
 
 
 <br><br><br>
