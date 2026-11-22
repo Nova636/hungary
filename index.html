@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="zh-CN">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="外语课文与听力学习页面">
+  <title>jonapot</title>
+  <link rel="stylesheet" href="style5.css">
+  <script src="audio5.js" defer></script>
+</head>
+<body>
+  <header class="site-header">
+    <div class="header-inner">
+      <p class="eyebrow">LANGUAGE STUDY</p>
+      <h1>Jonapot</h1>
+      <p class="subtitle">阅读课文，聆听发音，按照自己的节奏学习。</p>
+    </div>
+  </header>
+
+  <main class="page-content">
+    <div class="list-heading">
+      <h2>全部课文</h2>
+      <p id="lesson-count" class="lesson-count" aria-live="polite"></p>
+    </div>
+
+    <section id="lesson-list" class="lesson-list" aria-label="全部课文">
+      <p class="loading-message">正在载入课文……</p>
+    </section>
+  </main>
+
+  <footer class="site-footer">
+    <p>Language Learning</p>
+  </footer>
+
+  <!-- 全站共用一个播放器，音频只在点击播放时才加载。 -->
+  <audio id="lesson-audio" preload="none"></audio>
+</body>
+</html>

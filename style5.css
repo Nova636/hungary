@@ -1,0 +1,336 @@
+/* =========================================================
+   外语学习网页 - 样式配置
+   常用的字体、颜色、尺寸都集中在 :root，方便统一修改。
+   ========================================================= */
+
+:root {
+  /* 页面 */
+  --page-bg: #f3f6fa;
+  --page-width: 1080px;
+  --page-font: "Segoe UI", "Noto Sans SC", "Microsoft YaHei", sans-serif;
+  --text-color: #273449;
+  --muted-color: #778398;
+
+  /* 页头 */
+  --header-bg: #243b55;
+  --header-title-color: #ffffff;
+  --header-subtitle-color: #d7e2ef;
+
+  /* 课文卡片 */
+  --card-bg: #ffffff;
+  --card-border: #e4eaf1;
+  --card-radius: 16px;
+  --card-shadow: 0 5px 18px rgba(34, 54, 78, 0.055);
+  --card-title-color: #243b55;
+  --card-title-size: 1.12rem;
+  --card-content-color: #35445a;
+  --card-content-size: 1rem;
+  --card-line-height: 1.85;
+  --divider-color: #e9edf3;
+
+  /* 播放按钮 */
+  --play-bg: #e7f2ff;
+  --play-hover-bg: #d7eaff;
+  --play-color: #1769aa;
+  --stop-bg: #fff0ed;
+  --stop-hover-bg: #ffe1dc;
+  --stop-color: #c34d3d;
+  --button-radius: 11px;
+
+  /* 间距 */
+  --card-padding: 20px;
+  --card-gap: 16px;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+}
+
+body {
+  margin: 0;
+  background: var(--page-bg);
+  color: var(--text-color);
+  font-family: var(--page-font);
+  font-size: 16px;
+}
+
+.site-header {
+  background: var(--header-bg);
+  color: var(--header-title-color);
+  padding: 38px 22px 34px;
+}
+
+.header-inner,
+.page-content {
+  width: min(var(--page-width), calc(100% - 40px));
+  margin: 0 auto;
+}
+
+.eyebrow {
+  margin: 0 0 9px;
+  color: #a9c5e2;
+  font-size: 0.72rem;
+  font-weight: 700;
+  letter-spacing: 0.17em;
+}
+
+.site-header h1 {
+  margin: 0;
+  color: var(--header-title-color);
+  font-size: clamp(1.7rem, 4vw, 2.25rem);
+  font-weight: 700;
+  letter-spacing: 0.02em;
+}
+
+.subtitle {
+  margin: 10px 0 0;
+  color: var(--header-subtitle-color);
+  font-size: 0.95rem;
+  line-height: 1.6;
+}
+
+.page-content {
+  padding: 30px 0 48px;
+}
+
+.list-heading {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  gap: 12px;
+  margin: 0 2px 17px;
+}
+
+.list-heading h2 {
+  margin: 0;
+  color: #2b3d54;
+  font-size: 1.2rem;
+}
+
+.lesson-count {
+  margin: 0;
+  color: var(--muted-color);
+  font-size: 0.85rem;
+}
+
+.lesson-list {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--card-gap);
+}
+
+.lesson-card {
+  min-width: 0;
+  overflow: hidden;
+  padding: var(--card-padding);
+  background: var(--card-bg);
+  border: 1px solid var(--card-border);
+  border-radius: var(--card-radius);
+  box-shadow: var(--card-shadow);
+}
+
+.lesson-card-header {
+  display: flex;
+  align-items: center;
+  gap: 14px;
+  min-width: 0;
+}
+
+.audio-controls {
+  display: flex;
+  flex: 0 0 auto;
+  align-items: center;
+  gap: 8px;
+}
+
+.audio-button {
+  display: inline-flex;
+  width: 56px;
+  height: 42px;
+  align-items: center;
+  justify-content: center;
+  padding: 0;
+  border: 0;
+  border-radius: var(--button-radius);
+  cursor: pointer;
+  -webkit-tap-highlight-color: transparent;
+  touch-action: manipulation;
+  transition: background-color 140ms ease, transform 140ms ease;
+}
+
+.audio-button:active {
+  transform: scale(0.96);
+}
+
+.audio-button:focus-visible {
+  outline: 3px solid rgba(36, 119, 190, 0.35);
+  outline-offset: 3px;
+}
+
+.play-button {
+  background: var(--play-bg);
+  color: var(--play-color);
+}
+
+.play-button:hover {
+  background: var(--play-hover-bg);
+}
+
+.stop-button {
+  background: var(--stop-bg);
+  color: var(--stop-color);
+}
+
+.stop-button:hover {
+  background: var(--stop-hover-bg);
+}
+
+.audio-button svg {
+  display: block;
+  width: 20px;
+  height: 20px;
+  fill: currentColor;
+}
+
+.stop-button svg {
+  width: 16px;
+  height: 16px;
+}
+
+.lesson-title {
+  min-width: 0;
+  margin: 0;
+  color: var(--card-title-color);
+  font-size: var(--card-title-size);
+  font-weight: 700;
+  line-height: 1.4;
+  overflow-wrap: anywhere;
+}
+
+.lesson-divider {
+  height: 1px;
+  margin: 9px 0 9px;
+  background: var(--divider-color);
+  border: 0;
+}
+
+.lesson-content {
+  color: var(--card-content-color);
+  font-size: var(--card-content-size);
+  line-height: var(--card-line-height);
+  overflow-wrap: anywhere;
+  white-space: pre-line;
+}
+
+.lesson-content p {
+  margin: 0 0 0.75em;
+}
+
+.lesson-content p:last-child {
+  margin-bottom: 0;
+}
+
+.speaker {
+  color: #2478c5;
+  font-weight: 800;
+}
+
+.loading-message,
+.empty-message {
+  padding: 24px;
+  color: var(--muted-color);
+  text-align: center;
+}
+
+.site-footer {
+  padding: 22px 20px 30px;
+  color: #8a96a8;
+  font-size: 0.8rem;
+  text-align: center;
+}
+
+.site-footer p {
+  margin: 0;
+}
+
+/* 平板 */
+@media (min-width: 700px) {
+  .site-header {
+    padding-top: 46px;
+    padding-bottom: 42px;
+  }
+
+  .page-content {
+    padding-top: 36px;
+  }
+
+  .lesson-card {
+    padding: 23px 25px;
+  }
+
+  .lesson-content {
+    font-size: 1.03rem;
+  }
+}
+
+/* 手机：保持按钮足够大，标题和按钮允许自然换行 */
+@media (max-width: 480px) {
+  .header-inner,
+  .page-content {
+    width: calc(100% - 24px);
+  }
+
+  .site-header {
+    padding: 29px 12px 27px;
+  }
+
+  .page-content {
+    padding-top: 23px;
+  }
+
+  .lesson-card {
+    padding: 15px 13px 17px;
+    border-radius: 13px;
+  }
+
+  .lesson-card-header {
+    gap: 10px;
+  }
+
+  .audio-controls {
+    gap: 6px;
+  }
+
+  .audio-button {
+    width: 52px;
+    height: 44px;
+    border-radius: 10px;
+  }
+
+  .lesson-title {
+    font-size: 1.02rem;
+  }
+
+  .lesson-divider {
+    margin: 14px 0 12px;
+  }
+
+  .lesson-content {
+    font-size: 0.97rem;
+    line-height: 1.8;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    scroll-behavior: auto !important;
+    transition-duration: 0.01ms !important;
+  }
+}
