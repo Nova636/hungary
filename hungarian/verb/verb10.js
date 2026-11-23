@@ -180,6 +180,16 @@ const verbs = [
     },
 /*-----------------------------------------------------------------*/
     {
+        infinitive: "fogni",
+        meaning: "抓住，握着，拿着，捕捉，接住。将会……、要……",
+        tenses: {
+			present_indefinite: ["fogok", "fogsz", "fog", "fogunk", "fogtok", "fognak"],
+			present_definite: ["fogom", "fogod", "fogja", "fogjuk", "fogjátok", "fogják"],
+			past_indefinite: ["fogtam", "fogtál", "fogott", "fogtunk", "fogtatok", "fogtak"]
+		}
+    },
+/*-----------------------------------------------------------------*/
+    {
         infinitive: "főzni",
         meaning: "做饭",
         tenses: {
