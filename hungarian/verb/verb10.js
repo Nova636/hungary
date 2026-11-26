@@ -15,11 +15,10 @@
 const tenseConfig = [
     { id: "present_indefinite", title: "Present indefinite tense", color: 1 },
     { id: "present_definite", title: "Present definite tense", color: 2 },
-    { id: "past_indefinite", title: "Past indefinite tense", color: 3 }
+    { id: "past_indefinite", title: "Past indefinite tense", color: 3 },
+    { id: "past_definite", title: "Past definite tense", color: 4 }
 ];
-
 /*
-    { id: "past_definite", title: "Past definite tense", color: 4 },
     { id: "conditional_present_indefinite", title: "Conditional present indefinite tense", color: 5 },
     { id: "conditional_present_definite", title: "Conditional present definite tense", color: 1 },
     { id: "conditional_past_indefinite", title: "Conditional past indefinite tense", color: 2 },
@@ -45,7 +44,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["adok", "adsz", "ad", "adunk", "adtok", "adnak"],
             present_definite: ["adom", "adod", "adja", "adjuk", "adjátok", "adják"],
-            past_indefinite: ["adtam", "adtál", "adott", "adtunk", "adtatok", "adtak"]
+            past_indefinite: ["adtam", "adtál", "adott", "adtunk", "adtatok", "adtak"],
+            past_definite: ["adtam", "adtad", "adta", "adtuk", "adtátok", "adták"]
         }
     },
 /*-----------------------------------------------------------------*/
@@ -55,7 +55,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["alszom", "alszol", "alszik", "alszunk", "alszotok", "alszanak"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["aludtam", "aludtál", "aludt", "aludtunk", "aludtatok", "aludtak"]
+			past_indefinite: ["aludtam", "aludtál", "aludt", "aludtunk", "aludtatok", "aludtak"],
+			past_definite: ["", "", "", "", "", ""]
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -65,7 +66,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["akarok", "akarsz", "akar", "akarunk", "akartok", "akarnak"],
 			present_definite: ["akarom", "akarod", "akarja", "akarjuk", "akarjátok", "akarják"],
-			past_indefinite: ["akartam", "akartál", "akart", "akartunk", "akartatok", "akartak"]
+			past_indefinite: ["akartam", "akartál", "akart", "akartunk", "akartatok", "akartak"],
+			past_definite: ["akartam", "akartad", "akarta", "akartuk", "akartátok", "akarták"]
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -75,7 +77,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["beszélek", "beszélsz", "beszél", "beszélünk", "beszéltek", "beszélnek"],
 			present_definite: ["beszélem", "beszéled", "beszéli", "beszéljük", "beszélitek", "beszélik"],
-			past_indefinite: ["beszéltem", "beszéltél", "beszélt", "beszéltünk", "beszéltetek", "beszéltek"]
+			past_indefinite: ["beszéltem", "beszéltél", "beszélt", "beszéltünk", "beszéltetek", "beszéltek"],
+			past_definite: ["beszéltem", "beszélted", "beszélte", "beszéltük", "beszéltétek", "beszélték"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -85,7 +88,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["csinálok", "csinálsz", "csinál", "csinálunk", "csináltok", "csinálnak"],
 			present_definite: ["csinálom", "csinálod", "csinálja", "csináljuk", "csináljátok", "csinálják"],
-			past_indefinite: ["csináltam", "csináltál", "csinált", "csináltunk", "csináltatok", "csináltak"]
+			past_indefinite: ["csináltam", "csináltál", "csinált", "csináltunk", "csináltatok", "csináltak"],
+			past_definite: ["csináltam", "csináltad", "csinálta", "csináltuk", "csináltátok", "csinálták"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -95,7 +99,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["dolgozom", "dolgozol", "dolgozik", "dolgozunk", "dolgoztok", "dolgoznak"],
             present_definite: ["dolgozom", "dolgozod", "dolgozza", "dolgozzuk", "dolgozzátok", "dolgozzák"],
-            past_indefinite: ["dolgoztam", "dolgoztál", "dolgozott", "dolgoztunk", "dolgoztatok", "dolgoztak"]
+            past_indefinite: ["dolgoztam", "dolgoztál", "dolgozott", "dolgoztunk", "dolgoztatok", "dolgoztak"],
+            past_definite: ["dolgoztam", "dolgoztad", "dolgozta", "dolgoztuk", "dolgoztátok", "dolgozták"],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -105,7 +110,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["ebédelek", "ebédelsz", "ebédel", "ebédelünk", "ebédeltek", "ebédelnek"],
             present_definite: ["ebédelem", "ebédeled", "ebédeli", "ebédeljük", "ebédelitek", "ebédelik"],
-            past_indefinite: ["ebédeltem", "ebédeltél", "ebédelt", "ebédeltünk", "ebédeltetek", "ebédeltek"]
+            past_indefinite: ["ebédeltem", "ebédeltél", "ebédelt", "ebédeltünk", "ebédeltetek", "ebédeltek"],
+            past_definite: ["ebédeltem", "ebédelted", "ebédelte", "ebédeltük", "ebédeltétek", "ebédelték"],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -115,7 +121,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["élek", "élsz", "él", "élünk", "éltek", "élnek"],
 			present_definite: ["élem", "éled", "éli", "éljük", "élitek", "élik"],
-			past_indefinite: ["éltem", "éltél", "élt", "éltünk", "éltetek", "éltek"]
+			past_indefinite: ["éltem", "éltél", "élt", "éltünk", "éltetek", "éltek"],
+			past_definite: ["éltem", "élted", "élte", "éltük", "éltétek", "élték"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -125,7 +132,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["éneklek", "énekelsz", "énekel", "éneklünk", "énekeltek", "énekelnek"],
 			present_definite: ["éneklem", "énekled", "énekli", "énekeljük", "éneklitek", "éneklik"],
-			past_indefinite: ["énekeltem", "énekeltél", "énekelt", "énekeltünk", "énekeltetek", "énekeltek"]
+			past_indefinite: ["énekeltem", "énekeltél", "énekelt", "énekeltünk", "énekeltetek", "énekeltek"],
+			past_definite: ["énekeltem", "énekelted", "énekelte", "énekeltük", "énekeltétek", "énekelték"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -135,7 +143,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["eszem", "eszel", "eszik", "eszünk", "esztek", "esznek"],
             present_definite: ["eszem", "eszed", "eszi", "esszük", "eszitek", "eszik"],
-            past_indefinite: ["ettem", "ettél", "evett", "ettünk", "ettetek", "ettek"]
+            past_indefinite: ["ettem", "ettél", "evett", "ettünk", "ettetek", "ettek"],
+            past_definite: ["ettem", "etted", "ette", "ettük", "ettétek", "ették"],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -145,7 +154,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["érkezem", "érkezel", "érkezik", "érkezünk", "érkeztek", "érkeznek"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["érkeztem", "érkeztél", "érkezett", "érkeztünk", "érkeztetek", "érkeztek"]
+			past_indefinite: ["érkeztem", "érkeztél", "érkezett", "érkeztünk", "érkeztetek", "érkeztek"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -155,7 +165,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["értek", "értesz", "ért", "értünk", "értetek", "értenek"],
 			present_definite: ["értem", "érted", "érti", "értjük", "értitek", "értik"],
-			past_indefinite: ["értettem", "értettél", "értett", "értettünk", "értettetek", "értettek"]
+			past_indefinite: ["értettem", "értettél", "értett", "értettünk", "értettetek", "értettek"],
+			past_definite: ["értettem", "értetted", "értette", "értettük", "értettétek", "értették"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -165,7 +176,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["fájok", "fájsz", "fáj", "fájunk", "fájtok", "fájnak"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["fájtam", "fájtál", "fájt", "fájtunk", "fájtatok", "fájtak"]
+			past_indefinite: ["fájtam", "fájtál", "fájt", "fájtunk", "fájtatok", "fájtak"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -175,7 +187,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["fekszem", "fekszel", "fekszik", "fekszünk", "fekszetek", "fekszenek"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["feküdtem", "feküdtél", "feküdt", "feküdtünk", "feküdtetek", "feküdtek"]
+			past_indefinite: ["feküdtem", "feküdtél", "feküdt", "feküdtünk", "feküdtetek", "feküdtek"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -185,7 +198,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["fogok", "fogsz", "fog", "fogunk", "fogtok", "fognak"],
 			present_definite: ["fogom", "fogod", "fogja", "fogjuk", "fogjátok", "fogják"],
-			past_indefinite: ["fogtam", "fogtál", "fogott", "fogtunk", "fogtatok", "fogtak"]
+			past_indefinite: ["fogtam", "fogtál", "fogott", "fogtunk", "fogtatok", "fogtak"],
+			past_definite: ["fogtam", "fogtad", "fogta", "fogtuk", "fogtátok", "fogták"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -195,7 +209,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["főzök", "főzöl", "főz", "főzünk", "főztök", "főznek"],
             present_definite: ["főzöm", "főzöd", "főzi", "főzzük", "főzitek", "főzik"],
-            past_indefinite: ["főztem", "főztél", "főzött", "főztünk", "főztetek", "főztek"]
+            past_indefinite: ["főztem", "főztél", "főzött", "főztünk", "főztetek", "főztek"],
+            past_definite: ["főztem", "főzted", "főzte", "főztük", "főztétek", "főzték"],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -205,7 +220,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["hozok", "hozol", "hoz", "hozunk", "hoztok", "hoznak"],
 			present_definite: ["hozom", "hozod", "hozza", "hozzuk", "hozzátok", "hozzák"],
-			past_indefinite: ["hoztam", "hoztál", "hozott", "hoztunk", "hoztatok", "hoztak"]
+			past_indefinite: ["hoztam", "hoztál", "hozott", "hoztunk", "hoztatok", "hoztak"],
+			past_definite: ["hoztam", "hoztad", "hozta", "hoztuk", "hoztátok", "hozták"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -215,7 +231,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["írok", "írsz", "ír", "írunk", "írtok", "írnak"],
             present_definite: ["írom", "írod", "írja", "írjuk", "írjátok", "írják"],
-            past_indefinite: ["írtam", "írtál", "írt", "írtunk", "írtatok", "írtak"]
+            past_indefinite: ["írtam", "írtál", "írt", "írtunk", "írtatok", "írtak"],
+            past_definite: ["írtam", "írtad", "írta", "írtuk", "írtátok", "írták"],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -225,7 +242,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["iszom", "iszol", "iszik", "iszunk", "isztok", "isznak"],
             present_definite: ["iszom", "iszod", "issza", "isszuk", "isszátok", "isszák"],
-            past_indefinite: ["ittam", "ittál", "ivott", "ittunk", "ittatok", "ittak"]
+            past_indefinite: ["ittam", "ittál", "ivott", "ittunk", "ittatok", "ittak"],
+            past_definite: ["ittam", "ittad", "itta", "ittuk", "ittátok", "itták"],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -235,7 +253,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["jövök", "jössz", "jön", "jövünk", "jöttök", "jönnek"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["jöttem", "jöttél", "jött", "jöttünk", "jöttetek", "jöttek"]
+			past_indefinite: ["jöttem", "jöttél", "jött", "jöttünk", "jöttetek", "jöttek"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -245,7 +264,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["kapok", "kapsz", "kap", "kapunk", "kaptok", "kapnak"],
 			present_definite: ["kapom", "kapod", "kapja", "kapjuk", "kapjátok", "kapják"],
-			past_indefinite: ["kaptam", "kaptál", "kapott", "kaptunk", "kaptatok", "kaptak"]
+			past_indefinite: ["kaptam", "kaptál", "kapott", "kaptunk", "kaptatok", "kaptak"],
+			past_definite: ["kaptam", "kaptad", "kapta", "kaptuk", "kaptátok", "kapták"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -255,7 +275,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["keresek", "keresel", "keres", "keresünk", "kerestek", "keresnek"],
 			present_definite: ["keresem", "keresed", "keresi", "keressük", "keresitek", "keresik"],
-			past_indefinite: ["kerestem", "kerestél", "keresett", "kerestünk", "kerestetek", "kerestek"]
+			past_indefinite: ["kerestem", "kerestél", "keresett", "kerestünk", "kerestetek", "kerestek"],
+			past_definite: ["kerestem", "kerested", "kereste", "kerestük", "kerestétek", "keresték"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -265,7 +286,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["kérek", "kérsz", "kér", "kérünk", "kértek", "kérnek"],
 			present_definite: ["kérem", "kéred", "kéri", "kérjük", "kéritek", "kérik"],
-			past_indefinite: ["kértem", "kértél", "kért", "kértünk", "kértetek", "kértek"]
+			past_indefinite: ["kértem", "kértél", "kért", "kértünk", "kértetek", "kértek"],
+			past_definite: ["kértem", "kérted", "kérte", "kértük", "kértétek", "kérték"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -275,7 +297,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["kerülök", "kerülsz", "kerül", "kerülünk", "kerültök", "kerülnek"],
 			present_definite: ["kerülöm", "kerülöd", "kerüli", "kerüljük", "kerülitek", "kerülik"],
-			past_indefinite: ["kerültem", "kerültél", "került", "kerültünk", "kerültetek", "kerültek"]
+			past_indefinite: ["kerültem", "kerültél", "került", "kerültünk", "kerültetek", "kerültek"],
+			past_definite: ["kerültem", "kerülted", "kerülte", "kerültük", "kerültétek", "kerülték"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -285,7 +308,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["kirándulok", "kirándulsz", "kirándul", "kirándulunk", "kirándultok", "kirándulnak"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["kirándultam", "kirándultál", "kirándult", "kirándultunk", "kirándultatok", "kirándultak"]
+			past_indefinite: ["kirándultam", "kirándultál", "kirándult", "kirándultunk", "kirándultatok", "kirándultak"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -295,7 +319,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["lakom", "laksz", "lakik", "lakunk", "laktok", "laknak"],
 			present_definite: ["lakom", "lakod", "lakja", "lakjuk", "lakjátok", "lakják"],
-			past_indefinite: ["laktam", "laktál", "lakott", "laktunk", "laktatok", "laktak"]
+			past_indefinite: ["laktam", "laktál", "lakott", "laktunk", "laktatok", "laktak"],
+			past_definite: ["laktam", "laktad", "lakta", "laktuk", "laktátok", "lakták"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -305,7 +330,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["megyek", "mész", "megy", "megyünk", "mentek", "mennek"],
             present_definite: ["", "", "", "", "", ""],
-            past_indefinite: ["mentem", "mentél", "ment", "mentünk", "mentetek", "mentek"]
+            past_indefinite: ["mentem", "mentél", "ment", "mentünk", "mentetek", "mentek"],
+            past_definite: ["", "", "", "", "", ""],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -315,7 +341,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["nézek", "nézel", "néz", "nézünk", "néztek", "néznek"],
 			present_definite: ["nézem", "nézed", "nézi", "nézzük", "nézitek", "nézik"],
-			past_indefinite: ["néztem", "néztél", "nézett", "néztünk", "néztetek", "néztek"]
+			past_indefinite: ["néztem", "néztél", "nézett", "néztünk", "néztetek", "néztek"],
+			past_definite: ["néztem", "nézted", "nézte", "néztük", "néztétek", "nézték"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -325,7 +352,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["olvasok", "olvasol", "olvas", "olvasunk", "olvastok", "olvasnak"],
             present_definite: ["olvasom", "olvasod", "olvassa", "olvassuk", "olvassátok", "olvassák"],
-            past_indefinite: ["olvastam", "olvastál", "olvasott", "olvastunk", "olvastatok", "olvastak"]
+            past_indefinite: ["olvastam", "olvastál", "olvasott", "olvastunk", "olvastatok", "olvastak"],
+            past_definite: ["olvastam", "olvastad", "olvasta", "olvastuk", "olvastátok", "olvasták"],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -335,7 +363,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["pihenek", "pihensz", "pihen", "pihenünk", "pihentek", "pihennek"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["pihentem", "pihentél", "pihent", "pihentünk", "pihentetek", "pihentek"]
+			past_indefinite: ["pihentem", "pihentél", "pihent", "pihentünk", "pihentetek", "pihentek"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -345,7 +374,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["repülök", "repülsz", "repül", "repülünk", "repültök", "repülnek"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["repültem", "repültél", "repült", "repültünk", "repültetek", "repültek"]
+			past_indefinite: ["repültem", "repültél", "repült", "repültünk", "repültetek", "repültek"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -355,7 +385,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["segítek", "segítesz", "segít", "segítünk", "segítetek", "segítenek"],
 			present_definite: ["segítem", "segíted", "segíti", "segítjük", "segítitek", "segítik"],
-			past_indefinite: ["segítettem", "segítettél", "segített", "segítettünk", "segítettetek", "segítettek"]
+			past_indefinite: ["segítettem", "segítettél", "segített", "segítettünk", "segítettetek", "segítettek"],
+			past_definite: ["segítettem", "segítetted", "segítette", "segítettük", "segítettétek", "segítették"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -365,7 +396,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["sütök", "sütsz", "süt", "sütünk", "süttök", "sütnek"],
 			present_definite: ["sütöm", "sütöd", "süti", "sütjük", "sütitek", "sütik"],
-			past_indefinite: ["sütöttem", "sütöttél", "sütött", "sütöttünk", "sütöttetek", "sütöttek"]
+			past_indefinite: ["sütöttem", "sütöttél", "sütött", "sütöttünk", "sütöttetek", "sütöttek"],
+			past_definite: ["sütöttem", "sütötted", "sütötte", "sütöttük", "sütöttétek", "sütötték"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -375,7 +407,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["takarítok", "takarítasz", "takarít", "takarítunk", "takarítotok", "takarítanak"],
             present_definite: ["takarítom", "takarítod", "takarítja", "takarítjuk", "takarítjátok", "takarítják"],
-            past_indefinite: ["takarítottam", "takarítottál", "takarított", "takarítottunk", "takarítottatok", "takarítottak"]
+            past_indefinite: ["takarítottam", "takarítottál", "takarított", "takarítottunk", "takarítottatok", "takarítottak"],
+            past_definite: ["takarítottam", "takarítottad", "takarította", "takarítottuk", "takarítottátok", "takarították"],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -385,7 +418,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["tálalok", "tálalsz", "tálal", "tálalunk", "tálaltok", "tálalnak"],
 			present_definite: ["tálalom", "tálalod", "tálalja", "tálaljuk", "tálaljátok", "tálalják"],
-			past_indefinite: ["tálaltam", "tálaltál", "tálalt", "tálaltunk", "tálaltatok", "tálaltak"]
+			past_indefinite: ["tálaltam", "tálaltál", "tálalt", "tálaltunk", "tálaltatok", "tálaltak"],
+			past_definite: ["tálaltam", "tálaltad", "tálalta", "tálaltuk", "tálaltátok", "tálalták"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -395,7 +429,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["találkozom", "találkozol", "találkozik", "találkozunk", "találkoztok", "találkoznak"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["találkoztam", "találkoztál", "találkozott", "találkoztunk", "találkoztatok", "találkoztak"]
+			past_indefinite: ["találkoztam", "találkoztál", "találkozott", "találkoztunk", "találkoztatok", "találkoztak"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -405,7 +440,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["táncolok", "táncolsz", "táncol", "táncolunk", "táncoltok", "táncolnak"],
             present_definite: ["táncolom", "táncolod", "táncolja", "táncoljuk", "táncoljátok", "táncolják"],
-            past_indefinite: ["táncoltam", "táncoltál", "táncolt", "táncoltunk", "táncoltatok", "táncoltak"]
+            past_indefinite: ["táncoltam", "táncoltál", "táncolt", "táncoltunk", "táncoltatok", "táncoltak"],
+            past_definite: ["táncoltam", "táncoltad", "táncolta", "táncoltuk", "táncoltátok", "táncolták"],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -415,7 +451,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["tanítok", "tanítasz", "tanít", "tanítunk", "tanítotok", "tanítanak"],
 			present_definite: ["tanítom", "tanítod", "tanítja", "tanítjuk", "tanítjátok", "tanítják"],
-			past_indefinite: ["tanítottam", "tanítottál", "tanított", "tanítottunk", "tanítottatok", "tanítottak"]
+			past_indefinite: ["tanítottam", "tanítottál", "tanított", "tanítottunk", "tanítottatok", "tanítottak"],
+			past_definite: ["tanítottam", "tanítottad", "tanította", "tanítottuk", "tanítottátok", "tanították"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -425,7 +462,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["tanulok", "tanulsz", "tanul", "tanulunk", "tanultok", "tanulnak"],
             present_definite: ["tanulom", "tanulod", "tanulja", "tanuljuk", "tanuljátok", "tanulják"],
-            past_indefinite: ["tanultam", "tanultál", "tanult", "tanultunk", "tanultatok", "tanultak"]
+            past_indefinite: ["tanultam", "tanultál", "tanult", "tanultunk", "tanultatok", "tanultak"],
+            past_definite: ["tanultam", "tanultad", "tanulta", "tanultuk", "tanultátok", "tanulták"],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -435,7 +473,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["teszek", "teszel", "tesz", "teszünk", "tesztek", "tesznek"],
 			present_definite: ["teszem", "teszed", "teszi", "tesszük", "teszitek", "teszik"],
-			past_indefinite: ["tettem", "tettél", "tett", "tettünk", "tettetek", "tettek"]
+			past_indefinite: ["tettem", "tettél", "tett", "tettünk", "tettetek", "tettek"],
+			past_definite: ["tettem", "tetted", "tette", "tettük", "tettétek", "tették"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -445,7 +484,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["tetszem", "tetszel", "tetszik", "tetszünk", "tetszetek", "tetszenek"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["tetszettem", "tetszettél", "tetszett", "tetszettünk", "tetszettetek", "tetszettek"]
+			past_indefinite: ["tetszettem", "tetszettél", "tetszett", "tetszettünk", "tetszettetek", "tetszettek"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -455,7 +495,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["tudok", "tudsz", "tud", "tudunk", "tudtok", "tudnak"],
 			present_definite: ["tudom", "tudod", "tudja", "tudjuk", "tudjátok", "tudják"],
-			past_indefinite: ["tudtam", "tudtál", "tudott", "tudtunk", "tudtatok", "tudtak"]
+			past_indefinite: ["tudtam", "tudtál", "tudott", "tudtunk", "tudtatok", "tudtak"],
+			past_definite: ["tudtam", "tudtad", "tudta", "tudtuk", "tudtátok", "tudták"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -465,7 +506,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["történek", "történsz", "történik", "történünk", "történtek", "történnek"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["történtem", "történtél", "történt", "történtünk", "történtetek", "történtek"]
+			past_indefinite: ["történtem", "történtél", "történt", "történtünk", "történtetek", "történtek"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -475,7 +517,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["leszek", "leszel", "lesz", "leszünk", "lesztek", "lesznek"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["lettem", "lettél", "lett", "lettünk", "lettetek", "lettek"]
+			past_indefinite: ["lettem", "lettél", "lett", "lettünk", "lettetek", "lettek"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -485,7 +528,8 @@ const verbs = [
         tenses: {
             present_indefinite: ["vagyok", "vagy", "van", "vagyunk", "vagytok", "vannak"],
             present_definite: ["", "", "", "", "", ""],
-            past_indefinite: ["voltam", "voltál", "volt", "voltunk", "voltatok", "voltak"]
+            past_indefinite: ["voltam", "voltál", "volt", "voltunk", "voltatok", "voltak"],
+            past_definite: ["", "", "", "", "", ""],
         }
     },
 /*-----------------------------------------------------------------*/
@@ -495,7 +539,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["ülök", "ülsz", "ül", "ülünk", "ültök", "ülnek"],
 			present_definite: ["ülöm", "ülöd", "üli", "üljük", "ülitek", "ülik"],
-			past_indefinite: ["ültem", "ültél", "ült", "ültünk", "ültetek", "ültek"]
+			past_indefinite: ["ültem", "ültél", "ült", "ültünk", "ültetek", "ültek"],
+			past_definite: ["ültem", "ülted", "ülte", "ültük", "ültétek", "ülték"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -505,7 +550,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["úszom", "úszol", "úszik", "úszunk", "úsztok", "úsznak"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["úsztam", "úsztál", "úszott", "úsztunk", "úsztatok", "úsztak"]
+			past_indefinite: ["úsztam", "úsztál", "úszott", "úsztunk", "úsztatok", "úsztak"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -515,7 +561,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["utazom", "utazol", "utazik", "utazunk", "utaztok", "utaznak"],
 			present_definite: ["", "", "", "", "", ""],
-			past_indefinite: ["utaztam", "utaztál", "utazott", "utaztunk", "utaztatok", "utaztak"]
+			past_indefinite: ["utaztam", "utaztál", "utazott", "utaztunk", "utaztatok", "utaztak"],
+			past_definite: ["", "", "", "", "", ""],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -525,7 +572,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["vásárolok", "vásárolsz", "vásárol", "vásárolunk", "vásároltok", "vásárolnak"],
 			present_definite: ["vásárolom", "vásárolod", "vásárolja", "vásároljuk", "vásároljátok", "vásárolják"],
-			past_indefinite: ["vásároltam", "vásároltál", "vásárolt", "vásároltunk", "vásároltatok", "vásároltak"]
+			past_indefinite: ["vásároltam", "vásároltál", "vásárolt", "vásároltunk", "vásároltatok", "vásároltak"],
+			past_definite: ["vásároltam", "vásároltad", "vásárolta", "vásároltuk", "vásároltátok", "vásárolták"],
 		}
     },
 /*-----------------------------------------------------------------*/
@@ -535,7 +583,8 @@ const verbs = [
         tenses: {
 			present_indefinite: ["veszek", "veszel", "vesz", "veszünk", "vesztek", "vesznek"],
 			present_definite: ["veszem", "veszed", "veszi", "vesszük", "veszitek", "veszik"],
-			past_indefinite: ["vettem", "vettél", "vett", "vettünk", "vettetek", "vettek"]
+			past_indefinite: ["vettem", "vettél", "vett", "vettünk", "vettetek", "vettek"],
+			past_definite: ["vettem", "vetted", "vette", "vettük", "vettétek", "vették"],
 		}
     }
 /*-----------------------------------------------------------------*/
