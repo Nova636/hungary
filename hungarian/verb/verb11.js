@@ -270,6 +270,17 @@ const verbs = [
     },
 /*-----------------------------------------------------------------*/
     {
+        infinitive: "kérdezni",
+        meaning: "提问、询问",
+        tenses: {
+			present_indefinite: ["kérdezek", "kérdezel", "kérdez", "kérdezünk", "kérdeztek", "kérdeznek"],
+			present_definite: ["kérdezem", "kérdezed", "kérdezi", "kérdezzük", "kérdezitek", "kérdezik"],
+			past_indefinite: ["kérdeztem", "kérdeztél", "kérdezett", "kérdeztünk", "kérdeztetek", "kérdeztek"],
+			past_definite: ["kérdeztem", "kérdezted", "kérdezte", "kérdeztük", "kérdeztétek", "kérdezték"]
+		}
+    },
+/*-----------------------------------------------------------------*/
+    {
         infinitive: "keresni",
         meaning: "寻找",
         tenses: {
@@ -333,6 +344,17 @@ const verbs = [
             past_indefinite: ["mentem", "mentél", "ment", "mentünk", "mentetek", "mentek"],
             past_definite: ["", "", "", "", "", ""],
         }
+    },
+/*-----------------------------------------------------------------*/
+    {
+        infinitive: "mosni",
+        meaning: "洗",
+        tenses: {
+			present_indefinite: ["mosok", "mosol", "mos", "mosunk", "mostok", "mosnak"],
+			present_definite: ["mosom", "mosod", "mossa", "mossuk", "mossátok", "mossák"],
+			past_indefinite: ["mostam", "mostál", "mosott", "mostunk", "mostatok", "mostak"],
+			past_definite: ["mostam", "mostad", "mosta", "mostuk", "mostátok", "mosták"]
+		}
     },
 /*-----------------------------------------------------------------*/
     {
